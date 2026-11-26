@@ -1,2 +1,8 @@
 __pycache__/
+*.pyc
 data/
+_scratch/
+.tmp/
+resources/
+research/cases/
+research/reference/

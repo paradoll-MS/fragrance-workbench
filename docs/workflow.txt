@@ -1,0 +1,94 @@
+Workflow ／ 目标位阶段与动作
+
+一个目标位按自己的阶段推进，不按项目推进。项目、方向、目标的「完成」都是目标位完成后倒推出来的，不单独点完成。
+
+阶段只有六个
+  planned      还没定方案（保留位：页面在这一步选策略并直接建目标位，正常流程不会停在 planned）
+  developing   在开发（仿香 / 创香 / 改香）
+  checking     检查与放行（含入库与二查）
+  shipping     备样与寄样
+  complete     已完成（正式寄样回执 或 入库验收）
+  cancelled    主动结束
+
+每个阶段能做什么，由 gates.ACTIONS 定义，由 gates.available 给出「可点 / 置灰 + 原因」；不在当前阶段清单里的动作直接报「当前阶段不能执行该动作」，避免旧页面越过流程。
+  planned      pick（选定库香）/ develop（启动开发）/ pause
+  developing   confirm_gc / accept_trial / reject_trial / pause
+  checking     build_checks / dispatch_checks / release_warehouse / dispatch_warehouse /
+               accept_warehouse / release_initial / release_formal / pause
+  shipping     prepare_sample / dispatch_shipment / pause
+  complete     无
+  cancelled    无
+
+阶段怎么变
+  pick → checking
+  develop → developing
+  accept_trial → checking
+  release_initial → shipping（寄样回执后回到 checking）
+  release_formal → shipping（寄样回执后 complete）
+  其余动作不改阶段：入库放行、派发入库、确认入库都在 checking 内完成
+  确认入库且终点是入库时 → complete；开发子项确认入库 → complete，并把香精写回父目标位
+
+动作的前提写在 gates.issues，缺条件就返回 issues，页面把按钮置灰并写清缺什么
+  例：release_formal 缺检查清单 → check_context_missing「检查清单・先生成检查清单」
+  例：dispatch_shipment 缺样品 → sample_unavailable「实物样・先准备样品」
+
+两条主链
+
+一、选香（直接交付）
+  建项 → 收资料 → 拆方向或手填 → 确认方向
+    → plan(select)：目标位直接进 checking，带香精编号与版本
+    → build_checks：生成清单，已有证据的项当场核销
+    → dispatch_checks：只派未核销项，按部门分组；全已核销就不派
+    → 部门回执：逐条写证据，状态改为 passed / failed
+    → release_initial（客户要先看样时）
+        有 failed → 不过
+        未核销项全是 deferrable 且写了备注 → 通过，记 deferred
+        有 blocked 类未核销项 → 不过（合规、市场、法规、额外要求不给缓）
+        通过后进 shipping，prepare_sample → dispatch_shipment → 寄样回执 → 回到 checking
+    → release_formal：任何未核销项都不过
+    → prepare_sample → dispatch_shipment → 寄样回执 → complete
+    → 目标位 complete，项目完成
+
+二、开发（仿香 / 创香 / 改香）
+  确认方向 → plan(duplicate / create / modify)
+    → 建父目标位（developing）与开发子方向（final_endpoint = warehouse_return）
+    → 仿香先派 analysis；创香与改香直接派 perfumery
+    → 分析回执：写 GC 报告并自动派调香；confirm_gc 只做人工确认，不重复派任务
+    → 调香回执：写 trial（试作香精编号、版本、说明）
+    → accept_trial / reject_trial
+        仿香没有 GC 报告不能验收（gc_pending）
+        退回必须写意见，迭代号 +1，自动派下一轮调香
+        验收写 evaluation，把香精与版本写到子目标位，进 checking
+    → build_checks（入库 scope）→ dispatch_checks → 回执
+    → release_warehouse：任何未核销项都不过
+    → dispatch_warehouse → 入库回执 → accept_warehouse
+        写入库记录；子方向 complete；香精与版本写回父目标位
+        入库时给的正式编号/版本会一起改证据的键，父项二查才能复用
+        父目标位回到 checking
+    → 父目标位二查：build_checks（交付 scope，通常复用子方向已有证据）
+    → release_formal → prepare_sample → dispatch_shipment → 回执
+    → 父目标位 complete
+
+初寄样与正式寄样
+  初寄样是「先给客户看一眼」，可以带暂缓项，但必须在放行备注里写清缓了什么。
+  正式寄样是「这批就这样交付」，任何未核销项都不过。
+  初寄样回执后目标位不结束，回到 checking；正式寄样回执后才 complete。
+  一个目标位同一 kind 只记一条寄样，重复回执不加行。
+
+阻断的三种情况，不要混
+  一、数据还不到：返回 issues，阶段不动，页面显示原因与下一步。这是常态，不是错误。
+  二、动作跑了但业务结论是不过：写一条 release_decision（verdict = blocked），抛 StepBlocked，
+      在命令边界转成 {blocked: true, issues: [...]}，阶段同样不动。
+  三、参数非法、对象不存在、越权：抛 ValueError，HTTP 400，页面提示具体对象与动作。
+
+问题（Issue）随数据变化自动收
+  build_checks 后 check_context_missing 自动消失
+  补了样品后 sample_unavailable 自动消失
+  回执到齐后 check_pending 自动消失
+  页面不提供「关闭问题」，因为问题不是待办，是状态的影子。
+
+完成条件
+  目标位：正式寄样回执 或 入库验收 后 complete
+  目标：所有目标位 complete
+  方向：所有目标 complete；开发子方向 completed 即算完成，父方向继续
+  项目：所有非开发方向 completed，且没有 active 子方向

@@ -1,0 +1,52 @@
+project/
+│
+├─ README.md                 项目地图
+│
+├─ docs/
+│   ├─ wanted.txt            原始业务标准
+│   ├─ workflow.txt          完整工程化流程树
+│   ├─ architecture.md       工程架构及模块关系
+│   ├─ objects.md            对象与字段定义
+│   ├─ functions.md          函数定义及调用契约
+│   ├─ intelligence.md        Parse、Targeting与模型
+│   ├─ data.md               数据来源与中台对接
+│   ├─ ui.md                 页面及交互规范
+│   └─ decisions.md          重要业务决策记录
+│
+├─ app/
+│   ├─ domain/               业务对象
+│   ├─ workflow/             流程编排
+│   ├─ intelligence/         LLM能力
+│   │   ├─ parse/
+│   │   └─ targeting/
+│   ├─ recommendation/       独立推荐模块
+│   ├─ checking/             独立检查模块
+│   ├─ services/             公共业务服务
+│   └─ adapters/             外部系统接口
+│
+├─ resources/
+│   ├─ ABC/
+│   ├─ checking/
+│   ├─ categories/
+│   ├─ dictionaries/
+│   └─ prompts/
+│
+├─ frontend/                 评香平台
+├─ mock_platform/            模拟中台及部门界面
+│
+├─ data/
+│   ├─ source/               原始资料
+│   ├─ processed/            清洗后的业务数据
+│   └─ feedback/
+│       ├─ parse/
+│       ├─ targeting/
+│       └─ recommendation/
+│
+├─ tests/
+│   ├─ cases/                真实业务案例
+│   ├─ modules/              独立模块测试
+│   └─ workflows/            完整链路测试
+│
+└─ research/
+    ├─ model_trials/         模型试验
+    └─ recommendation/       推荐结果逐案反思

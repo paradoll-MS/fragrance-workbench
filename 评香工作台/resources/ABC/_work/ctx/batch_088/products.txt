@@ -1,0 +1,7 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0019	BR_001	香奈儿	La Pausa	法式别墅	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0045	BR_003	爱马仕	Un Jardin sur la Lagune	泻湖花园	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0081	BR_007	勒莱柏	Santal 33	檀香33；檀香木33	12	官网已核验存在	https://www.lelabofragrances.com/classic-collection.html	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0202	BR_023	信仰	Royal Oud	皇家沉香	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0291	BR_051	古特尔	Petite Chérie	古特尔 小甜心	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0294	BR_052	帕尔玛之水	Blu Mediterraneo Mirto di Panarea	桃金娘加州桂	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

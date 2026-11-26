@@ -1,0 +1,2 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0126	兰蔻	La Vie Est Belle	LA VIE EST BELLE；美丽人生	待检索核验

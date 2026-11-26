@@ -1,0 +1,4 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0002	香奈儿	Chance	邂逅；邂逅（黄邂逅）；黄邂逅	待检索核验
+PR_0022	祖玛珑	Wild Bluebell	蓝色风铃草；蓝风铃	官网已核验存在
+PR_0230	安娜苏	Fantasia Mermaid	筑梦人鱼；美人鱼	待检索核验

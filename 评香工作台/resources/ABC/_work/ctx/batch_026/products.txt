@@ -1,0 +1,6 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0068	BR_005	汤姆·福特	Tobacco Vanille	烟叶香草	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0137	BR_014	迪奥	Tendre Poison	温柔奇葩；绿毒	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0195	BR_022	娇兰	Samsara	圣莎拉	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0197	BR_022	娇兰	Shalimar	一千零一夜	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0218	BR_028	大卫杜夫	Cool Water Man	冷水男士	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

@@ -1,0 +1,11 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0013	BR_001	香奈儿	Allure Homme Sport	魅力男士运动	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0121	BR_012	宝格丽	Omnia Crystalline	晶莹纯香（白晶）	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0132	BR_014	迪奥	Miss Dior Blooming Bouquet	花漾甜心	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0141	BR_015	范思哲	Bright Crystal	香恋水晶（粉钻）	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0212	BR_026	巴宝莉	London for Women	伦敦女士	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0217	BR_027	三宅一生	L’Eau d’Issey Pour Homme	一生之水男士	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0218	BR_028	大卫杜夫	Cool Water Man	冷水男士	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0221	BR_029	伊丽莎白雅顿	5th Avenue	第五大道	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0326	BR_063	克莱恩	Eternity for Men	永恒男士	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0328	BR_063	克莱恩	Truth for Men	真情男士；真理男士	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

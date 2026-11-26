@@ -1,0 +1,7 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0018	BR_001	香奈儿	Bel Respiro	珍藏系列 绿色气息	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0099	BR_008	柏芮朵	Black Saffron	黑色藏红花；黑藏红花	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0128	BR_013	兰蔻	Idôle	兰蔻 偶像	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0279	BR_047	高缇耶	Scandal	绯闻 高缇耶；绯闻高缇耶	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0293	BR_052	帕尔玛之水	Blu Mediterraneo Mandorlo di Sicilia	西西里岛杏仁	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0336	BR_002	祖玛珑	Cherry Blossom	樱花2018限量；祖玛珑樱花	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

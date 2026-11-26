@@ -1,0 +1,4 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0039	BR_003	爱马仕	Terre d’Hermès	大地；大地男士；爱马仕大地；马仕大地	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0040	BR_003	爱马仕	Un Jardin sur le Nil	尼罗河花园	6	官网已核验存在	https://www.hermes.com/us/en/content/283124-fragrances-collection-jardins/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0118	BR_012	宝格丽	Pour Homme	大吉岭茶	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

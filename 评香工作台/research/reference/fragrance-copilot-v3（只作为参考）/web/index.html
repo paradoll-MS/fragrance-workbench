@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-CN"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>香精项目 Copilot v3</title>
+<link rel="stylesheet" href="/style.css">
+</head><body>
+<header class="top">
+  <div><span class="brand">香精项目 Copilot</span><span class="sub">v3 · 资料 → 全景理解 → 任务推进</span></div>
+  <div class="actions">
+    <button id="homeBtn">项目列表</button>
+    <button id="newBtn" class="primary">新建项目</button>
+  </div>
+</header>
+<main id="app">正在载入…</main>
+<dialog id="newDialog"><form method="dialog" id="newForm">
+  <h2>新建项目</h2>
+  <div class="form-grid">
+    <label class="field">项目名<input name="name" required placeholder="客户/项目简称"></label>
+    <label class="field">客户<input name="customer" placeholder="客户名"></label>
+    <label class="field">品牌<input name="brand" placeholder="品牌"></label>
+    <label class="field">销售<input name="sales" placeholder="销售"></label>
+  </div>
+  <div class="toolbar"><button value="cancel">取消</button><button class="primary" value="create">创建</button></div>
+</form></dialog>
+<div id="toast" class="toast"></div>
+<footer>fragrance-copilot v3 · 本地试用 · 资料与判断可追溯</footer>
+<script src="/app.js"></script>
+</body></html>
+

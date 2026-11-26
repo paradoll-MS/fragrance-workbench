@@ -1,0 +1,7 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0018	香奈儿	Bel Respiro	珍藏系列 绿色气息	待检索核验
+PR_0099	柏芮朵	Black Saffron	黑色藏红花；黑藏红花	待检索核验
+PR_0128	兰蔻	Idôle	兰蔻 偶像	待检索核验
+PR_0279	高缇耶	Scandal	绯闻 高缇耶；绯闻高缇耶	待检索核验
+PR_0293	帕尔玛之水	Blu Mediterraneo Mandorlo di Sicilia	西西里岛杏仁	待检索核验
+PR_0336	祖玛珑	Cherry Blossom	樱花2018限量；祖玛珑樱花	待检索核验

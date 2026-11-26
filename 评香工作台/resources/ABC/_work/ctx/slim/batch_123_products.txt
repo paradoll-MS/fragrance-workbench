@@ -1,0 +1,5 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0015	香奈儿	31 Rue Cambon	康朋街31号	待检索核验
+PR_0052	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	官网已核验存在
+PR_0076	蒂普提克	Eau de Lierre	利埃尔；常春藤之水	待检索核验
+PR_0117	梅森·马吉拉	Flower Market	鲜花市场	待检索核验

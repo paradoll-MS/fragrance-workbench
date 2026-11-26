@@ -1,0 +1,7 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0114	梅森·马吉拉	Matcha Meditation	抹茶冥想	待检索核验
+PR_0247	拉塔法	Ajwad	拉塔法AJWAA；阿吉瓦德（未分版）	待检索核验
+PR_0249	拉塔法	Dream of Haze	雾境幻梦	待检索核验
+PR_0259	阿芙南	9PM Elixir	9PM Elixir；下午9点馥郁版；下午9点（馥郁版）	待检索核验
+PR_0260	海湾兰花	Mango Ice	Gulf Orchid Mango Ice；海湾兰花-芒果冰	待检索核验
+PR_0279	高缇耶	Scandal	绯闻 高缇耶；绯闻高缇耶	待检索核验

@@ -1,0 +1,9 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0046	爱马仕	Eau d’Orange Verte	橘绿之泉；爱马仕-橘绿	待检索核验
+PR_0058	汤姆·福特	Oud Wood	TF-沉香；珍华乌木	待检索核验
+PR_0081	勒莱柏	Santal 33	檀香33；檀香木33	官网已核验存在
+PR_0083	勒莱柏	Thé Noir 29	红茶29	官网已核验存在
+PR_0096	柏芮朵	Mojave Ghost	荒漠孤魂；莫哈维之影	官网已核验存在
+PR_0110	梅森·马吉拉	Lazy Sunday Morning	慵懒周日	待检索核验
+PR_0111	梅森·马吉拉	By the Fireplace	壁炉火光；温暖壁炉	待检索核验
+PR_0113	梅森·马吉拉	Bubble Bath	泡泡浴	待检索核验

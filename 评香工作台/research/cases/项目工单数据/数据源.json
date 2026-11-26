@@ -1,0 +1,18 @@
+{
+  "_说明": "每张源表只能有一份 SQL 导出。更换导出（如新一轮全量快照）时只改这里的路径，然后运行 build_db.py --rebuild；旧导出保留在原目录，不参与构建。",
+  "_导出时间": {
+    "w_bo_xs_projectmanage": "2026-11-18 12:23:33",
+    "w_bo_gd_20250707155940": "2026-11-18 12:17:22",
+    "w_wo_sample_details": "2026-11-18 12:22:11"
+  },
+  "sql": {
+    "w_bo_xs_projectmanage": "C:\\Users\\26519\\Desktop\\FFworkspace\\新添\\w_bo_xs_projectmanage.sql",
+    "w_bo_gd_20250707155940": "C:\\Users\\26519\\Desktop\\FFworkspace\\新添\\w_bo_gd_20250707155940.sql",
+    "w_wo_sample_details": "C:\\Users\\26519\\Desktop\\FFworkspace\\新添\\w_wo_sample_details.sql",
+    "w_bo_yp_sample_library": "C:\\Users\\26519\\Desktop\\本地香精库和项目工单\\w_bo_yp_sample_library.sql"
+  },
+  "_历史补录": "上一轮导出（2026-08-25）里有、本轮 11-18 全量快照里已删除的样品行，会补录并标 data_state=not_in_latest_export。可以给目录，目录内所有 .sql 都会被读，只取新快照缺失的行。",
+  "carry_over_from": {
+    "w_wo_sample_details": "C:\\Users\\26519\\Desktop\\本地香精库和项目工单\\项目及工单数据_解压"
+  }
+}

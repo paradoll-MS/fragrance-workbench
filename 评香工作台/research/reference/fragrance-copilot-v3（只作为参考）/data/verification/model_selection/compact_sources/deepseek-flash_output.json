@@ -1,0 +1,1170 @@
+{
+  "brief": {
+    "project": {
+      "name": "权力_trial",
+      "customer": "上海赤翎川月科技有限公司",
+      "brand": "chi",
+      "sales": "逯柏松",
+      "evaluator": "评香",
+      "summary": "客户chi（上海赤翎川月科技有限公司）提出4款香型需求，用于护肤级别料体做成的无酒精香氛产品，香精成本上限2000元/kg，要求避开传统花香果香调，以纸张、墨水、皮革、美食（谷物）、金属、酒香等方向为主。销售逯柏松回复前期无创香费用、首批起订5kg、再次下单最小10kg，并安排寄样至上海虹口区，客户产品助理渝淇跟进。",
+      "customer_profile": "上海赤翎川月科技有限公司，品牌chi，正在开发无酒精香氛产品线。",
+      "contacts": [
+        {
+          "name": "柳兰若",
+          "role": "收件人",
+          "organization": "上海赤翎川月科技有限公司",
+          "phone": "13701266645",
+          "channel": "微信"
+        },
+        {
+          "name": "渝淇",
+          "role": "产品助理",
+          "organization": "上海赤翎川月科技有限公司",
+          "channel": "微信"
+        }
+      ],
+      "coordination_notes": "客户拉群由产品助理渝淇跟进；样品寄至上海市虹口区东长治路505号雷士德工学院旧址快递室，收件人柳兰若。"
+    },
+    "product": {
+      "category_l1": "高级香氛",
+      "category_l2": "个人香氛",
+      "category_l3": "香水油",
+      "application": "无酒精香氛产品",
+      "form": "护肤级别的料体",
+      "substrate": "护肤级别无酒精料体（具体基质待确认）"
+    },
+    "scent": {
+      "theme": "4款非传统花果香方向：金钱的味道（海水+金属+纸张）、权力的游戏（印泥+木质焚香+粮食）、天赋的传承（书卷气+墨水+茶咖啡）、名望的中心（胶卷+镁光灯灼烧+红酒香）",
+      "exclusions": [
+        "传统花香果香调"
+      ]
+    },
+    "commercial": {
+      "target_price": 2000,
+      "sample_due": "本周五（2026-08-18所在周，即2026-08-22）"
+    },
+    "deliverables": {
+      "type": "选香/创香",
+      "quantity": "4款香",
+      "recipient": "柳兰若，上海市虹口区东长治路505号雷士德工学院旧址快递室，13701266645",
+      "notes": "前期无创香费用；首批起订5kg，再次下单最小10kg。"
+    },
+    "evidence": {
+      "project.customer": [
+        {
+          "source_id": "S16"
+        }
+      ],
+      "project.sales": [
+        {
+          "source_id": "S3"
+        }
+      ],
+      "product.application": [
+        {
+          "source_id": "S5"
+        }
+      ],
+      "product.form": [
+        {
+          "source_id": "S5"
+        }
+      ],
+      "scent.exclusions": [
+        {
+          "source_id": "S7"
+        }
+      ],
+      "commercial.target_price": [
+        {
+          "source_id": "S5"
+        }
+      ],
+      "deliverables.recipient": [
+        {
+          "source_id": "S8"
+        }
+      ],
+      "deliverables.notes": [
+        {
+          "source_id": "S3"
+        }
+      ]
+    },
+    "open_questions": [
+      {
+        "question": "客户既说‘4款香的创香需求’，又说‘在现有香型里选一选相对特别一点的’，本次交付以现有库选香试香为主还是直接原创创香为主需确认",
+        "impact": "影响研发执行路径（选香 vs 创香）",
+        "owner": "评香"
+      },
+      {
+        "question": "【油质】【水质】标签指香精溶剂类型还是终产品剂型未明确",
+        "impact": "影响配方开发与打样基质选择",
+        "owner": "评香"
+      },
+      {
+        "question": "品类可能为香水油（K002），也可能是香水（K001）或香膏（K003），需确认终产品剂型",
+        "impact": "影响规范类与推荐范围",
+        "owner": "评香"
+      },
+      {
+        "question": "‘护肤级别料体’是否涉及原料合规、宣称依据、检测/备案要求需确认",
+        "impact": "影响法规/原料/寄样",
+        "owner": "销售"
+      }
+    ]
+  },
+  "story": {
+    "summary": "2026年8月12日，客户chi通过微信向双马香精销售逯柏松提出4款香型需求（金钱的味道、权力的游戏、天赋的传承、名望的中心），用于护肤级别料体做成的无酒精香氛产品，香精成本上限2000元/kg，要求避开传统花香果香调，以纸张、墨水、皮革、美食（谷物）、金属、酒香等方向为主。销售回复前期无创香费用、首批起订5kg、再次下单最小10kg，并索取公司名称与产品价格信息。客户提供公司名上海赤翎川月科技有限公司及上海虹口区寄样地址。8月17日客户询问样品寄出时间，8月18日销售回复预计本周五寄出，客户拉群由产品助理渝淇跟进。",
+    "timeline": [
+      {
+        "date": "2026-08-12 15:14",
+        "event": "客户提出4款香型需求并询问合作模式与起订量",
+        "source_refs": [
+          {
+            "source_id": "S1"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-12 15:23",
+        "event": "销售回复前期无创香费用、首批5kg起订、再次下单最小10kg，并询问产品与成本",
+        "source_refs": [
+          {
+            "source_id": "S3"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-12 15:35",
+        "event": "客户说明用护肤级别料体做无酒精香氛产品，香精成本上限2000元/kg",
+        "source_refs": [
+          {
+            "source_id": "S5"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-12 15:38",
+        "event": "客户要求从现有香型中选相对特别的、非传统花果香调，并提供寄样地址",
+        "source_refs": [
+          {
+            "source_id": "S7"
+          },
+          {
+            "source_id": "S8"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-12 15:43",
+        "event": "客户提供公司名上海赤翎川月科技有限公司",
+        "source_refs": [
+          {
+            "source_id": "S16"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-17 14:36",
+        "event": "客户询问样品寄出时间",
+        "source_refs": [
+          {
+            "source_id": "S18"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-18 10:12",
+        "event": "销售回复样品预计本周五寄出，客户拉群由产品助理渝淇跟进",
+        "source_refs": [
+          {
+            "source_id": "S19"
+          },
+          {
+            "source_id": "S20"
+          }
+        ]
+      }
+    ],
+    "decisions": [],
+    "conflicts": [
+      {
+        "description": "客户同时提出‘4款香的创香需求’与‘在现有香型里选一选相对特别一点的’，创香与选香路径存在歧义",
+        "source_refs": [
+          {
+            "source_id": "S1"
+          },
+          {
+            "source_id": "S7"
+          }
+        ]
+      }
+    ],
+    "open_questions": [
+      {
+        "question": "本次交付以现有库选香试香为主还是直接原创创香为主",
+        "owner": "评香"
+      },
+      {
+        "question": "【油质】【水质】指溶剂类型还是终产品剂型",
+        "owner": "评香"
+      }
+    ]
+  },
+  "artifact_annotations": [
+    {
+      "artifact_id": "a_7780c9a3cff449a9",
+      "source_type": "微信",
+      "role": "需求",
+      "summary": "客户提出4款香型创香需求及合作模式询问，销售回复起订量",
+      "relation": "initial",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "source_refs": [
+        {
+          "source_id": "S1"
+        },
+        {
+          "source_id": "S3"
+        }
+      ]
+    },
+    {
+      "artifact_id": "a_9c5bcf773f9f48b6",
+      "source_type": "微信",
+      "role": "需求",
+      "summary": "客户说明无酒精香氛产品、护肤级料体、香精成本上限2000/kg、非传统花果香方向，并提供寄样地址",
+      "relation": "supplement",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "source_refs": [
+        {
+          "source_id": "S5"
+        },
+        {
+          "source_id": "S7"
+        },
+        {
+          "source_id": "S8"
+        }
+      ]
+    },
+    {
+      "artifact_id": "a_604428087fe94475",
+      "source_type": "微信",
+      "role": "交接",
+      "summary": "客户提供公司名、询问样品寄出时间，销售回复本周五寄出，客户拉群由渝淇跟进",
+      "relation": "progression",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "source_refs": [
+        {
+          "source_id": "S16"
+        },
+        {
+          "source_id": "S19"
+        },
+        {
+          "source_id": "S20"
+        }
+      ]
+    }
+  ],
+  "subprojects": [
+    {
+      "id": "s_6487508897144ebb",
+      "key": "money",
+      "title": "权力_trial · 金钱的味道【油质】",
+      "task_type": "recommend_brand",
+      "type_basis": {
+        "reason": "客户要求从现有香型中选相对特别的非传统花果香方向，属结合定位/风格从库选香试香，非明确原创委托",
+        "confidence": 0.7
+      },
+      "parent_subproject_id": "",
+      "category_k_code": "K002",
+      "direction": "金钱的味道【油质】",
+      "brief": {
+        "scent": {
+          "theme": "海水味道，混合金属和纸张——金钱演化的历史",
+          "directions": [
+            "金钱的味道【油质】"
+          ],
+          "direction_notes": {
+            "金钱的味道【油质】": "海水味道，混合金属和纸张---金钱演化的历史"
+          },
+          "exclusions": [
+            "传统花香果香调"
+          ]
+        },
+        "evidence": {
+          "scent.theme": [
+            {
+              "source_id": "S1"
+            }
+          ],
+          "scent.exclusions": [
+            {
+              "source_id": "S7"
+            }
+          ]
+        }
+      },
+      "a1": [
+        "A1_08983b7cb0",
+        "A1_b5a9fee0dc",
+        "A1_ae4c302f33"
+      ],
+      "a2": [
+        "A2_d7ffd3d58c",
+        "A2_7096895fd1"
+      ],
+      "a3": [
+        "A3_acf9f75e75"
+      ],
+      "b": [
+        "B7_3c43a42913",
+        "B7_39099d1be7",
+        "B8_b9a1ecb14d"
+      ],
+      "target_cs": [
+        "C_828",
+        "C_826"
+      ],
+      "abc_basis": [
+        {
+          "id": "A1_08983b7cb0",
+          "evidence_role": "explicit_scent_target",
+          "reason": "客户明确说海水味道",
+          "confidence": 0.9,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A1_b5a9fee0dc",
+          "evidence_role": "explicit_scent_target",
+          "reason": "客户明确说混合金属",
+          "confidence": 0.9,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A1_ae4c302f33",
+          "evidence_role": "explicit_scent_target",
+          "reason": "客户明确说纸张",
+          "confidence": 0.9,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A2_d7ffd3d58c",
+          "evidence_role": "explicit_scent_target",
+          "reason": "海水味道对应海洋香韵",
+          "confidence": 0.8,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A2_7096895fd1",
+          "evidence_role": "explicit_scent_target",
+          "reason": "金属对应金属香韵",
+          "confidence": 0.8,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A3_acf9f75e75",
+          "evidence_role": "explicit_scent_target",
+          "reason": "海水+金属+纸张组合倾向海洋木质结构",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "B7_3c43a42913",
+          "evidence_role": "context",
+          "reason": "金钱演化历史带地域/历史叙事感",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "B7_39099d1be7",
+          "evidence_role": "context",
+          "reason": "金钱主题偏神秘知性",
+          "confidence": 0.4,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "B8_b9a1ecb14d",
+          "evidence_role": "context",
+          "reason": "非传统花果香、相对特别，具小众辨识感",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S7"
+            }
+          ]
+        },
+        {
+          "id": "C_828",
+          "evidence_role": "context",
+          "reason": "非传统花果香、相对特别，倾向小众概念香型",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S7"
+            }
+          ]
+        },
+        {
+          "id": "C_826",
+          "evidence_role": "context",
+          "reason": "个性创意定位",
+          "confidence": 0.4,
+          "source_refs": [
+            {
+              "source_id": "S7"
+            }
+          ]
+        }
+      ],
+      "brand_requirements": [],
+      "wants_hot": false,
+      "wants_new": false,
+      "target_products": [],
+      "base_formula_code": "",
+      "source_refs": [
+        {
+          "source_id": "S1"
+        },
+        {
+          "source_id": "S7"
+        }
+      ]
+    },
+    {
+      "id": "s_47342eeeabb54f25",
+      "key": "power",
+      "title": "权力_trial · 权力的游戏【油质】",
+      "task_type": "recommend_brand",
+      "type_basis": {
+        "reason": "客户要求从现有香型中选相对特别的非传统花果香方向，属结合定位/风格从库选香试香，非明确原创委托",
+        "confidence": 0.7
+      },
+      "parent_subproject_id": "",
+      "category_k_code": "K002",
+      "direction": "权力的游戏【油质】",
+      "brief": {
+        "scent": {
+          "theme": "印泥的味道（像印玺盖章），木质焚香的祭祀感觉，以及粮食的味道；国家之道在祀与戎，社稷即粮食",
+          "directions": [
+            "权力的游戏【油质】"
+          ],
+          "direction_notes": {
+            "权力的游戏【油质】": "印泥的味道【像是印玺要盖章】，木质焚香的祭祀感觉，以及粮食的味道。----国家之道，在祀与戎---祭祀和战争的感觉。----粮食是因为国家的感觉是社稷，社稷就是粮食"
+          },
+          "exclusions": [
+            "传统花香果香调"
+          ]
+        },
+        "evidence": {
+          "scent.theme": [
+            {
+              "source_id": "S1"
+            }
+          ],
+          "scent.exclusions": [
+            {
+              "source_id": "S7"
+            }
+          ]
+        }
+      },
+      "a1": [
+        "A1_f3bc3f8f6e",
+        "A1_45c8e8cdd8",
+        "A1_4a28b2d522"
+      ],
+      "a2": [
+        "A2_08a96403dd",
+        "A2_4d8dcb29ec",
+        "A2_bd02b43de9"
+      ],
+      "a3": [
+        "A3_9b65015838",
+        "A3_56256f1bd8"
+      ],
+      "b": [
+        "B7_5d3ff63710",
+        "B7_8a7400a842",
+        "B7_98367825bc"
+      ],
+      "target_cs": [
+        "C_828",
+        "C_132"
+      ],
+      "abc_basis": [
+        {
+          "id": "A1_f3bc3f8f6e",
+          "evidence_role": "explicit_scent_target",
+          "reason": "客户明确说印泥的味道",
+          "confidence": 0.9,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A1_45c8e8cdd8",
+          "evidence_role": "explicit_scent_target",
+          "reason": "客户明确说木质焚香的祭祀感觉",
+          "confidence": 0.9,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A1_4a28b2d522",
+          "evidence_role": "explicit_scent_target",
+          "reason": "客户明确说粮食的味道",
+          "confidence": 0.9,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A2_08a96403dd",
+          "evidence_role": "explicit_scent_target",
+          "reason": "焚香祭祀对应烟熏香韵",
+          "confidence": 0.7,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A2_4d8dcb29ec",
+          "evidence_role": "explicit_scent_target",
+          "reason": "木质焚香对应木质香韵",
+          "confidence": 0.7,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A2_bd02b43de9",
+          "evidence_role": "explicit_scent_target",
+          "reason": "粮食对应烘焙谷物香韵",
+          "confidence": 0.7,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A3_9b65015838",
+          "evidence_role": "explicit_scent_target",
+          "reason": "焚香+粮食+印泥组合倾向花香果香东方结构",
+          "confidence": 0.4,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A3_56256f1bd8",
+          "evidence_role": "explicit_scent_target",
+          "reason": "祭祀木质焚香倾向东方调",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "B7_5d3ff63710",
+          "evidence_role": "context",
+          "reason": "国家之道、祀与戎带文化叙事感",
+          "confidence": 0.6,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "B7_8a7400a842",
+          "evidence_role": "context",
+          "reason": "祭祀与权力主题偏奢华深邃",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "B7_98367825bc",
+          "evidence_role": "context",
+          "reason": "权力主题偏沉稳坚定",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "C_828",
+          "evidence_role": "context",
+          "reason": "非传统花果香、相对特别，倾向小众概念香型",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S7"
+            }
+          ]
+        },
+        {
+          "id": "C_132",
+          "evidence_role": "context",
+          "reason": "国家之道、祀与戎带文化表达",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        }
+      ],
+      "brand_requirements": [],
+      "wants_hot": false,
+      "wants_new": false,
+      "target_products": [],
+      "base_formula_code": "",
+      "source_refs": [
+        {
+          "source_id": "S1"
+        },
+        {
+          "source_id": "S7"
+        }
+      ]
+    },
+    {
+      "id": "s_b37525914c3e4fd4",
+      "key": "talent",
+      "title": "权力_trial · 天赋的传承【水质】",
+      "task_type": "recommend_brand",
+      "type_basis": {
+        "reason": "客户要求从现有香型中选相对特别的非传统花果香方向，属结合定位/风格从库选香试香，非明确原创委托",
+        "confidence": 0.7
+      },
+      "parent_subproject_id": "",
+      "category_k_code": "K002",
+      "direction": "天赋的传承【水质】",
+      "brief": {
+        "scent": {
+          "theme": "书卷气，墨水，图书馆的味道，茶和咖啡味道，学院派，大学里面的味道，有寒窗苦读的感觉",
+          "directions": [
+            "天赋的传承【水质】"
+          ],
+          "direction_notes": {
+            "天赋的传承【水质】": "书卷气，墨水，图书馆的味道，茶和咖啡味道，学院派，大学里面的味道\n有寒窗苦读的感觉。"
+          },
+          "exclusions": [
+            "传统花香果香调"
+          ]
+        },
+        "evidence": {
+          "scent.theme": [
+            {
+              "source_id": "S1"
+            }
+          ],
+          "scent.exclusions": [
+            {
+              "source_id": "S7"
+            }
+          ]
+        }
+      },
+      "a1": [
+        "A1_f3bc3f8f6e",
+        "A1_9454be9a6e",
+        "A1_a071d09c81",
+        "A1_8345ba498a"
+      ],
+      "a2": [
+        "A2_4a466148e1"
+      ],
+      "a3": [
+        "A3_9ac2664cce"
+      ],
+      "b": [
+        "B7_5d3ff63710",
+        "B7_39099d1be7",
+        "B6_5b934293b9"
+      ],
+      "target_cs": [
+        "C_828",
+        "C_132"
+      ],
+      "abc_basis": [
+        {
+          "id": "A1_f3bc3f8f6e",
+          "evidence_role": "explicit_scent_target",
+          "reason": "客户明确说墨水",
+          "confidence": 0.9,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A1_9454be9a6e",
+          "evidence_role": "explicit_scent_target",
+          "reason": "客户明确说茶的味道",
+          "confidence": 0.9,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A1_a071d09c81",
+          "evidence_role": "explicit_scent_target",
+          "reason": "客户明确说咖啡味道",
+          "confidence": 0.9,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A1_8345ba498a",
+          "evidence_role": "explicit_scent_target",
+          "reason": "客户明确说图书馆的味道、书卷气",
+          "confidence": 0.8,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A2_4a466148e1",
+          "evidence_role": "explicit_scent_target",
+          "reason": "寒窗苦读、学院派带药香/书卷联想",
+          "confidence": 0.4,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A3_9ac2664cce",
+          "evidence_role": "explicit_scent_target",
+          "reason": "茶+咖啡+墨水组合倾向茶香调",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "B7_5d3ff63710",
+          "evidence_role": "context",
+          "reason": "学院派、大学味道带文化感",
+          "confidence": 0.6,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "B7_39099d1be7",
+          "evidence_role": "context",
+          "reason": "书卷气、寒窗苦读偏神秘知性",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "B6_5b934293b9",
+          "evidence_role": "context",
+          "reason": "寒窗苦读带清醒专注意向",
+          "confidence": 0.4,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "C_828",
+          "evidence_role": "context",
+          "reason": "非传统花果香、相对特别，倾向小众概念香型",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S7"
+            }
+          ]
+        },
+        {
+          "id": "C_132",
+          "evidence_role": "context",
+          "reason": "学院派、书卷气带文化表达",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        }
+      ],
+      "brand_requirements": [],
+      "wants_hot": false,
+      "wants_new": false,
+      "target_products": [],
+      "base_formula_code": "",
+      "source_refs": [
+        {
+          "source_id": "S1"
+        },
+        {
+          "source_id": "S7"
+        }
+      ]
+    },
+    {
+      "id": "s_9248a3a812a9431c",
+      "key": "fame",
+      "title": "权力_trial · 名望的中心【水质】",
+      "task_type": "recommend_brand",
+      "type_basis": {
+        "reason": "客户要求从现有香型中选相对特别的非传统花果香方向，属结合定位/风格从库选香试香，非明确原创委托",
+        "confidence": 0.7
+      },
+      "parent_subproject_id": "",
+      "category_k_code": "K002",
+      "direction": "名望的中心【水质】",
+      "brief": {
+        "scent": {
+          "theme": "胶卷的味道，镁光灯的闪烁灼烧味道，还有觥筹交错的一点点红酒香",
+          "directions": [
+            "名望的中心【水质】"
+          ],
+          "direction_notes": {
+            "名望的中心【水质】": "胶卷的味道，镁光灯的闪烁灼烧味道，还有觥筹交错的一点点红酒香。"
+          },
+          "exclusions": [
+            "传统花香果香调"
+          ]
+        },
+        "evidence": {
+          "scent.theme": [
+            {
+              "source_id": "S1"
+            }
+          ],
+          "scent.exclusions": [
+            {
+              "source_id": "S7"
+            }
+          ]
+        }
+      },
+      "a1": [
+        "A1_15c503a2a5"
+      ],
+      "a2": [
+        "A2_08a96403dd",
+        "A2_7096895fd1"
+      ],
+      "a3": [
+        "A3_56256f1bd8"
+      ],
+      "b": [
+        "B7_15cec13e29",
+        "B7_8a7400a842",
+        "B8_b9a1ecb14d"
+      ],
+      "target_cs": [
+        "C_828",
+        "C_826"
+      ],
+      "abc_basis": [
+        {
+          "id": "A1_15c503a2a5",
+          "evidence_role": "explicit_scent_target",
+          "reason": "客户明确说觥筹交错的一点点红酒香",
+          "confidence": 0.9,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A2_08a96403dd",
+          "evidence_role": "explicit_scent_target",
+          "reason": "镁光灯闪烁灼烧对应烟熏香韵",
+          "confidence": 0.6,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A2_7096895fd1",
+          "evidence_role": "explicit_scent_target",
+          "reason": "胶卷、镁光灯带金属/灼烧联想",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "A3_56256f1bd8",
+          "evidence_role": "explicit_scent_target",
+          "reason": "红酒+灼烧+胶卷组合倾向东方调",
+          "confidence": 0.4,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "B7_15cec13e29",
+          "evidence_role": "context",
+          "reason": "名望中心、镁光灯带鲜明张扬",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "B7_8a7400a842",
+          "evidence_role": "context",
+          "reason": "名望主题偏奢华深邃",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S1"
+            }
+          ]
+        },
+        {
+          "id": "B8_b9a1ecb14d",
+          "evidence_role": "context",
+          "reason": "非传统花果香、相对特别，具小众辨识感",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S7"
+            }
+          ]
+        },
+        {
+          "id": "C_828",
+          "evidence_role": "context",
+          "reason": "非传统花果香、相对特别，倾向小众概念香型",
+          "confidence": 0.5,
+          "source_refs": [
+            {
+              "source_id": "S7"
+            }
+          ]
+        },
+        {
+          "id": "C_826",
+          "evidence_role": "context",
+          "reason": "个性创意定位",
+          "confidence": 0.4,
+          "source_refs": [
+            {
+              "source_id": "S7"
+            }
+          ]
+        }
+      ],
+      "brand_requirements": [],
+      "wants_hot": false,
+      "wants_new": false,
+      "target_products": [],
+      "base_formula_code": "",
+      "source_refs": [
+        {
+          "source_id": "S1"
+        },
+        {
+          "source_id": "S7"
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "requirement": "4款香型方向（金钱的味道、权力的游戏、天赋的传承、名望的中心）",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "disposition": "独立推进",
+      "source_refs": [
+        {
+          "source_id": "S1"
+        }
+      ]
+    },
+    {
+      "requirement": "护肤级别料体做无酒精香氛产品",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "disposition": "补充已有",
+      "source_refs": [
+        {
+          "source_id": "S5"
+        }
+      ]
+    },
+    {
+      "requirement": "香精成本上限2000元/kg",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "disposition": "补充已有",
+      "source_refs": [
+        {
+          "source_id": "S5"
+        }
+      ]
+    },
+    {
+      "requirement": "避开传统花香果香调，以纸张、墨水、皮革、美食（谷物）、金属、酒香为主",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "disposition": "补充已有",
+      "source_refs": [
+        {
+          "source_id": "S7"
+        }
+      ]
+    },
+    {
+      "requirement": "首批起订5kg，再次下单最小10kg",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "disposition": "补充已有",
+      "source_refs": [
+        {
+          "source_id": "S3"
+        }
+      ]
+    },
+    {
+      "requirement": "寄样至上海虹口区柳兰若",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "disposition": "补充已有",
+      "source_refs": [
+        {
+          "source_id": "S8"
+        }
+      ]
+    }
+  ],
+  "ontology_gaps": [],
+  "warnings": [
+    "客户同时提出‘创香需求’与‘从现有香型选一选’，创香与选香路径存在歧义，当前按从库选香试香（recommend_brand）处理，待评香确认。",
+    "【油质】【水质】标签含义未明确，可能指溶剂类型或终产品剂型。",
+    "品类暂定香水油（K002），置信度0.45，需确认终产品剂型。"
+  ]
+}

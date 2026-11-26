@@ -1,0 +1,5 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0022	BR_002	祖玛珑	Wild Bluebell	蓝色风铃草；蓝风铃	10	官网已核验存在	https://www.jomalone.com/scent-layering	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0051	BR_004	圣罗兰	Black Opium	黑鸦片	7	官网已核验存在	https://www.yslbeautyus.com/fragrance/womens-fragrances/black-opium/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0273	BR_044	莫斯奇诺	I Love Love	爱你之爱	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0332	BR_001	香奈儿	COCO	COCO	11	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

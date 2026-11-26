@@ -1,0 +1,128 @@
+{
+  "taxonomy_version": "品类与ABC标签体系_V2",
+  "generated_at": "2026-11-25T18:06:03",
+  "total_source_rows": 3890,
+  "rows_processed": 3890,
+  "rows_missing": 0,
+  "unique_valid_codes": 3830,
+  "fragrance_main_rows": 3853,
+  "zero_missing_code_rows": 2,
+  "duplicate_codes": 53,
+  "duplicate_extra_rows": 58,
+  "merged_duplicate_codes": 32,
+  "conflict_duplicate_codes": 21,
+  "category_coverage": {
+    "个人香氛": 1915,
+    "身体洗护": 357,
+    "头发洗护": 42,
+    "面部洗护": 36,
+    "口腔护理（含唇部）": 40,
+    "空间香氛": 623,
+    "织物护理": 483,
+    "硬面清洁": 14,
+    "空清消杀": 36,
+    "婴童护理": 6,
+    "宠物护理": 44,
+    "工业遮味": 0
+  },
+  "tags_count": {
+    "A1": 2065,
+    "A2": 2533,
+    "A3": 1490,
+    "B": 717,
+    "C": 1200
+  },
+  "fragrance_tags_total": 15100,
+  "product_candidates_links": 711,
+  "verified_products": 26,
+  "unverified_product_links": 711,
+  "dupe_status_distribution": {
+    "unidentified": 3119,
+    "strong_candidate": 573,
+    "brand_only": 54,
+    "ambiguous": 144
+  },
+  "is_new_count": 265,
+  "is_hot_count": 1171,
+  "status_distribution": {
+    "trial": 3890
+  },
+  "errors": 54,
+  "round15": {
+    "refined_rows": 1963,
+    "added": {
+      "tags_A1": 1093,
+      "tags_A2": 2416,
+      "tags_A3": 425,
+      "tags_B": 445,
+      "C:CAT_06": 344,
+      "C:CAT_09": 11,
+      "C:CAT_01": 236,
+      "C:CAT_02": 230,
+      "C:CAT_03": 31,
+      "C:CAT_11": 13,
+      "C:CAT_07": 163,
+      "C:CAT_08": 4,
+      "C:CAT_10": 2,
+      "C:CAT_04": 14,
+      "C:CAT_05": 0
+    },
+    "removed": {
+      "tags_A1": 18,
+      "tags_A2": 11,
+      "tags_A3": 37,
+      "tags_B": 0,
+      "C:CAT_06": 5,
+      "C:CAT_09": 0,
+      "C:CAT_01": 0,
+      "C:CAT_02": 0,
+      "C:CAT_03": 0,
+      "C:CAT_11": 0,
+      "C:CAT_07": 3,
+      "C:CAT_08": 0,
+      "C:CAT_10": 0,
+      "C:CAT_04": 1,
+      "C:CAT_05": 0
+    }
+  },
+  "price_fields": {
+    "system_quote_rows": 3184,
+    "price_segment_rows": 1437,
+    "price_segment_distribution": {
+      "高端": 397,
+      "大众": 384,
+      "中端": 641,
+      "价格未知": 15
+    }
+  },
+  "original_join": {
+    "mapped_rows": 3886,
+    "unmapped_rows": 4
+  },
+  "batches": {
+    "total": 130,
+    "results": 130,
+    "missing_result_files": []
+  },
+  "round2": {
+    "tasks_total": 1716,
+    "results": 1721,
+    "with_samples": 1233,
+    "reused": 940,
+    "tag_evidence": 29081,
+    "category_evidence": 1940,
+    "relations": 3426,
+    "counterevidence": 125,
+    "gaps": 1268,
+    "errors": 310,
+    "tags_added": 7623,
+    "tags_added_by_level": {
+      "A1": 2174,
+      "B": 3261,
+      "C": 533,
+      "A3": 806,
+      "A2": 849
+    },
+    "candidate_rows": 777
+  }
+}

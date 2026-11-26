@@ -1,0 +1,36 @@
+{
+  "project_id": "p_bafd3133cc154ffa",
+  "round1_artifacts": [
+    {
+      "filename": "逐本活力系列卸妆膏_味道分层上市节奏与供.pdf",
+      "reused": true
+    },
+    {
+      "filename": "逐本活力系列水果卸妆膏产品线完整策划Brief.docx",
+      "reused": true
+    }
+  ],
+  "round1_generation": {
+    "id": "g_e3918c8e12a049b9",
+    "status": "queued",
+    "stage": "准备完整上下文"
+  },
+  "round2_artifacts": [
+    {
+      "filename": "20260911163823-逐本×双马会议-纪要文本.pdf",
+      "ok": true,
+      "id": "a_483dc50300804fdf",
+      "status": "parsed",
+      "error": "",
+      "annotation_warning": ""
+    }
+  ],
+  "round2_generation": {
+    "id": "g_a6bc5817b0514e0b",
+    "status": "queued",
+    "stage": "准备完整上下文"
+  },
+  "round1_accepted_run": "g_79fb648f5f454c96",
+  "round2_accepted_run": "g_3032f425498447f1",
+  "round2_initial_accepted_run": "g_8d0bc5b28cf24ceb"
+}

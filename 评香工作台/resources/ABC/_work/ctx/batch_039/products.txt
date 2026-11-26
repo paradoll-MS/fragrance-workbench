@@ -1,0 +1,9 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0025	BR_002	祖玛珑	Nectarine Blossom & Honey	杏桃花与蜂蜜	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0052	BR_004	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	11	官网已核验存在	https://www.yslbeautyus.com/fragrance/womens-fragrances/mon-paris/mon-paris-eau-de-parfum/3614272048447.html	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0064	BR_005	汤姆·福特	Soleil Neige	太阳雪；雪映流光	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0115	BR_011	梅森·马吉拉	Under the Lemon Trees	柠檬树下	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0118	BR_012	宝格丽	Pour Homme	大吉岭茶	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0140	BR_015	范思哲	Eros	Versace Eros；爱神（爱罗斯）	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0174	BR_019	馥马尔	Musc Ravageur	狂野麝香	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0274	BR_045	罗意威	001 Man	001 事后清晨男士；001男士	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

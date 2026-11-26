@@ -1,0 +1,1 @@
+{"groups": [{"g": "d1", "direction": "出口薰衣草洗衣液", "cat": ["CAT_07"], "samples": [1], "kind": "recommended", "n": [1], "query": {"A1": ["薰衣草"], "A2": ["草本"], "A3": ["芳香草本调"], "B": ["传统日化感", "大众熟悉感"], "C": ["C_972"]}, "tags_same_as_query": true}], "individual": [], "counter": [], "gaps": [], "unresolved": [{"s": 2, "reason": "仅提及柠檬，未明确推荐"}], "_raw_len": 303}

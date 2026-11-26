@@ -1,0 +1,6 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0141	范思哲	Bright Crystal	香恋水晶（粉钻）	待检索核验
+PR_0200	信仰	Silver Mountain Water	银色山泉	待检索核验
+PR_0234	MFK	Baccarat Rouge 540	540香精；Baccarat Rouge 540；晶红540	待检索核验
+PR_0274	罗意威	001 Man	001 事后清晨男士；001男士	待检索核验
+PR_0320	纪梵希	Pi	圆周率π派	待检索核验

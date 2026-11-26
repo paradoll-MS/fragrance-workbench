@@ -1,0 +1,8 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0006	香奈儿	Chance Eau Splendide	紫邂逅；邂逅梦幻	待检索核验
+PR_0056	圣罗兰	MYSLF	自我无界	待检索核验
+PR_0084	勒莱柏	Bergamote 22	香柠檬22	官网已核验存在
+PR_0089	勒莱柏	Ylang 49	依兰49	待检索核验
+PR_0246	卡亚利	Vanilla Candy Rock Sugar 42	香草冰糖42	待检索核验
+PR_0254	拉塔法	Khamrah	卡姆拉	待检索核验
+PR_0255	拉塔法	Fakhar Rose	法哈尔玫瑰	待检索核验

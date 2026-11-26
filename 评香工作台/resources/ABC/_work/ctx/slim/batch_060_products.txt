@@ -1,0 +1,9 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0051	圣罗兰	Black Opium	黑鸦片	官网已核验存在
+PR_0060	汤姆·福特	White Suede	TOM FORD WHITE SUEDE；白色麂皮	待检索核验
+PR_0126	兰蔻	La Vie Est Belle	LA VIE EST BELLE；美丽人生	待检索核验
+PR_0151	古驰	Flora Gorgeous Gardenia	绮梦栀子	待检索核验
+PR_0228	蔻依	Magnolia Alba	木兰诗语	待检索核验
+PR_0235	MFK	Oud Satin Mood	乌木丝缎	待检索核验
+PR_0236	MFK	Amyris Homme	雅迷瑞斯男士	待检索核验
+PR_0287	阿莎罗	Chrome	铬元素	待检索核验

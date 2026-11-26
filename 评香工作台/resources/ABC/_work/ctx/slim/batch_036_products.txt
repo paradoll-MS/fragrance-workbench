@@ -1,0 +1,2 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0017	香奈儿	Bois des Îles	岛屿森林	待检索核验

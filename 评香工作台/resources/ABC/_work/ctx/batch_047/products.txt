@@ -1,0 +1,7 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0114	BR_011	梅森·马吉拉	Matcha Meditation	抹茶冥想	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0247	BR_037	拉塔法	Ajwad	拉塔法AJWAA；阿吉瓦德（未分版）	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0249	BR_037	拉塔法	Dream of Haze	雾境幻梦	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0259	BR_038	阿芙南	9PM Elixir	9PM Elixir；下午9点馥郁版；下午9点（馥郁版）	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0260	BR_039	海湾兰花	Mango Ice	Gulf Orchid Mango Ice；海湾兰花-芒果冰	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0279	BR_047	高缇耶	Scandal	绯闻 高缇耶；绯闻高缇耶	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

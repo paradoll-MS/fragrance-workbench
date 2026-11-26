@@ -1,0 +1,8 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0026	BR_002	祖玛珑	Peony & Blush Suede	牡丹与胭红麂绒；牡丹嫣红麂皮	4	官网已核验存在	https://www.jomalone.com/scent-layering	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0065	BR_005	汤姆·福特	Electric Cherry	ELECTRIC CHERRY；电光樱桃	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0192	BR_022	娇兰	Aqua Allegoria Granada Salvia	GRANADA SALVIA	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0228	BR_032	蔻依	Magnolia Alba	木兰诗语	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0245	BR_036	卡亚利	Yum Pistachio Gelato 33	开心果冰淇淋	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0254	BR_037	拉塔法	Khamrah	卡姆拉	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0256	BR_037	拉塔法	Fakhar Black	法哈尔黑色版	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

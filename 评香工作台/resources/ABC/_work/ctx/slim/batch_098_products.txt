@@ -1,0 +1,3 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0007	香奈儿	Gabrielle	CHANEL GABRIELLE；嘉柏丽尔	官网已核验存在
+PR_0029	祖玛珑	Mimosa & Cardamom	含羞草与小豆蔻	待检索核验

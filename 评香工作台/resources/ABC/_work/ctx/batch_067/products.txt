@@ -1,0 +1,7 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0001	BR_001	香奈儿	COCO Mademoiselle	COCO小姐；MADEMOISELLE；可可小姐	8	官网已核验存在	https://www.chanel.com/us/fragrance/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0039	BR_003	爱马仕	Terre d’Hermès	大地；大地男士；爱马仕大地；马仕大地	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0046	BR_003	爱马仕	Eau d’Orange Verte	橘绿之泉；爱马仕-橘绿	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0058	BR_005	汤姆·福特	Oud Wood	TF-沉香；珍华乌木	8	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0110	BR_011	梅森·马吉拉	Lazy Sunday Morning	慵懒周日	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0111	BR_011	梅森·马吉拉	By the Fireplace	壁炉火光；温暖壁炉	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

@@ -1,0 +1,3282 @@
+[
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "CREATE_BY_",
+    "label": "创建人ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "CREATE_BY_NAME_",
+    "label": "创建人",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "CREATE_DEP_ID_",
+    "label": "创建部门ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "CREATE_DEP_NAME_",
+    "label": "创建部门",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "CREATE_TIME_",
+    "label": "创建时间",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_AROMA_AND_CHARM",
+    "label": "",
+    "disposition": "正文合并",
+    "destination": "notes.work_requirement_legacy",
+    "reason": "全文保留，按项目聚合同段文字并保留所有源链接",
+    "populated": 11,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_AROMA_AND_CHARM_V1",
+    "label": "工单需求",
+    "disposition": "正文合并",
+    "destination": "notes.work_requirement",
+    "reason": "全文保留，按项目聚合同段文字并保留所有源链接",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_ATTACHMENT_1753251325441",
+    "label": "COA照片",
+    "disposition": "附件引用",
+    "destination": "attachments",
+    "reason": "保存名称与文件ID，不宣称已有附件正文",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_ATTACHMENT_1753251349802",
+    "label": "实物照片",
+    "disposition": "附件引用",
+    "destination": "attachments",
+    "reason": "保存名称与文件ID，不宣称已有附件正文",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_ATTACHMENT_1759230981166",
+    "label": "附件",
+    "disposition": "附件引用",
+    "destination": "attachments",
+    "reason": "保存名称与文件ID，不宣称已有附件正文",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_BATCH_EXPRESS_NUMBER",
+    "label": "快递单号批改",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 3074,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_CFL_SALES_NODE",
+    "label": "流程节点ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_CFL_SALES_NODE_NAME",
+    "label": "流程节点",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_DRODOWN_1751944462513",
+    "label": "下拉框ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_DRODOWN_1751944462513_NAME",
+    "label": "下拉框",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_DRODOWN_1753256937787",
+    "label": "收货人地址ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_DRODOWN_1753256937787_NAME",
+    "label": "收货人地址",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_DRODOWN_1753965338494",
+    "label": "收件人ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_DRODOWN_1753965338494_NAME",
+    "label": "收件人",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_LOGIC_1753251155553",
+    "label": "实物与发货单是否一致",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_LOGIC_1753251167998",
+    "label": "标签粘贴是否合格",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_LOGIC_1753251206881",
+    "label": "盖子是否扭紧实",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_LONGTEXT_1755595664177",
+    "label": "评香师备注",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_PROJSALES_NAME",
+    "label": "业务员",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_RADIO_1785814160188",
+    "label": "单选ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_RADIO_1785814160188_NAME",
+    "label": "单选",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_RECEIVING_INFO",
+    "label": "收件信息",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_SENDOUT_DATE_EXAMPLE",
+    "label": "寄样日期批改",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 249,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_SHORTTEXT_1753091519464",
+    "label": "赢单外部编号",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_SHORTTEXT_1753240526564",
+    "label": "样品内部号",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_SHORTTEXT_1753250761987",
+    "label": "U8销售订单",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_SHORTTEXT_1753251034800",
+    "label": "发货总重量（KG）",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_SHORTTEXT_1753256984262",
+    "label": "开票金额",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_SHORTTEXT_1753256993659",
+    "label": "回款金额",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_STAFF_1752807579464",
+    "label": "指定业务员ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_STAFF_1752807579464_NAME",
+    "label": "指定评香师",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "实际重复业务员，不作为评香师字段",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_SUPPL_ISFLAVORING",
+    "label": "是否加香",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 289,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_SUPPL_PREPROCESS",
+    "label": "寄样前加工ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 3289,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_SUPPL_PREPROCESS_NAME",
+    "label": "寄样前加工",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 357,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOAROMAANDCHARM",
+    "label": "香气主韵",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOASSESSPERSON",
+    "label": "指定评香师ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOASSESSPERSON_NAME",
+    "label": "指定评香师",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOCONFIRMTIME",
+    "label": "确样时间",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOCONTRAST",
+    "label": "市场对标产品",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOPERFORMANCEFILE",
+    "label": "表现力报告",
+    "disposition": "附件引用",
+    "destination": "attachments",
+    "reason": "保存名称与文件ID，不宣称已有附件正文",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOPROJNAME",
+    "label": "项目名称ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOPROJNAME_NAME",
+    "label": "项目名称",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOPROJTYPE",
+    "label": "项目类型ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOPROJTYPE_NAME",
+    "label": "项目类型",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOSIMILARITY",
+    "label": "相似度要求ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOSIMILARITY_NAME",
+    "label": "相似度要求",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOSTABILITYFILE",
+    "label": "稳定性报告",
+    "disposition": "附件引用",
+    "destination": "attachments",
+    "reason": "保存名称与文件ID，不宣称已有附件正文",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOSTABILITYREMARK",
+    "label": "稳定性备注",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOSUBCATEGORY",
+    "label": "应用品类ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WOSUBCATEGORY_NAME",
+    "label": "应用品类",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_",
+    "label": "预估价格",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_1752552076412",
+    "label": "样品需求分类ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_1752552076412_NAME",
+    "label": "样品需求分类",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_1752556893172",
+    "label": "调香师备注",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_ANALYSIS",
+    "label": "分析报告",
+    "disposition": "附件引用",
+    "destination": "attachments",
+    "reason": "保存名称与文件ID，不宣称已有附件正文",
+    "populated": 624,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_ANALYSIS_REMARK",
+    "label": "分析备注",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_CONFIRM_TIME",
+    "label": "香精确认时间",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_CONTRAST",
+    "label": "市场产品对标",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 30,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_CUST_NUMBER",
+    "label": "外部编号",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_CUST_PRICE",
+    "label": "最终报价(元/公斤)",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_ESSENCE_PERCENTAGE",
+    "label": "加香量(%)",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 232,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_EVAL",
+    "label": "​评香师备注",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_EVALUATION_FILE",
+    "label": "评香报告",
+    "disposition": "附件引用",
+    "destination": "attachments",
+    "reason": "保存名称与文件ID，不宣称已有附件正文",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_EVALUATION_REMARK",
+    "label": "评香备注",
+    "disposition": "正文合并",
+    "destination": "notes.evaluation",
+    "reason": "全文保留，按项目聚合同段文字并保留所有源链接",
+    "populated": 364,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_FLAVOR_FILE",
+    "label": "调香报告",
+    "disposition": "附件引用",
+    "destination": "attachments",
+    "reason": "保存名称与文件ID，不宣称已有附件正文",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_FLAVOR_REMARK",
+    "label": "调香备注",
+    "disposition": "正文合并",
+    "destination": "notes.perfumery",
+    "reason": "全文保留，按项目聚合同段文字并保留所有源链接",
+    "populated": 211,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_INNERCODE",
+    "label": "需质量验证的配方",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_INNERCODE_COMPLETE",
+    "label": "已质量验证",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_INNERCODE_RULE",
+    "label": "需合规验证的配方",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_INNER_NUMBER",
+    "label": "需要质量验证的配方",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_NAME",
+    "label": "产品名称",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_NUMBER",
+    "label": "工单编号",
+    "disposition": "常用字段",
+    "destination": "work_orders.number",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_ORDER_AMOUNT",
+    "label": "订单数量（公斤）",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_ORDER_TYPE",
+    "label": "工单类型",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_PERFORMANCE_REMARK",
+    "label": "表现力备注",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_PRICE",
+    "label": "价格（元）",
+    "disposition": "常用字段",
+    "destination": "work_orders.target_price_text",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 2646,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_PROJNAME",
+    "label": "项目名称ID",
+    "disposition": "常用字段",
+    "destination": "work_orders.project_id",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 3554,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_PROJNAME_NAME",
+    "label": "项目名称",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 3554,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_PROJSALES_NAME",
+    "label": "业务员",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_PROJ_TYPE",
+    "label": "项目类型ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_PROJ_TYPE_NAME",
+    "label": "项目类型",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_RECEIVING",
+    "label": "收件人ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 3270,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_RECEIVING_INFO",
+    "label": "收件信息",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 3276,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_RECEIVING_NAME",
+    "label": "收件人",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 3268,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_RECEIVING_REMARK",
+    "label": "寄样备注",
+    "disposition": "正文合并",
+    "destination": "notes.delivery_instruction",
+    "reason": "全文保留，按项目聚合同段文字并保留所有源链接",
+    "populated": 77,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_RULE_FILE",
+    "label": "合规性报告",
+    "disposition": "附件引用",
+    "destination": "attachments",
+    "reason": "保存名称与文件ID，不宣称已有附件正文",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_RULE_REMARK",
+    "label": "合规性",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_SALES",
+    "label": "业务员",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_SAMPLESTORE",
+    "label": "样品库ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 3560,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_SAMPLESTORE_NAME",
+    "label": "样品库",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 3560,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_SIMILARITY",
+    "label": "相似度要求ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 46,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_SIMILARITY_NAME",
+    "label": "相似度要求",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 46,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_STABILITY1_FILE",
+    "label": "香精稳定性报告",
+    "disposition": "附件引用",
+    "destination": "attachments",
+    "reason": "保存名称与文件ID，不宣称已有附件正文",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_STABILITY1_REMARK",
+    "label": "香精稳定性",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_STABILITY_REMARK",
+    "label": "稳定性备注",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_STAGE",
+    "label": "工单阶段ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_STAGE_NAME",
+    "label": "工单阶段",
+    "disposition": "常用字段",
+    "destination": "work_orders.reported_stage",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_SUB_CATEGORY",
+    "label": "应用品类ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_SUB_CATEGORY_NAME",
+    "label": "具体品类",
+    "disposition": "常用字段",
+    "destination": "work_orders.category",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "F_WO_TITLE",
+    "label": "工单标题",
+    "disposition": "常用字段",
+    "destination": "work_orders.title",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 3444,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "ID_",
+    "label": "主键",
+    "disposition": "常用字段",
+    "destination": "work_orders.id",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "INST_ID_",
+    "label": "流程实例ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "INST_STATUS_",
+    "label": "状态ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "INST_STATUS_NAME_",
+    "label": "状态",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "PARENT_ID_",
+    "label": "父ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "REF_ID_",
+    "label": "外键",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "TENANT_ID_",
+    "label": "租户ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "UPDATE_BY_",
+    "label": "更新人ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "UPDATE_BY_NAME_",
+    "label": "更新人",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "UPDATE_TIME_",
+    "label": "更新时间",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_gd_20250707155940",
+    "field": "UPDATE_VERSION_",
+    "label": "版本号",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 3566,
+    "total": 3566
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "CREATE_BY_",
+    "label": "创建人ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "CREATE_BY_NAME_",
+    "label": "创建人",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "CREATE_DEP_ID_",
+    "label": "创建部门ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "CREATE_DEP_NAME_",
+    "label": "创建部门",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "CREATE_TIME_",
+    "label": "创建时间",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_DATE_1759046778556",
+    "label": "日期",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJALLERGEN",
+    "label": "过敏原ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 107,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJALLERGEN_NAME",
+    "label": "过敏原",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 107,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJASSIGNSINGREDIENT",
+    "label": "指定添加原料",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 0,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJBALANCE",
+    "label": "平衡感",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 2,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJCHECKHALAL",
+    "label": "HALALID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 7,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJCHECKHALAL_NAME",
+    "label": "HALAL",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 7,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJCHECKSTABILITYTEST",
+    "label": "是否需要稳定性测试ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJCHECKSTABILITYTEST_NAME",
+    "label": "是否需要稳定性测试",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJCOLORTOLERANCE",
+    "label": "终端产品是否变色敏感ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 39,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJCOLORTOLERANCE_NAME",
+    "label": "终端产品是否变色敏感",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 39,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJCONFIRMTIME",
+    "label": "确样日期",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJCUSTOMERID",
+    "label": "客户名称ID",
+    "disposition": "常用字段",
+    "destination": "customers.id",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJCUSTOMERID_NAME",
+    "label": "客户名称",
+    "disposition": "常用字段",
+    "destination": "customers.name",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJDECLARE",
+    "label": "其他信息",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "覆盖率极低且有测试式内容，先留原始资料",
+    "populated": 2,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJDEMANDAPPENDIX",
+    "label": "需求附件",
+    "disposition": "附件引用",
+    "destination": "attachments",
+    "reason": "保存名称与文件ID，不宣称已有附件正文",
+    "populated": 353,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJDESIRE",
+    "label": "需求简述",
+    "disposition": "正文合并",
+    "destination": "notes.project_brief",
+    "reason": "全文保留，按项目聚合同段文字并保留所有源链接",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJESSENCEPERCENTAGE",
+    "label": "加香量",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 73,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJEVALUATION",
+    "label": "指定评香师ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJEVALUATION_NAME",
+    "label": "指定评香师",
+    "disposition": "常用字段",
+    "destination": "projects.evaluator_names",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJIFRA",
+    "label": "法规报告ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 127,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJIFRA_NAME",
+    "label": "法规报告",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 127,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJLEVEL",
+    "label": "项目级别ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJLEVEL_NAME",
+    "label": "项目级别",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJNAME",
+    "label": "项目名称",
+    "disposition": "常用字段",
+    "destination": "projects.name",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJNUMBER",
+    "label": "项目编号",
+    "disposition": "常用字段",
+    "destination": "projects.number",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJOTHERREGULATORY",
+    "label": "其他法规要求",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 106,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJOTHERREQUIREMENT",
+    "label": "其他要求",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 27,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJPHASE",
+    "label": "品牌风格",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "覆盖率极低且有测试式内容，先留原始资料",
+    "populated": 4,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJREQUIREMENTDESCRIBE",
+    "label": "香气强度对标产品",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 11,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJREQUIREMENTLEVEL",
+    "label": "对相似度要求程度ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 21,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJREQUIREMENTLEVEL_NAME",
+    "label": "对相似度要求程度",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 21,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJSALES",
+    "label": "指定业务员ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJSALESTAGE",
+    "label": "项目阶段ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批阶段恒定，退出常用字段",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJSALESTAGE_NAME",
+    "label": "项目阶段",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批阶段恒定，退出常用字段",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJSALES_NAME",
+    "label": "指定业务员",
+    "disposition": "常用字段",
+    "destination": "projects.sales_names",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJSALETARGET",
+    "label": "预计年销售额(万元)",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "预计年销售额不服务本轮项目与用样追溯",
+    "populated": 2411,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJSCENE",
+    "label": "季节场景",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "覆盖率极低且有测试式内容，先留原始资料",
+    "populated": 1,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJSPECIALINGREDIENT",
+    "label": "禁用原料",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 0,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJSPECIALNFO",
+    "label": "品类法规ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 98,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJSPECIALNFO_NAME",
+    "label": "品类法规",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 98,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJSPICYTEST",
+    "label": "是否需要加香实验ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJSPICYTEST_NAME",
+    "label": "是否需要加香实验",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJSTABILITYREQUIREMENTS",
+    "label": "稳定性测试要求",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 35,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJTARGETAUDIENCE",
+    "label": "目标人群",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "覆盖率极低且有测试式内容，先留原始资料",
+    "populated": 3,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJUNITPRICE",
+    "label": "价格(元)",
+    "disposition": "常用字段",
+    "destination": "projects.target_price_text",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 1789,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJ_RECEIVING",
+    "label": "收件人ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 1346,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJ_RECEIVING_INFO",
+    "label": "收件信息",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 1342,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJ_RECEIVING_NAME",
+    "label": "收件人",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 1344,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "F_PROJ_RECEIVING_REMARK",
+    "label": "寄送备注",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 29,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "ID_",
+    "label": "主键",
+    "disposition": "常用字段",
+    "destination": "projects.id",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "INST_ID_",
+    "label": "流程实例ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 2568,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "INST_STATUS_",
+    "label": "状态ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 2568,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "INST_STATUS_NAME_",
+    "label": "状态",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 2568,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "PARENT_ID_",
+    "label": "父ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "REF_ID_",
+    "label": "外键",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "TENANT_ID_",
+    "label": "租户ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "UPDATE_BY_",
+    "label": "更新人ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "UPDATE_BY_NAME_",
+    "label": "更新人",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "UPDATE_TIME_",
+    "label": "更新时间",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_xs_projectmanage",
+    "field": "UPDATE_VERSION_",
+    "label": "版本号",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 2578,
+    "total": 2578
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "CREATE_BY_",
+    "label": "创建人ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 2184,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "CREATE_BY_NAME_",
+    "label": "创建人",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 2184,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "CREATE_DEP_ID_",
+    "label": "创建部门ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 4,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "CREATE_DEP_NAME_",
+    "label": "创建部门",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 4,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "CREATE_TIME_",
+    "label": "创建时间",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 2184,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_ACCORD",
+    "label": "三调",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 0,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_APPLICATION_CATEGORY",
+    "label": "风格ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 133,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_APPLICATION_CATEGORY_NAME",
+    "label": "风格",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 127,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_AUXILIARY_FRAGRANCE_TYPE",
+    "label": "子香族(香型)",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 7,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_BASE_NOTE_KEYWORDS",
+    "label": "后调",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 245,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_CONCEPT_SERIES",
+    "label": "概念/系列ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 188,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_CONCEPT_SERIES_NAME",
+    "label": "概念/系列",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 186,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_FORMULA_CATEGORY",
+    "label": "样品分类ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 312,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_FORMULA_CATEGORY_NAME",
+    "label": "样品分类",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 312,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_FORMULA_CODE",
+    "label": "配方号ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 2184,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_FORMULA_CODE_NAME",
+    "label": "配方号",
+    "disposition": "常用字段",
+    "destination": "formula_refs.code",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 2184,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_FORMULA_CREATEDATE",
+    "label": "配方创建日期",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 1980,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_FORMULA_LEVEL",
+    "label": "配方等级",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 1980,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_FORMULA_NAME",
+    "label": "配方名称",
+    "disposition": "常用字段",
+    "destination": "aliases.name",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 1981,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_FORMULA_NATURE",
+    "label": "配方性质ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 270,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_FORMULA_NATURE_NAME",
+    "label": "配方性质",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 270,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_FORMULA_PRINCIPAL",
+    "label": "配方负责调香师",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 1887,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_FORMULA_TYPE",
+    "label": "配方类型",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 342,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_MAIN_FRAGRANCE_TYPE",
+    "label": "主香族(香型)",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 7,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_MARKET_POSITION",
+    "label": "审美类型ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 312,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_MARKET_POSITION_NAME",
+    "label": "审美类型",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 312,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_MIDDLE_NOTE_KEYWORDS",
+    "label": "中调",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 243,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_MOOD_KEYWORDS",
+    "label": "情绪感受ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 311,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_MOOD_KEYWORDS_NAME",
+    "label": "情绪感受",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 311,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_OVERALL_KEYWORDS",
+    "label": "主韵关键字",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 109,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_PERSONALITY_TRAIT",
+    "label": "人格特质ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 257,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_PERSONALITY_TRAIT_NAME",
+    "label": "人格特质",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 257,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_PROD_STANDARD_SAMPLE",
+    "label": "生产标样状态",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_REFERENCE_BRAND",
+    "label": "借鉴品牌",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 191,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_REFERENCE_PRODUCT",
+    "label": "借鉴产品名称",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 191,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_RND_STANDARD_SAMPLE",
+    "label": "研发标样状态",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 5,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_RND_STD_SAMPLE_LOCATION",
+    "label": "研发标样库位",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 5,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SAMPLE_CATEGORY_REMARK",
+    "label": "品类备注",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 270,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SAMPLE_PRICE",
+    "label": "配方报价(元/公斤)",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 1979,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SAMPLE_PRICE_SEGMENT",
+    "label": "价格段ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SAMPLE_PRICE_SEGMENT_NAME",
+    "label": "价格段",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 0,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SAMPLE_RESTOCK_PRIORITY",
+    "label": "补样优先级ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 301,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SAMPLE_RESTOCK_PRIORITY_NAME",
+    "label": "补样优先级",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 301,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SAMPLE_STOCK_LOGIC",
+    "label": "样品来源ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 2184,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SAMPLE_STOCK_LOGIC_NAME",
+    "label": "样品来源",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 2184,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SEND_SAMPLE_LOCATION",
+    "label": "寄样库库位",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SEND_SAMPLE_STOCK_QTY",
+    "label": "寄样库库存",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SIZE_PRIORITY",
+    "label": "补样优先级ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SIZE_PRIORITY_NAME",
+    "label": "补样优先级",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SYNESTHESIA",
+    "label": "联觉ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 312,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_SYNESTHESIA_NAME",
+    "label": "联觉",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 312,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "F_TOP_NOTE_KEYWORDS",
+    "label": "前调",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 242,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "ID_",
+    "label": "主键",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 2184,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "INST_ID_",
+    "label": "流程实例ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 4,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "INST_STATUS_",
+    "label": "状态ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 4,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "INST_STATUS_NAME_",
+    "label": "状态",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 4,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "PARENT_ID_",
+    "label": "父ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 4,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "REF_ID_",
+    "label": "外键",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 4,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "TENANT_ID_",
+    "label": "租户ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 4,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "UPDATE_BY_",
+    "label": "更新人ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 1980,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "UPDATE_BY_NAME_",
+    "label": "更新人",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 1980,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "UPDATE_TIME_",
+    "label": "更新时间",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 1980,
+    "total": 2184
+  },
+  {
+    "source_table": "w_bo_yp_sample_library",
+    "field": "UPDATE_VERSION_",
+    "label": "版本号",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 2184,
+    "total": 2184
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "CREATE_BY_",
+    "label": "创建人ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "CREATE_BY_NAME_",
+    "label": "创建人",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "CREATE_DEP_ID_",
+    "label": "创建部门ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "CREATE_DEP_NAME_",
+    "label": "创建部门",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "CREATE_TIME_",
+    "label": "创建时间",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_OPERATE",
+    "label": "123",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLEFLASHPOINT",
+    "label": "闪点",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_COMPLIANCE",
+    "label": "是否合规验证",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_CUST_NUMBER",
+    "label": "外部产品号",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.external_code",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 10642,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_DATETIME",
+    "label": "寄样日期",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.reported_ship_date",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_END_TIME",
+    "label": "交期评估ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 10795,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_END_TIME_NAME",
+    "label": "交期评价",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 10795,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_EVALUATE",
+    "label": "项目评估",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_EVALUATE_NAME",
+    "label": "项目评估",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_EXPRESS_NUMBER",
+    "label": "快递单号",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.delivery_note",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 9845,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_FEEDBACK",
+    "label": "销售反馈",
+    "disposition": "正文合并",
+    "destination": "notes.sales_feedback",
+    "reason": "全文保留，按项目聚合同段文字并保留所有源链接",
+    "populated": 1031,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_FLAVOR",
+    "label": "香型评估ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 10805,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_FLAVORQUOTE",
+    "label": "香精报价",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.unit_price_text",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 9960,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_FLAVOR_NAME",
+    "label": "香型评价",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 10805,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_INNER_NAME",
+    "label": "配方名称",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.internal_name",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 10797,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_INNER_NUMBER",
+    "label": "内部配方号ID",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 10801,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_INNER_NUMBER_NAME",
+    "label": "样品内部号",
+    "disposition": "常用字段",
+    "destination": "formula_refs.code",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 10801,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_ISSYNC",
+    "label": "是否同步",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 10239,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_NAME",
+    "label": "外部产品名称",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.external_name",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 10668,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_NUMBER",
+    "label": "克重（克）",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.weight_text",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 10354,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_PERFUMER_QTY",
+    "label": "调香师送样量",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.perfumer_qty_text",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 519,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_PRICE",
+    "label": "价格评估ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 10803,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_PRICE_NAME",
+    "label": "价格评价",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 10803,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_QUALITY",
+    "label": "是否质量验证",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_QUANTITY",
+    "label": "寄样库库存",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.stock_qty_text",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 1198,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_QUOTE",
+    "label": "样品报价",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.sample_amount_text",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 10200,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_REMARK",
+    "label": "备注",
+    "disposition": "正文合并",
+    "destination": "notes.sample_instruction",
+    "reason": "全文保留，按项目聚合同段文字并保留所有源链接",
+    "populated": 2956,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_REMARK1",
+    "label": "打印备注",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_RULE",
+    "label": "法规评估ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 10795,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_RULE_NAME",
+    "label": "法规评价",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 10795,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_STABILITY",
+    "label": "稳定性评估ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "重复代码/名称或旧版字段",
+    "populated": 10793,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_STABILITY_NAME",
+    "label": "稳定性评价",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "有意义值按需展开；未评估、默认否等保留在原始记录",
+    "populated": 10793,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_STATUS",
+    "label": "是否已寄送",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SAMPLE_STORAGE_LOCATION",
+    "label": "寄样库库位",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.storage_location",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 1262,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SHORTTEXT_1752559282518",
+    "label": "打样序号",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SHORTTEXT_1753965105326",
+    "label": "加香量",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.dosage_text",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 2001,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "F_SHORTTEXT_1753965117376",
+    "label": "已完成打样",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "大量默认false，与已有样品记录不对应，不作为进度",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "ID_",
+    "label": "主键",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.id",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "INST_ID_",
+    "label": "流程实例ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "INST_STATUS_",
+    "label": "状态ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "INST_STATUS_NAME_",
+    "label": "状态",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "PARENT_ID_",
+    "label": "父ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "REF_ID_",
+    "label": "外键",
+    "disposition": "常用字段",
+    "destination": "sample_occurrences.work_order_id",
+    "reason": "用于身份、关联、选样或此次用样",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "TENANT_ID_",
+    "label": "租户ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "UPDATE_BY_",
+    "label": "更新人ID",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "框架信息不进入业务查询",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "UPDATE_BY_NAME_",
+    "label": "更新人",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "UPDATE_TIME_",
+    "label": "更新时间",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 10819,
+    "total": 10819
+  },
+  {
+    "source_table": "w_wo_sample_details",
+    "field": "UPDATE_VERSION_",
+    "label": "版本号",
+    "disposition": "来源元数据",
+    "destination": "source_records/raw_json",
+    "reason": "解释登记操作和最后保存，不推断字段作者",
+    "populated": 0,
+    "total": 10819
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "一级品类",
+    "label": "一级品类",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 3676,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "三级品类",
+    "label": "三级品类",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 1779,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "三调",
+    "label": "三调",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 439,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "主韵关键词",
+    "label": "主韵关键词",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 469,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "二级品类",
+    "label": "二级品类",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 3676,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "人格特质",
+    "label": "人格特质",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 129,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "价格段",
+    "label": "价格段",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 1436,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "借鉴产品名称",
+    "label": "借鉴产品名称",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "借鉴品牌",
+    "label": "借鉴品牌",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "入库逻辑",
+    "label": "入库逻辑",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 3890,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "其他",
+    "label": "其他",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "品类备注",
+    "label": "品类备注",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 2082,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "备注",
+    "label": "备注",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "子香族",
+    "label": "子香族",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 1026,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "存货名称",
+    "label": "存货名称",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 3868,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "已有样品-质检",
+    "label": "已有样品-质检",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 200,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "情绪感受",
+    "label": "情绪感受",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "新存货编码",
+    "label": "新存货编码",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 3890,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "概念/系列",
+    "label": "概念/系列",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "系统报价",
+    "label": "系统报价",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 3184,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "经典/流行/小众",
+    "label": "经典/流行/小众",
+    "disposition": "仅原始资料",
+    "destination": "source_records.raw_json",
+    "reason": "本批为空",
+    "populated": 0,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "联觉",
+    "label": "联觉",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 3,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "联觉-细分",
+    "label": "联觉-细分",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 3,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "联觉-词汇",
+    "label": "联觉-词汇",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 3,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "补样优先级01[爆品库XCRMX单价X配方等级]",
+    "label": "补样优先级01[爆品库XCRMX单价X配方等级]",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 193,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "调香师",
+    "label": "调香师",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 1404,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "配方性质",
+    "label": "配方性质",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 1436,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "配方等级",
+    "label": "配方等级",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 1428,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "风格",
+    "label": "风格",
+    "disposition": "补充信息",
+    "destination": "attributes",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 350,
+    "total": 3890
+  },
+  {
+    "source_table": "xlsx:Sheet1",
+    "field": "香族",
+    "label": "香族",
+    "disposition": "常用字段",
+    "destination": "catalog_entries/formula_refs",
+    "reason": "中央库收录按工作簿；同号差异保留",
+    "populated": 1074,
+    "total": 3890
+  }
+]

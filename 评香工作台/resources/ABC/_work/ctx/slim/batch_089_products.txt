@@ -1,0 +1,7 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0054	圣罗兰	Libre	肆意之水；自由至上	待检索核验
+PR_0056	圣罗兰	MYSLF	自我无界	待检索核验
+PR_0081	勒莱柏	Santal 33	檀香33；檀香木33	官网已核验存在
+PR_0086	勒莱柏	Patchouli 24	广藿香24	待检索核验
+PR_0098	柏芮朵	Super Cedar	超级雪松	官网已核验存在
+PR_0282	欧珑	Pomélo Paradis	柚子天堂	待检索核验

@@ -1,0 +1,2 @@
+修复指定key的跨轮气味结构和有效scent要求。只改指定scent字段和scent类要求，不改变产品、项目、ABC、任务、基准号与其它类别要求。按真实日期和具体适用范围确定新旧：新局部要求覆盖相冲突的旧通用规则，保留未变约束；结构、原则、方向、排除和有效要求之间应一致。感官意象比例不代表实际配方或应用加香量，不补来源没有的数字。
+返回JSON {"updates":[{"key":"输入key","scent":{},"scent_requirements":[{"text":"完整有效条件","category":"scent","source_scope":"specific或inherited","source_refs":[{"artifact_id":"真实ID","quote":"逐字原文子串"}],"status":"recorded"}],"reason":"新旧覆盖依据"}]}。完整覆盖指定key，沿用现有scent键名，新增条件必须有来源。

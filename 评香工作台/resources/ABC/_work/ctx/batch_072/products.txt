@@ -1,0 +1,7 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0026	BR_002	祖玛珑	Peony & Blush Suede	牡丹与胭红麂绒；牡丹嫣红麂皮	4	官网已核验存在	https://www.jomalone.com/scent-layering	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0033	BR_002	祖玛珑	Dark Amber & Ginger Lily	黑琥珀与姜百合	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0053	BR_004	圣罗兰	Y	Y（Y先生）；圣罗兰Y男香	3	官网已核验存在	https://www.yslbeautyus.com/fragrance/womens-fragrances/mon-paris/mon-paris-eau-de-parfum/3614272048447.html	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0110	BR_011	梅森·马吉拉	Lazy Sunday Morning	慵懒周日	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0119	BR_012	宝格丽	Pour Homme Soir	大吉岭夜色	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0158	BR_018	潘海利根	The Revenge of Lady Blanche	布兰奇夫人的复仇	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

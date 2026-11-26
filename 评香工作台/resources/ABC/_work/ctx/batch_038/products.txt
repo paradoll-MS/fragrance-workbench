@@ -1,0 +1,11 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0024	BR_002	祖玛珑	Blackberry & Bay	莓果月桂叶；黑莓与月桂叶	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0027	BR_002	祖玛珑	Lime Basil & Mandarin	青柠罗勒与柑橘	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0063	BR_005	汤姆·福特	Fucking Fabulous	他妈的真棒；法布勒斯	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0066	BR_005	汤姆·福特	Grey Vetiver	灰色香根草；灰香根草	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0153	BR_017	阿玛尼	Armani Code	阿尼密码；阿玛尼密码	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0159	BR_018	潘海利根	The Coveted Duchess Rose	罗斯公爵夫人	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0204	BR_024	卡罗琳娜·海莱拉	Good Girl	GOOD GIRL；好女孩	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0229	BR_033	安娜苏	Fantasia	独角兽/幻想曲；筑梦天马	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0262	BR_041	伊布拉欣·古莱希	Black Diamond Incense	Black Diamond Incense	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0336	BR_002	祖玛珑	Cherry Blossom	樱花2018限量；祖玛珑樱花	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

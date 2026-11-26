@@ -1,0 +1,128 @@
+{
+  "version": "2026-10-28",
+  "principle": "先硬筛，再计分；C 相同是前提，不是加分项；只有 AB 计分。",
+  "price": {
+    "currency": "CNY",
+    "unit": "元/公斤",
+    "unit_when_missing": "元/公斤",
+    "elasticity_pct": 20,
+    "max_price_formula": "target_price * (1 + elasticity_pct/100)",
+    "range_target": "use upper bound",
+    "no_target": "do not hard-filter price; label price unknown",
+    "lower_bound": null
+  },
+  "category": {
+    "require_l3": true,
+    "require_norm_class": true,
+    "require_new_class": true,
+    "filter_within_new_class": true
+  },
+  "hard_filters": {
+    "new_class": "equal",
+    "target_c": {
+      "required_for": [],
+      "match": "same_type_subtree",
+      "allow_parent_child": true,
+      "max_c_per_subproject": null,
+      "note": "C 不是硬筛；只用于计分。每个命中目标 C +3，未命中仍可进候选（0 分）。可多选。",
+      "allow_multiple": true,
+      "optional": true
+    },
+    "a1": {
+      "when_present": "hard_filter",
+      "match": "any",
+      "multiple": "OR"
+    },
+    "a2a3": {
+      "when_a1_absent": "hard_filter",
+      "match": "any",
+      "multiple": "OR",
+      "when_a1_present": "explain_only"
+    },
+    "brand": {
+      "used_for": [
+        "recommend_simple"
+      ],
+      "level": "brand",
+      "exact_product_allowed": false
+    },
+    "product": {
+      "used_for": [
+        "find_product"
+      ],
+      "level": "brand+product+version",
+      "exact": true
+    },
+    "status": [
+      "active",
+      "not_eliminated"
+    ]
+  },
+  "scoring": {
+    "c_score": 3,
+    "ab_score_per_distinct": 1,
+    "ab_source": "target_c.ab_ids",
+    "formula_tags": [
+      "A",
+      "B"
+    ],
+    "max_ab_score": null,
+    "note": "C 每个命中目标 C +3；AB 每个 distinct +1；C 非硬筛，无 C 也可推荐（C 分 0）",
+    "c_score_per_hit": 3,
+    "total": "c_hits*3 + ab_hits*1"
+  },
+  "sort": {
+    "recommend_brand": [
+      "score desc",
+      "c_score desc",
+      "ab_score desc",
+      "price_gap asc",
+      "is_hot desc",
+      "code asc"
+    ],
+    "recommend_simple": [
+      "price asc",
+      "is_hot desc",
+      "is_central desc",
+      "code asc"
+    ],
+    "find_product": [
+      "is_central desc",
+      "price asc",
+      "code asc"
+    ],
+    "match_sample": "manual"
+  },
+  "display_only": [
+    "is_brand_dupe",
+    "is_brand_reference",
+    "primary_brand",
+    "is_hot",
+    "is_new",
+    "work_order_count"
+  ],
+  "result_fields": [
+    "code",
+    "name",
+    "new_class",
+    "c_id",
+    "c_path",
+    "ab_hits",
+    "ab_score",
+    "price",
+    "price_gap",
+    "is_hot",
+    "is_new",
+    "is_brand_dupe",
+    "brand_tags",
+    "central",
+    "grade",
+    "risk_notes"
+  ],
+  "failure": {
+    "no_category": "block recommendation",
+    "no_c_for_brand": "block recommendation",
+    "no_candidate": "show excluded reasons; route to create/modify",
+    "no_ab": "allow 0 score; show C hit"
+  }
+}

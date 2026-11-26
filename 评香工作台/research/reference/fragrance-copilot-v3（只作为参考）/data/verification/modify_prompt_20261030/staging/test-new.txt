@@ -1,0 +1,17 @@
+.......E.
+======================================================================
+ERROR: test_tag_objects_normalize_before_hashing_and_unknown_shapes_fail (test_changes.Changes.test_tag_objects_normalize_before_hashing_and_unknown_shapes_fail)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\26519\Desktop\DSH搭建\fragrance-copilot-v3\data\verification\modify_prompt_20261030\staging\tests\test_changes.py", line 48, in test_tag_objects_normalize_before_hashing_and_unknown_shapes_fail
+    with self.assertRaises(ValueError):understand.refs_valid([{'artifact_id':{}}],{})
+                                       ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\26519\Desktop\DSH搭建\fragrance-copilot-v3\data\verification\modify_prompt_20261030\staging\app\understand.py", line 150, in refs_valid
+    if not isinstance(ref, dict) or ref.get('artifact_id') not in artifacts:
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot use 'dict' as a dict key (unhashable type: 'dict')
+
+----------------------------------------------------------------------
+Ran 9 tests in 3.201s
+
+FAILED (errors=1)

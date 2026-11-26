@@ -1,0 +1,1 @@
+{"groups": [{"g": "d1", "direction": "洗衣粉对香", "cat": ["CAT_07"], "samples": [1], "kind": "recommended", "n": [1], "query": {"A2": ["A2_83fdd91606", "A2_ad99ceb2cd"], "A3": ["A3_bb0238c46d"], "B": ["B5_359761e520", "B5_770b8674d7"], "C": ["C_972"]}, "tags_same_as_query": true}], "individual": [], "counter": [], "gaps": [], "unresolved": [], "_raw_len": 455}

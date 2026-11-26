@@ -1,0 +1,15 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0051	圣罗兰	Black Opium	黑鸦片	官网已核验存在
+PR_0052	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	官网已核验存在
+PR_0061	汤姆·福特	Lost Cherry	落樱甜情；落红樱桃	待检索核验
+PR_0076	蒂普提克	Eau de Lierre	利埃尔；常春藤之水	待检索核验
+PR_0103	阿蒂仙之香	Passage d’Enfer	冥府之路	待检索核验
+PR_0126	兰蔻	La Vie Est Belle	LA VIE EST BELLE；美丽人生	待检索核验
+PR_0133	迪奥	Sauvage	旷野；旷野男士	待检索核验
+PR_0199	信仰	Aventus	信仰 成功男士；成功（拿破仑之水）	待检索核验
+PR_0200	信仰	Silver Mountain Water	银色山泉	待检索核验
+PR_0207	拉巴纳	1 Million	帕高百万；百万金砖	待检索核验
+PR_0208	拉巴纳	Lady Million	百万女士香水；百万女香	待检索核验
+PR_0270	维多利亚的秘密	Romantic	ROMANTIC(维密浪漫)	待检索核验
+PR_0271	莫斯奇诺	Toy 2	桃丝熊小熊	待检索核验
+PR_0281	欧珑	Orange Sanguine	赤霞极光；赤霞橘光	待检索核验

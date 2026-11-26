@@ -1,0 +1,5 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0058	汤姆·福特	Oud Wood	TF-沉香；珍华乌木	待检索核验
+PR_0120	宝格丽	Omnia Amethyste	BVLGARI OMNIA AMETHYSTE；花舞轻盈（紫晶）	待检索核验
+PR_0152	阿玛尼	Acqua di Giò	寄情水男；阿尼寄情水；阿玛尼寄情水	待检索核验
+PR_0190	娇兰	Aqua Allegoria Forte Oud Yuzu	清柚乌木	待检索核验

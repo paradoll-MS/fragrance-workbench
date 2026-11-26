@@ -1,0 +1,3 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0004	香奈儿	Chance Eau Tendre	粉色邂逅；粉邂逅；邂逅柔情	待检索核验
+PR_0028	祖玛珑	Black Cedarwood & Juniper	黑雪松与杜松；黑雪松杜松	待检索核验

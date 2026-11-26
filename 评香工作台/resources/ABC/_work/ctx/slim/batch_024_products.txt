@@ -1,0 +1,4 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0193	娇兰	L’Homme Idéal	理想男士	待检索核验
+PR_0219	大卫杜夫	Cool Water Woman	冷水女士	待检索核验
+PR_0339	拉夫劳伦	Polo Red	红色马球	待检索核验

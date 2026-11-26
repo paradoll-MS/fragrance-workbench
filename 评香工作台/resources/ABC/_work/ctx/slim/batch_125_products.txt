@@ -1,0 +1,4 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0100	柏芮朵	Pulp	果肉（纸浆）	待检索核验
+PR_0101	柏芮朵	Blanche	白色浪漫	待检索核验
+PR_0188	娇兰	Aqua Allegoria Herba Fresca	薄荷青草	待检索核验

@@ -1,0 +1,7 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0001	BR_001	香奈儿	COCO Mademoiselle	COCO小姐；MADEMOISELLE；可可小姐	8	官网已核验存在	https://www.chanel.com/us/fragrance/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0008	BR_001	香奈儿	Bleu de Chanel	蔚蓝男士；香奈儿-蔚蓝；香尼儿蔚蓝	4	官网已核验存在	https://www.chanel.com/us/fragrance/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0010	BR_001	香奈儿	N°19	香奈儿19号；香尼儿19号	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0127	BR_013	兰蔻	Trésor Midnight Rose	珍爱午夜玫瑰	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0130	BR_014	迪奥	J’adore	大奥真我；真我；真我-降价版；真我倾世之金	7	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0337	BR_064	拉夫劳伦	Polo	绿马球；马球	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

@@ -1,0 +1,3 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0003	香奈儿	Chance Eau Fraîche	绿邂逅；邂逅清新	待检索核验
+PR_0022	祖玛珑	Wild Bluebell	蓝色风铃草；蓝风铃	官网已核验存在

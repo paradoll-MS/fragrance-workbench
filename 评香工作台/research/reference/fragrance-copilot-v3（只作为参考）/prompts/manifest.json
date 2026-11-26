@@ -1,0 +1,45 @@
+{
+  "version": "20261030-contracts",
+  "active": {
+    "understand_project": {
+      "file": "prompts/understand_project.md",
+      "common_policy": true
+    },
+    "repair_mapping": {
+      "file": "prompts/repair_mapping.md",
+      "common_policy": true
+    },
+    "repair_abc": {
+      "file": "prompts/repair_abc.md",
+      "common_policy": true
+    },
+    "repair_followup": {
+      "file": "prompts/repair_followup.md",
+      "common_policy": true
+    },
+    "classify_artifact": {
+      "file": "prompts/classify_artifact.md",
+      "common_policy": false
+    },
+    "qa": {
+      "file": "prompts/qa.md",
+      "common_policy": false
+    },
+    "vision": {
+      "file": "prompts/vision.md",
+      "common_policy": false
+    }
+  },
+  "legacy": [
+    "explain_candidate.md",
+    "extract_brief.md",
+    "extract_brief_fast.md",
+    "generate_department_tasks.md",
+    "map_c.md",
+    "map_category.md",
+    "map_single_c.md",
+    "route_task.md",
+    "split_subprojects.md",
+    "story_summary.md"
+  ]
+}

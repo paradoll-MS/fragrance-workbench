@@ -1,0 +1,1 @@
+{"groups": [], "individual": [{"s": 1, "g": "d1", "cat": ["CAT_06"], "kind": "logistics_only", "n": [1, 2], "tags": {"A1": ["A1_849af07fdb"], "A2": ["A2_3572ceac4c"], "A3": ["A3_9ac2664cce"]}}], "counter": [], "gaps": [], "unresolved": [{"s": 2, "reason": "仅作为缺料替换参照被提及，非推荐对象"}], "_raw_len": 279}

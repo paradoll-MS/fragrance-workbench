@@ -1,0 +1,70 @@
+{
+  "status": "validated_without_model_call",
+  "corrections": [
+    {
+      "path": "result.subprojects[0].a1[0]",
+      "method": "explicit_identifier",
+      "original": {
+        "id": "A1_c3bf4b4601",
+        "label": "桂花",
+        "evidence_role": "explicit_scent_target",
+        "reason": "客户明确要求桂花香精，桂花是主体气味。",
+        "confidence": 0.95,
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "artifact_id": "a_152d55b05be44d90",
+            "locator": "原文",
+            "source_start": 0,
+            "source_end": 20,
+            "correction": "source_handle"
+          }
+        ]
+      },
+      "value": "A1_c3bf4b4601"
+    },
+    {
+      "path": "result.subprojects[0].target_cs[0]",
+      "method": "explicit_identifier",
+      "original": {
+        "id": "C_972",
+        "label": "大众洗衣",
+        "reason": "柔顺剂属于织物护理，大众洗衣是常见定位。",
+        "confidence": 0.6,
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "artifact_id": "a_152d55b05be44d90",
+            "locator": "原文",
+            "source_start": 0,
+            "source_end": 20,
+            "correction": "source_handle"
+          }
+        ]
+      },
+      "value": "C_972"
+    },
+    {
+      "path": "result.subprojects[0].target_cs[1]",
+      "method": "explicit_identifier",
+      "original": {
+        "id": "C_976",
+        "label": "柔顺护理",
+        "reason": "产品为柔顺剂，柔顺护理是直接相关定位。",
+        "confidence": 0.8,
+        "source_refs": [
+          {
+            "source_id": "S1",
+            "artifact_id": "a_152d55b05be44d90",
+            "locator": "原文",
+            "source_start": 0,
+            "source_end": 20,
+            "correction": "source_handle"
+          }
+        ]
+      },
+      "value": "C_976"
+    }
+  ],
+  "subprojects": 1
+}

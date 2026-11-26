@@ -1,0 +1,9 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0001	香奈儿	COCO Mademoiselle	COCO小姐；MADEMOISELLE；可可小姐	官网已核验存在
+PR_0039	爱马仕	Terre d’Hermès	大地；大地男士；爱马仕大地；马仕大地	待检索核验
+PR_0130	迪奥	J’adore	大奥真我；真我；真我-降价版；真我倾世之金	待检索核验
+PR_0132	迪奥	Miss Dior Blooming Bouquet	花漾甜心	待检索核验
+PR_0205	卡罗琳娜·海莱拉	212 Sexy Men	212Sexyman；212Sexymen；212性感；212性感男士	待检索核验
+PR_0211	巴宝莉	My Burberry	我的巴宝莉	待检索核验
+PR_0299	马克·雅可布	Daisy	小雏菊	待检索核验
+PR_0322	纪梵希	Very Irrésistible	倾城之魅	待检索核验

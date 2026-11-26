@@ -1,0 +1,2 @@
+只修复missing_evidence，原客户事实、子项和任务关系不能改。每个(key,id)恰好一个答案，A/B/C均需理由，不新增标签。输入已给完整定义；根据真实上下文判断是否支持，C结合用途/定位/人群/风格，非字面匹配。确实不支持时keep=false并解释。
+返回JSON {"evidence":[{"key":"输入key","id":"输入ID","label":"输入的准确名称","reason":"语义理由","confidence":0.8,"source_refs":[{"source_id":"输入定位ID"}],"evidence_role":"explicit_scent_target/main_accord/reference_pyramid/context","keep":true}]}。keep=true必须有真实来源。A仅明确气味目标或主韵支持时可保留，仅参考三调或AI建议的A应移除。不能猜测来源或用泛化理由凑数。

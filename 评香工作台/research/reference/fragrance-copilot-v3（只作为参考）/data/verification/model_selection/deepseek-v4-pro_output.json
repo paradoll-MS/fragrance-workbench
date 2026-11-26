@@ -1,0 +1,1117 @@
+{
+  "brief": {
+    "project": {
+      "name": "权力_trial",
+      "customer": "上海赤翎川月科技有限公司",
+      "brand": "",
+      "sales": "逯柏松",
+      "evaluator": "评香",
+      "grade": "",
+      "summary": "客户提出4款香的创香需求，用于护肤级别料体做成的无酒精香氛产品。香精成本最高接受2000/kg。要求避开传统花香果香调，以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主。销售回复前期无创香费用，首批起订量5kg，再次下单最小10kg。样品预计本周五寄出，由客户产品助理渝淇跟进。",
+      "customer_profile": "",
+      "contacts": [
+        {
+          "name": "柳兰若",
+          "role": "收件人",
+          "organization": "上海赤翎川月科技有限公司",
+          "phone": "13701266645",
+          "email": "",
+          "channel": "快递"
+        },
+        {
+          "name": "渝淇",
+          "role": "产品助理",
+          "organization": "上海赤翎川月科技有限公司",
+          "phone": "",
+          "email": "",
+          "channel": "微信"
+        }
+      ],
+      "overall_deadline": "",
+      "coordination_notes": "客户表示‘我来安排，样品收到后我们可以沟通’；后续由产品助理渝淇帮忙跟进。",
+      "coordination_events": [
+        {
+          "action": "寄送样品",
+          "owner": "逯柏松",
+          "due_original": "本周五",
+          "due_resolved": "2026-08-22",
+          "destination": "中国上海市虹口区东长治路505号雷士德工学院旧址，放快递室",
+          "quantity": "4款香",
+          "purpose": "客户选香",
+          "status": "planned",
+          "source_refs": [
+            {
+              "artifact_id": "a_604428087fe94475",
+              "locator": "第5条消息 10:12",
+              "quote": "哈喽样品预计本周五寄出"
+            }
+          ]
+        }
+      ]
+    },
+    "product": {
+      "name": "",
+      "category_l1": "高级香氛",
+      "category_l2": "个人香氛",
+      "category_l3": "香水油",
+      "application": "无酒精香氛产品",
+      "form": "护肤级别的料体",
+      "usage": "",
+      "substrate": "",
+      "dosage": "",
+      "target_audience": ""
+    },
+    "scent": {
+      "theme": "4款非传统花香果香调，以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主",
+      "core_position": "",
+      "structure": "",
+      "principles": [],
+      "directions": [
+        "金钱的味道【油质】",
+        "权力的游戏【油质】",
+        "天赋的传承【水质】",
+        "名望的中心【水质】"
+      ],
+      "direction_notes": {
+        "金钱的味道【油质】": "海水味道，混合金属和纸张---金钱演化的历史",
+        "权力的游戏【油质】": "印泥的味道【像是印玺要盖章】，木质焚香的祭祀感觉，以及粮食的味道。\n----国家之道，在祀与戎---祭祀和战争的感觉。\n----粮食是因为国家的感觉是社稷，社稷就是粮食",
+        "天赋的传承【水质】": "书卷气，墨水，图书馆的味道，茶和咖啡味道，学院派，大学里面的味道\n有寒窗苦读的感觉。",
+        "名望的中心【水质】": "胶卷的味道，镁光灯的闪烁灼烧味道，还有觥筹交错的一点点红酒香。"
+      },
+      "references": [],
+      "families": [],
+      "top": [],
+      "middle": [],
+      "base": [],
+      "note_references": [],
+      "main_accord": "",
+      "feelings": [],
+      "scenes": [],
+      "exclusions": [
+        "不是传统的花香果香调的"
+      ],
+      "intensity": "",
+      "longevity": "",
+      "diffusion": ""
+    },
+    "commercial": {
+      "target_price": 2000,
+      "markets": [],
+      "channel": "",
+      "annual_volume": "",
+      "sample_due": "本周五",
+      "terminal_price": ""
+    },
+    "compliance": {
+      "markets": [],
+      "regulatory": [],
+      "allergen": "",
+      "halal": "",
+      "flash_point": "",
+      "stability": "",
+      "color": "",
+      "substrate_test": ""
+    },
+    "deliverables": {
+      "type": "创香/选香",
+      "quantity": "4款香",
+      "recipient": "柳兰若，中国上海市虹口区东长治路505号雷士德工学院旧址，放快递室，13701266645",
+      "deadline": "",
+      "notes": "前期没有创香费用；客户表示‘我来安排，样品收到后我们可以沟通’；后续由产品助理渝淇帮忙跟进"
+    },
+    "evidence": {
+      "project.customer": [
+        {
+          "artifact_id": "a_604428087fe94475",
+          "locator": "第2条消息 15:43",
+          "quote": "上海赤翎川月科技有限公司"
+        }
+      ],
+      "project.sales": [
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息三 15:23",
+          "quote": "逯柏松 | 双马香精DHFF"
+        }
+      ],
+      "project.contacts[0]": [
+        {
+          "artifact_id": "a_9c5bcf773f9f48b6",
+          "locator": "第4条消息 15:38",
+          "quote": "中国上海市虹口区东长治路505号雷士德工学院旧址，放快递室，柳兰若，13701266645"
+        }
+      ],
+      "project.contacts[1]": [
+        {
+          "artifact_id": "a_604428087fe94475",
+          "locator": "第6条消息 10:12",
+          "quote": "我们公司产品助理渝淇会帮忙跟进一下"
+        }
+      ],
+      "project.coordination_notes": [
+        {
+          "artifact_id": "a_604428087fe94475",
+          "locator": "第6条消息 10:12",
+          "quote": "我们公司产品助理渝淇会帮忙跟进一下"
+        }
+      ],
+      "product.application": [
+        {
+          "artifact_id": "a_9c5bcf773f9f48b6",
+          "locator": "第1条消息 15:35",
+          "quote": "准备用护肤级别的料体做成无酒精香氛产品"
+        }
+      ],
+      "product.form": [
+        {
+          "artifact_id": "a_9c5bcf773f9f48b6",
+          "locator": "第1条消息 15:35",
+          "quote": "准备用护肤级别的料体做成无酒精香氛产品"
+        }
+      ],
+      "scent.directions": [
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息一 15:14",
+          "quote": "1. 金钱的味道【油质】：海水味道，混合金属和纸张---金钱演化的历史"
+        },
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息一 15:14",
+          "quote": "2. 权力的游戏【油质】：印泥的味道【像是印玺要盖章】，木质焚香的祭祀感觉，以及粮食的味道。"
+        },
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息一 15:14",
+          "quote": "3. 天赋的传承【水质】：书卷气，墨水，图书馆的味道，茶和咖啡味道，学院派，大学里面的味道"
+        },
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息一 15:14",
+          "quote": "4. 名望的中心【水质】：胶卷的味道，镁光灯的闪烁灼烧味道，还有觥筹交错的一点点红酒香。"
+        }
+      ],
+      "scent.exclusions": [
+        {
+          "artifact_id": "a_9c5bcf773f9f48b6",
+          "locator": "第3条消息 15:38",
+          "quote": "不是传统的花香果香调的，而是更多以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主的"
+        }
+      ],
+      "commercial.target_price": [
+        {
+          "artifact_id": "a_9c5bcf773f9f48b6",
+          "locator": "第1条消息 15:35",
+          "quote": "香精成本最高可以接受到2000/kg的程度"
+        }
+      ],
+      "commercial.sample_due": [
+        {
+          "artifact_id": "a_604428087fe94475",
+          "locator": "第5条消息 10:12",
+          "quote": "哈喽样品预计本周五寄出"
+        }
+      ],
+      "deliverables.type": [
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息一 15:14",
+          "quote": "我们最近有4款香的创香需求"
+        }
+      ],
+      "deliverables.quantity": [
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息一 15:14",
+          "quote": "我们最近有4款香的创香需求"
+        }
+      ],
+      "deliverables.recipient": [
+        {
+          "artifact_id": "a_9c5bcf773f9f48b6",
+          "locator": "第4条消息 15:38",
+          "quote": "中国上海市虹口区东长治路505号雷士德工学院旧址，放快递室，柳兰若，13701266645"
+        }
+      ],
+      "deliverables.notes": [
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息三 15:23",
+          "quote": "前期没有创香费用"
+        },
+        {
+          "artifact_id": "a_604428087fe94475",
+          "locator": "第6条消息 10:12",
+          "quote": "我们公司产品助理渝淇会帮忙跟进一下"
+        }
+      ]
+    },
+    "open_questions": [
+      {
+        "question": "客户要求‘在现有香型里选一选那种相对特别一点的’，同时又提了‘4款香的创香需求’，本次交付是以现有样品选香为主还是全新创香为主需确认",
+        "impact": "影响研发执行路径（选香或创香）",
+        "owner": "评香"
+      },
+      {
+        "question": "销售回复‘哈喽样品预计本周五寄出’，聊天日期为2026年8月18日，对应周五为8月22日，但原文仅写‘本周五’，已保留原文至sample_due",
+        "impact": "影响样品寄送排期",
+        "owner": "销售"
+      },
+      {
+        "question": "4款方向分别标注了【油质】和【水质】，客户未明确说明该标签是指香精溶剂类型还是终产品剂型，暂保留在directions原话中",
+        "impact": "影响配方开发与打样基质选择",
+        "owner": "评香"
+      },
+      {
+        "question": "品类可能是 香水油（置信度 0.45），请评香确认；备选：香水、香膏",
+        "impact": "影响新类/规范类与推荐范围",
+        "owner": "评香"
+      },
+      {
+        "question": "建议和客户确认相关成分/宣称合规要求：资料提到护肤级，需确认原料合规、宣称依据、检测/备案要求，寄样前单独核对。",
+        "impact": "影响法规/原料/寄样",
+        "owner": "销售"
+      }
+    ]
+  },
+  "story": {
+    "summary": "客户上海赤翎川月科技有限公司于2026年8月12日通过微信联系销售逯柏松，提出4款香的创香需求，用于护肤级别料体做成的无酒精香氛产品。客户给出4个具体方向：金钱的味道（油质）、权力的游戏（油质）、天赋的传承（水质）、名望的中心（水质），并明确香精成本上限2000元/kg，要求避开传统花香果香调，以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主。销售回复无创香费用，首批起订量5kg，再次下单最小10kg。客户提供寄样地址和收件人柳兰若，并指定产品助理渝淇跟进。销售预计本周五寄出样品。目前项目处于选香/创香路径待确认阶段。",
+    "timeline": [
+      {
+        "date": "2026-08-12 15:14",
+        "event": "客户提出4款香的创香需求，并给出具体方向描述",
+        "source_refs": [
+          {
+            "artifact_id": "a_7780c9a3cff449a9",
+            "locator": "消息一 15:14",
+            "quote": "我们最近有4款香的创香需求，我先发给您看看：1. 金钱的味道【油质】：海水味道，混合金属和纸张---金钱演化的历史 2. 权力的游戏【油质】：印泥的味道【像是印玺要盖章】，木质焚香的祭祀感觉，以及粮食的味道。----国家之道，在祀与戎---祭祀和战争的感觉。----粮食是因为国家的感觉是社稷，社稷就是粮食 3. 天赋的传承【水质】：书卷气，墨水，图书馆的味道，茶和咖啡味道，学院派，大学里面的味道 有寒窗苦读的感觉。 4. 名望的中心【水质】：胶卷的味道，镁光灯的闪烁灼烧味道，还有觥筹交错的一点点红酒香。"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-12 15:23",
+        "event": "销售回复合作模式：前期无创香费用，首批起订量5kg，再次下单最小10kg",
+        "source_refs": [
+          {
+            "artifact_id": "a_7780c9a3cff449a9",
+            "locator": "消息三 15:23",
+            "quote": "前期没有创香费用，起订量是首批5kg，再次下单最小10kg"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-12 15:35",
+        "event": "客户明确产品为护肤级别料体做成的无酒精香氛产品，香精成本上限2000元/kg",
+        "source_refs": [
+          {
+            "artifact_id": "a_9c5bcf773f9f48b6",
+            "locator": "第1条消息 15:35",
+            "quote": "准备用护肤级别的料体做成无酒精香氛产品，香精成本最高可以接受到2000/kg的程度"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-12 15:38",
+        "event": "客户要求从现有香型中选相对特别的，以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主，并提供寄样地址",
+        "source_refs": [
+          {
+            "artifact_id": "a_9c5bcf773f9f48b6",
+            "locator": "第3条消息 15:38",
+            "quote": "那麻烦您帮我在现有香型里选一选那种相对特别一点的，不是传统的花香果香调的，而是更多以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主的"
+          },
+          {
+            "artifact_id": "a_9c5bcf773f9f48b6",
+            "locator": "第4条消息 15:38",
+            "quote": "中国上海市虹口区东长治路505号雷士德工学院旧址，放快递室，柳兰若，13701266645"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-12 15:43",
+        "event": "客户提供公司名称：上海赤翎川月科技有限公司",
+        "source_refs": [
+          {
+            "artifact_id": "a_604428087fe94475",
+            "locator": "第2条消息 15:43",
+            "quote": "上海赤翎川月科技有限公司"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-18 10:12",
+        "event": "销售回复样品预计本周五寄出，客户表示拉群由产品助理渝淇跟进",
+        "source_refs": [
+          {
+            "artifact_id": "a_604428087fe94475",
+            "locator": "第5条消息 10:12",
+            "quote": "哈喽样品预计本周五寄出"
+          },
+          {
+            "artifact_id": "a_604428087fe94475",
+            "locator": "第6条消息 10:12",
+            "quote": "好的，我拉个群，我们公司产品助理渝淇会帮忙跟进一下"
+          }
+        ]
+      }
+    ],
+    "decisions": [],
+    "conflicts": [
+      {
+        "issue": "客户同时提出‘创香需求’和‘在现有香型里选一选’，交付路径存在歧义",
+        "source_refs": [
+          {
+            "artifact_id": "a_7780c9a3cff449a9",
+            "locator": "消息一 15:14",
+            "quote": "我们最近有4款香的创香需求"
+          },
+          {
+            "artifact_id": "a_9c5bcf773f9f48b6",
+            "locator": "第3条消息 15:38",
+            "quote": "那麻烦您帮我在现有香型里选一选那种相对特别一点的"
+          }
+        ]
+      }
+    ],
+    "open_questions": [
+      {
+        "question": "本次交付是以现有样品选香为主还是全新创香为主？",
+        "impact": "影响研发执行路径",
+        "owner": "评香"
+      },
+      {
+        "question": "4款方向标注的【油质】和【水质】具体指什么？",
+        "impact": "影响配方开发与打样基质选择",
+        "owner": "评香"
+      },
+      {
+        "question": "品类是否为香水油？",
+        "impact": "影响新类/规范类与推荐范围",
+        "owner": "评香"
+      }
+    ]
+  },
+  "artifact_annotations": [
+    {
+      "artifact_id": "a_7780c9a3cff449a9",
+      "source_type": "微信",
+      "role": "需求",
+      "summary": "客户提出4款香的创香需求，给出具体方向描述，并询问合作模式",
+      "relation": "initial",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "source_refs": [
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息一 15:14",
+          "quote": "我们最近有4款香的创香需求，我先发给您看看：1. 金钱的味道【油质】：海水味道，混合金属和纸张---金钱演化的历史 2. 权力的游戏【油质】：印泥的味道【像是印玺要盖章】，木质焚香的祭祀感觉，以及粮食的味道。----国家之道，在祀与戎---祭祀和战争的感觉。----粮食是因为国家的感觉是社稷，社稷就是粮食 3. 天赋的传承【水质】：书卷气，墨水，图书馆的味道，茶和咖啡味道，学院派，大学里面的味道 有寒窗苦读的感觉。 4. 名望的中心【水质】：胶卷的味道，镁光灯的闪烁灼烧味道，还有觥筹交错的一点点红酒香。"
+        }
+      ]
+    },
+    {
+      "artifact_id": "a_9c5bcf773f9f48b6",
+      "source_type": "微信",
+      "role": "需求",
+      "summary": "客户明确产品为护肤级别料体做成的无酒精香氛产品，香精成本上限2000元/kg，要求避开传统花香果香调，以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主，并提供寄样地址",
+      "relation": "supplement",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "source_refs": [
+        {
+          "artifact_id": "a_9c5bcf773f9f48b6",
+          "locator": "第1条消息 15:35",
+          "quote": "准备用护肤级别的料体做成无酒精香氛产品，香精成本最高可以接受到2000/kg的程度"
+        },
+        {
+          "artifact_id": "a_9c5bcf773f9f48b6",
+          "locator": "第3条消息 15:38",
+          "quote": "那麻烦您帮我在现有香型里选一选那种相对特别一点的，不是传统的花香果香调的，而是更多以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主的"
+        }
+      ]
+    },
+    {
+      "artifact_id": "a_604428087fe94475",
+      "source_type": "微信",
+      "role": "交接",
+      "summary": "客户提供公司名称，销售回复样品寄出时间，客户指定产品助理渝淇跟进",
+      "relation": "progression",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "source_refs": [
+        {
+          "artifact_id": "a_604428087fe94475",
+          "locator": "第2条消息 15:43",
+          "quote": "上海赤翎川月科技有限公司"
+        },
+        {
+          "artifact_id": "a_604428087fe94475",
+          "locator": "第5条消息 10:12",
+          "quote": "哈喽样品预计本周五寄出"
+        },
+        {
+          "artifact_id": "a_604428087fe94475",
+          "locator": "第6条消息 10:12",
+          "quote": "好的，我拉个群，我们公司产品助理渝淇会帮忙跟进一下"
+        }
+      ]
+    }
+  ],
+  "subprojects": [
+    {
+      "id": "s_6487508897144ebb",
+      "key": "money",
+      "title": "权力_trial · 金钱的味道【油质】",
+      "task_type": "recommend_brand",
+      "type_basis": {
+        "reason": "客户要求从现有香型中选相对特别的，且无明确原创委托，应优先从库选型试香",
+        "confidence": 0.8
+      },
+      "parent_subproject_id": "",
+      "category_k_code": "K002",
+      "direction": "金钱的味道【油质】",
+      "brief": {
+        "project": {
+          "name": "",
+          "customer": "上海赤翎川月科技有限公司",
+          "brand": "",
+          "sales": "逯柏松",
+          "evaluator": "评香",
+          "grade": "",
+          "summary": "客户提出4款香的创香需求，用于护肤级别料体做成的无酒精香氛产品。香精成本最高接受2000/kg。要求避开传统花香果香调，以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主。销售回复前期无创香费用，首批起订量5kg，再次下单最小10kg。样品预计本周五寄出，由客户产品助理渝淇跟进。",
+          "customer_profile": "",
+          "contacts": [],
+          "overall_deadline": "",
+          "coordination_notes": "",
+          "coordination_events": []
+        },
+        "product": {
+          "name": "",
+          "category_l1": "高级香氛",
+          "category_l2": "个人香氛",
+          "category_l3": "香水油",
+          "application": "无酒精香氛产品",
+          "form": "护肤级别的料体",
+          "usage": "",
+          "substrate": "",
+          "dosage": "",
+          "target_audience": ""
+        },
+        "scent": {
+          "theme": "方向：金钱的味道【油质】；海水味道，混合金属和纸张---金钱演化的历史",
+          "core_position": "",
+          "structure": "",
+          "principles": [],
+          "directions": [
+            "金钱的味道【油质】"
+          ],
+          "direction_notes": {
+            "金钱的味道【油质】": "海水味道，混合金属和纸张---金钱演化的历史"
+          },
+          "references": [],
+          "families": [
+            "金钱的味道【油质】"
+          ],
+          "top": [],
+          "middle": [],
+          "base": [],
+          "note_references": [],
+          "main_accord": "",
+          "feelings": [],
+          "scenes": [],
+          "exclusions": [
+            "不是传统的花香果香调的"
+          ],
+          "intensity": "",
+          "longevity": "",
+          "diffusion": ""
+        },
+        "commercial": {
+          "target_price": 2000,
+          "markets": [],
+          "channel": "",
+          "annual_volume": "",
+          "sample_due": "本周五",
+          "terminal_price": ""
+        },
+        "compliance": {
+          "markets": [],
+          "regulatory": [],
+          "allergen": "",
+          "halal": "",
+          "flash_point": "",
+          "stability": "",
+          "color": "",
+          "substrate_test": ""
+        },
+        "deliverables": {
+          "type": "创香/选香",
+          "quantity": "4款香",
+          "recipient": "柳兰若，中国上海市虹口区东长治路505号雷士德工学院旧址，放快递室，13701266645",
+          "deadline": "",
+          "notes": "前期没有创香费用；客户表示‘我来安排，样品收到后我们可以沟通’；后续由产品助理渝淇帮忙跟进"
+        },
+        "modification": "",
+        "evidence": {
+          "scent.directions": [
+            {
+              "artifact_id": "a_7780c9a3cff449a9",
+              "locator": "消息一 15:14",
+              "quote": "1. 金钱的味道【油质】：海水味道，混合金属和纸张---金钱演化的历史"
+            }
+          ],
+          "scent.exclusions": [
+            {
+              "artifact_id": "a_9c5bcf773f9f48b6",
+              "locator": "第3条消息 15:38",
+              "quote": "不是传统的花香果香调的，而是更多以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主的"
+            }
+          ],
+          "commercial.target_price": [
+            {
+              "artifact_id": "a_9c5bcf773f9f48b6",
+              "locator": "第1条消息 15:35",
+              "quote": "香精成本最高可以接受到2000/kg的程度"
+            }
+          ]
+        },
+        "open_questions": []
+      },
+      "a1": [],
+      "a2": [],
+      "a3": [],
+      "b": [],
+      "target_cs": [],
+      "abc_basis": [],
+      "brand_requirements": [],
+      "wants_hot": false,
+      "wants_new": false,
+      "target_products": [],
+      "base_formula_code": "",
+      "source_refs": [
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息一 15:14",
+          "quote": "1. 金钱的味道【油质】：海水味道，混合金属和纸张---金钱演化的历史"
+        }
+      ]
+    },
+    {
+      "id": "s_47342eeeabb54f25",
+      "key": "power",
+      "title": "权力_trial · 权力的游戏【油质】",
+      "task_type": "recommend_brand",
+      "type_basis": {
+        "reason": "客户要求从现有香型中选相对特别的，且无明确原创委托，应优先从库选型试香",
+        "confidence": 0.8
+      },
+      "parent_subproject_id": "",
+      "category_k_code": "K002",
+      "direction": "权力的游戏【油质】",
+      "brief": {
+        "project": {
+          "name": "",
+          "customer": "上海赤翎川月科技有限公司",
+          "brand": "",
+          "sales": "逯柏松",
+          "evaluator": "评香",
+          "grade": "",
+          "summary": "客户提出4款香的创香需求，用于护肤级别料体做成的无酒精香氛产品。香精成本最高接受2000/kg。要求避开传统花香果香调，以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主。销售回复前期无创香费用，首批起订量5kg，再次下单最小10kg。样品预计本周五寄出，由客户产品助理渝淇跟进。",
+          "customer_profile": "",
+          "contacts": [],
+          "overall_deadline": "",
+          "coordination_notes": "",
+          "coordination_events": []
+        },
+        "product": {
+          "name": "",
+          "category_l1": "高级香氛",
+          "category_l2": "个人香氛",
+          "category_l3": "香水油",
+          "application": "无酒精香氛产品",
+          "form": "护肤级别的料体",
+          "usage": "",
+          "substrate": "",
+          "dosage": "",
+          "target_audience": ""
+        },
+        "scent": {
+          "theme": "方向：权力的游戏【油质】；印泥的味道【像是印玺要盖章】，木质焚香的祭祀感觉，以及粮食的味道。\n----国家之道，在祀与戎---祭祀和战争的感觉。\n----粮食是因为国家的感觉是社稷，社稷就是粮食",
+          "core_position": "",
+          "structure": "",
+          "principles": [],
+          "directions": [
+            "权力的游戏【油质】"
+          ],
+          "direction_notes": {
+            "权力的游戏【油质】": "印泥的味道【像是印玺要盖章】，木质焚香的祭祀感觉，以及粮食的味道。\n----国家之道，在祀与戎---祭祀和战争的感觉。\n----粮食是因为国家的感觉是社稷，社稷就是粮食"
+          },
+          "references": [],
+          "families": [
+            "权力的游戏【油质】"
+          ],
+          "top": [],
+          "middle": [],
+          "base": [],
+          "note_references": [],
+          "main_accord": "",
+          "feelings": [],
+          "scenes": [],
+          "exclusions": [
+            "不是传统的花香果香调的"
+          ],
+          "intensity": "",
+          "longevity": "",
+          "diffusion": ""
+        },
+        "commercial": {
+          "target_price": 2000,
+          "markets": [],
+          "channel": "",
+          "annual_volume": "",
+          "sample_due": "本周五",
+          "terminal_price": ""
+        },
+        "compliance": {
+          "markets": [],
+          "regulatory": [],
+          "allergen": "",
+          "halal": "",
+          "flash_point": "",
+          "stability": "",
+          "color": "",
+          "substrate_test": ""
+        },
+        "deliverables": {
+          "type": "创香/选香",
+          "quantity": "4款香",
+          "recipient": "柳兰若，中国上海市虹口区东长治路505号雷士德工学院旧址，放快递室，13701266645",
+          "deadline": "",
+          "notes": "前期没有创香费用；客户表示‘我来安排，样品收到后我们可以沟通’；后续由产品助理渝淇帮忙跟进"
+        },
+        "modification": "",
+        "evidence": {
+          "scent.directions": [
+            {
+              "artifact_id": "a_7780c9a3cff449a9",
+              "locator": "消息一 15:14",
+              "quote": "2. 权力的游戏【油质】：印泥的味道【像是印玺要盖章】，木质焚香的祭祀感觉，以及粮食的味道。"
+            }
+          ],
+          "scent.exclusions": [
+            {
+              "artifact_id": "a_9c5bcf773f9f48b6",
+              "locator": "第3条消息 15:38",
+              "quote": "不是传统的花香果香调的，而是更多以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主的"
+            }
+          ],
+          "commercial.target_price": [
+            {
+              "artifact_id": "a_9c5bcf773f9f48b6",
+              "locator": "第1条消息 15:35",
+              "quote": "香精成本最高可以接受到2000/kg的程度"
+            }
+          ]
+        },
+        "open_questions": []
+      },
+      "a1": [],
+      "a2": [],
+      "a3": [],
+      "b": [],
+      "target_cs": [],
+      "abc_basis": [],
+      "brand_requirements": [],
+      "wants_hot": false,
+      "wants_new": false,
+      "target_products": [],
+      "base_formula_code": "",
+      "source_refs": [
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息一 15:14",
+          "quote": "2. 权力的游戏【油质】：印泥的味道【像是印玺要盖章】，木质焚香的祭祀感觉，以及粮食的味道。"
+        }
+      ]
+    },
+    {
+      "id": "s_b37525914c3e4fd4",
+      "key": "talent",
+      "title": "权力_trial · 天赋的传承【水质】",
+      "task_type": "recommend_brand",
+      "type_basis": {
+        "reason": "客户要求从现有香型中选相对特别的，且无明确原创委托，应优先从库选型试香",
+        "confidence": 0.8
+      },
+      "parent_subproject_id": "",
+      "category_k_code": "K002",
+      "direction": "天赋的传承【水质】",
+      "brief": {
+        "project": {
+          "name": "",
+          "customer": "上海赤翎川月科技有限公司",
+          "brand": "",
+          "sales": "逯柏松",
+          "evaluator": "评香",
+          "grade": "",
+          "summary": "客户提出4款香的创香需求，用于护肤级别料体做成的无酒精香氛产品。香精成本最高接受2000/kg。要求避开传统花香果香调，以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主。销售回复前期无创香费用，首批起订量5kg，再次下单最小10kg。样品预计本周五寄出，由客户产品助理渝淇跟进。",
+          "customer_profile": "",
+          "contacts": [],
+          "overall_deadline": "",
+          "coordination_notes": "",
+          "coordination_events": []
+        },
+        "product": {
+          "name": "",
+          "category_l1": "高级香氛",
+          "category_l2": "个人香氛",
+          "category_l3": "香水油",
+          "application": "无酒精香氛产品",
+          "form": "护肤级别的料体",
+          "usage": "",
+          "substrate": "",
+          "dosage": "",
+          "target_audience": ""
+        },
+        "scent": {
+          "theme": "方向：天赋的传承【水质】；书卷气，墨水，图书馆的味道，茶和咖啡味道，学院派，大学里面的味道\n有寒窗苦读的感觉。",
+          "core_position": "",
+          "structure": "",
+          "principles": [],
+          "directions": [
+            "天赋的传承【水质】"
+          ],
+          "direction_notes": {
+            "天赋的传承【水质】": "书卷气，墨水，图书馆的味道，茶和咖啡味道，学院派，大学里面的味道\n有寒窗苦读的感觉。"
+          },
+          "references": [],
+          "families": [
+            "天赋的传承【水质】"
+          ],
+          "top": [],
+          "middle": [],
+          "base": [],
+          "note_references": [],
+          "main_accord": "",
+          "feelings": [],
+          "scenes": [],
+          "exclusions": [
+            "不是传统的花香果香调的"
+          ],
+          "intensity": "",
+          "longevity": "",
+          "diffusion": ""
+        },
+        "commercial": {
+          "target_price": 2000,
+          "markets": [],
+          "channel": "",
+          "annual_volume": "",
+          "sample_due": "本周五",
+          "terminal_price": ""
+        },
+        "compliance": {
+          "markets": [],
+          "regulatory": [],
+          "allergen": "",
+          "halal": "",
+          "flash_point": "",
+          "stability": "",
+          "color": "",
+          "substrate_test": ""
+        },
+        "deliverables": {
+          "type": "创香/选香",
+          "quantity": "4款香",
+          "recipient": "柳兰若，中国上海市虹口区东长治路505号雷士德工学院旧址，放快递室，13701266645",
+          "deadline": "",
+          "notes": "前期没有创香费用；客户表示‘我来安排，样品收到后我们可以沟通’；后续由产品助理渝淇帮忙跟进"
+        },
+        "modification": "",
+        "evidence": {
+          "scent.directions": [
+            {
+              "artifact_id": "a_7780c9a3cff449a9",
+              "locator": "消息一 15:14",
+              "quote": "3. 天赋的传承【水质】：书卷气，墨水，图书馆的味道，茶和咖啡味道，学院派，大学里面的味道"
+            }
+          ],
+          "scent.exclusions": [
+            {
+              "artifact_id": "a_9c5bcf773f9f48b6",
+              "locator": "第3条消息 15:38",
+              "quote": "不是传统的花香果香调的，而是更多以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主的"
+            }
+          ],
+          "commercial.target_price": [
+            {
+              "artifact_id": "a_9c5bcf773f9f48b6",
+              "locator": "第1条消息 15:35",
+              "quote": "香精成本最高可以接受到2000/kg的程度"
+            }
+          ]
+        },
+        "open_questions": []
+      },
+      "a1": [],
+      "a2": [],
+      "a3": [],
+      "b": [],
+      "target_cs": [],
+      "abc_basis": [],
+      "brand_requirements": [],
+      "wants_hot": false,
+      "wants_new": false,
+      "target_products": [],
+      "base_formula_code": "",
+      "source_refs": [
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息一 15:14",
+          "quote": "3. 天赋的传承【水质】：书卷气，墨水，图书馆的味道，茶和咖啡味道，学院派，大学里面的味道"
+        }
+      ]
+    },
+    {
+      "id": "s_9248a3a812a9431c",
+      "key": "fame",
+      "title": "权力_trial · 名望的中心【水质】",
+      "task_type": "recommend_brand",
+      "type_basis": {
+        "reason": "客户要求从现有香型中选相对特别的，且无明确原创委托，应优先从库选型试香",
+        "confidence": 0.8
+      },
+      "parent_subproject_id": "",
+      "category_k_code": "K002",
+      "direction": "名望的中心【水质】",
+      "brief": {
+        "project": {
+          "name": "",
+          "customer": "上海赤翎川月科技有限公司",
+          "brand": "",
+          "sales": "逯柏松",
+          "evaluator": "评香",
+          "grade": "",
+          "summary": "客户提出4款香的创香需求，用于护肤级别料体做成的无酒精香氛产品。香精成本最高接受2000/kg。要求避开传统花香果香调，以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主。销售回复前期无创香费用，首批起订量5kg，再次下单最小10kg。样品预计本周五寄出，由客户产品助理渝淇跟进。",
+          "customer_profile": "",
+          "contacts": [],
+          "overall_deadline": "",
+          "coordination_notes": "",
+          "coordination_events": []
+        },
+        "product": {
+          "name": "",
+          "category_l1": "高级香氛",
+          "category_l2": "个人香氛",
+          "category_l3": "香水油",
+          "application": "无酒精香氛产品",
+          "form": "护肤级别的料体",
+          "usage": "",
+          "substrate": "",
+          "dosage": "",
+          "target_audience": ""
+        },
+        "scent": {
+          "theme": "方向：名望的中心【水质】；胶卷的味道，镁光灯的闪烁灼烧味道，还有觥筹交错的一点点红酒香。",
+          "core_position": "",
+          "structure": "",
+          "principles": [],
+          "directions": [
+            "名望的中心【水质】"
+          ],
+          "direction_notes": {
+            "名望的中心【水质】": "胶卷的味道，镁光灯的闪烁灼烧味道，还有觥筹交错的一点点红酒香。"
+          },
+          "references": [],
+          "families": [
+            "名望的中心【水质】"
+          ],
+          "top": [],
+          "middle": [],
+          "base": [],
+          "note_references": [],
+          "main_accord": "",
+          "feelings": [],
+          "scenes": [],
+          "exclusions": [
+            "不是传统的花香果香调的"
+          ],
+          "intensity": "",
+          "longevity": "",
+          "diffusion": ""
+        },
+        "commercial": {
+          "target_price": 2000,
+          "markets": [],
+          "channel": "",
+          "annual_volume": "",
+          "sample_due": "本周五",
+          "terminal_price": ""
+        },
+        "compliance": {
+          "markets": [],
+          "regulatory": [],
+          "allergen": "",
+          "halal": "",
+          "flash_point": "",
+          "stability": "",
+          "color": "",
+          "substrate_test": ""
+        },
+        "deliverables": {
+          "type": "创香/选香",
+          "quantity": "4款香",
+          "recipient": "柳兰若，中国上海市虹口区东长治路505号雷士德工学院旧址，放快递室，13701266645",
+          "deadline": "",
+          "notes": "前期没有创香费用；客户表示‘我来安排，样品收到后我们可以沟通’；后续由产品助理渝淇帮忙跟进"
+        },
+        "modification": "",
+        "evidence": {
+          "scent.directions": [
+            {
+              "artifact_id": "a_7780c9a3cff449a9",
+              "locator": "消息一 15:14",
+              "quote": "4. 名望的中心【水质】：胶卷的味道，镁光灯的闪烁灼烧味道，还有觥筹交错的一点点红酒香。"
+            }
+          ],
+          "scent.exclusions": [
+            {
+              "artifact_id": "a_9c5bcf773f9f48b6",
+              "locator": "第3条消息 15:38",
+              "quote": "不是传统的花香果香调的，而是更多以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主的"
+            }
+          ],
+          "commercial.target_price": [
+            {
+              "artifact_id": "a_9c5bcf773f9f48b6",
+              "locator": "第1条消息 15:35",
+              "quote": "香精成本最高可以接受到2000/kg的程度"
+            }
+          ]
+        },
+        "open_questions": []
+      },
+      "a1": [],
+      "a2": [],
+      "a3": [],
+      "b": [],
+      "target_cs": [],
+      "abc_basis": [],
+      "brand_requirements": [],
+      "wants_hot": false,
+      "wants_new": false,
+      "target_products": [],
+      "base_formula_code": "",
+      "source_refs": [
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息一 15:14",
+          "quote": "4. 名望的中心【水质】：胶卷的味道，镁光灯的闪烁灼烧味道，还有觥筹交错的一点点红酒香。"
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "requirement": "4款香的创香需求",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "disposition": "独立推进",
+      "source_refs": [
+        {
+          "artifact_id": "a_7780c9a3cff449a9",
+          "locator": "消息一 15:14",
+          "quote": "我们最近有4款香的创香需求"
+        }
+      ]
+    },
+    {
+      "requirement": "无酒精香氛产品，护肤级别料体",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "disposition": "补充已有",
+      "source_refs": [
+        {
+          "artifact_id": "a_9c5bcf773f9f48b6",
+          "locator": "第1条消息 15:35",
+          "quote": "准备用护肤级别的料体做成无酒精香氛产品"
+        }
+      ]
+    },
+    {
+      "requirement": "香精成本最高2000元/kg",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "disposition": "补充已有",
+      "source_refs": [
+        {
+          "artifact_id": "a_9c5bcf773f9f48b6",
+          "locator": "第1条消息 15:35",
+          "quote": "香精成本最高可以接受到2000/kg的程度"
+        }
+      ]
+    },
+    {
+      "requirement": "避开传统花香果香调，以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "disposition": "补充已有",
+      "source_refs": [
+        {
+          "artifact_id": "a_9c5bcf773f9f48b6",
+          "locator": "第3条消息 15:38",
+          "quote": "不是传统的花香果香调的，而是更多以纸张、墨水、皮革、美食（谷物）、金属、酒香调为主的"
+        }
+      ]
+    },
+    {
+      "requirement": "寄样地址和收件人",
+      "subproject_keys": [
+        "money",
+        "power",
+        "talent",
+        "fame"
+      ],
+      "disposition": "补充已有",
+      "source_refs": [
+        {
+          "artifact_id": "a_9c5bcf773f9f48b6",
+          "locator": "第4条消息 15:38",
+          "quote": "中国上海市虹口区东长治路505号雷士德工学院旧址，放快递室，柳兰若，13701266645"
+        }
+      ]
+    }
+  ],
+  "ontology_gaps": [],
+  "warnings": [
+    "客户同时提出‘创香需求’和‘在现有香型里选一选’，交付路径存在歧义，已按recommend_brand处理，待确认。",
+    "品类为香水油置信度0.45，需评香确认。",
+    "4款方向标注的【油质】和【水质】含义未明确，需确认。"
+  ]
+}

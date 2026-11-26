@@ -1,0 +1,12 @@
+{
+  "taxonomy_version": "品类与ABC标签体系_V2",
+  "total_source_rows": 3890,
+  "unique_valid_codes": 3831,
+  "zero_missing_code_rows": 1,
+  "duplicate_codes": 53,
+  "duplicate_extra_rows": 58,
+  "batch_size": 30,
+  "batch_count": 130,
+  "draft_product_candidate_rows": 665,
+  "brand_only_rows": 45
+}

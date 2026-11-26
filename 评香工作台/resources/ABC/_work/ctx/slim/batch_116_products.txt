@@ -1,0 +1,5 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0052	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	官网已核验存在
+PR_0064	汤姆·福特	Soleil Neige	太阳雪；雪映流光	待检索核验
+PR_0223	浪凡	Marry Me!	marry me；嫁给我	待检索核验
+PR_0273	莫斯奇诺	I Love Love	爱你之爱	待检索核验

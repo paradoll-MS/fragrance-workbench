@@ -1,0 +1,1 @@
+{"groups": [{"g": "d1", "direction": "洗发水对香-牛奶美食方向", "cat": ["CAT_03"], "samples": [1], "kind": "recommended", "n": [1], "query": {"A1": ["牛奶"], "A2": ["乳香韵"], "A3": ["乳脂美食调"], "B": ["柔软感", "温暖感", "贴肤感"]}, "tags_same_as_query": true}], "individual": [], "counter": [], "gaps": [], "unresolved": [], "_raw_len": 265}

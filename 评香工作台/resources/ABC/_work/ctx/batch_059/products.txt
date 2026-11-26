@@ -1,0 +1,8 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0084	BR_007	勒莱柏	Bergamote 22	香柠檬22	3	官网已核验存在	https://www.lelabofragrances.com/classic-collection.html	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0173	BR_019	馥马尔	Portrait of a Lady	贵妇肖像	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0181	BR_021	解放橘郡	You Or Someone Like You	像你的人	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0266	BR_043	维多利亚的秘密	Vanilla Lace	VANILLA LACE；香草蕾丝	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0267	BR_043	维多利亚的秘密	Pure Seduction	纯净诱惑；纯诱惑	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0299	BR_054	马克·雅可布	Daisy	小雏菊	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0338	BR_064	拉夫劳伦	Polo Blue	蓝色马球	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

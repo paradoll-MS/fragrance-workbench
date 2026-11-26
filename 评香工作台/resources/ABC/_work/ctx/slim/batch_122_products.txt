@@ -1,0 +1,6 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0041	爱马仕	Un Jardin sur le Toit	屋顶花园	官网已核验存在
+PR_0052	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	官网已核验存在
+PR_0064	汤姆·福特	Soleil Neige	太阳雪；雪映流光	待检索核验
+PR_0246	卡亚利	Vanilla Candy Rock Sugar 42	香草冰糖42	待检索核验
+PR_0251	拉塔法	Whipped Pleasure	绵密欢愉	待检索核验

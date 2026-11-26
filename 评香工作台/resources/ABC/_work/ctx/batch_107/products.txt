@@ -1,0 +1,7 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0003	BR_001	香奈儿	Chance Eau Fraîche	绿邂逅；邂逅清新	7	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0004	BR_001	香奈儿	Chance Eau Tendre	粉色邂逅；粉邂逅；邂逅柔情	7	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0007	BR_001	香奈儿	Gabrielle	CHANEL GABRIELLE；嘉柏丽尔	5	官网已核验存在	https://www.chanel.com/us/fragrance/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0103	BR_009	阿蒂仙之香	Passage d’Enfer	冥府之路	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0149	BR_016	古驰	Guilty Pour Homme	罪爱男士	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0170	BR_018	潘海利根	Endymion	恩迪弥安；牧羊少年	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

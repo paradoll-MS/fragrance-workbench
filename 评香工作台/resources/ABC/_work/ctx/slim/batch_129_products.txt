@@ -1,0 +1,4 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0210	巴宝莉	Her	Burberry Her	待检索核验
+PR_0252	拉塔法	Nebras	内布拉斯	待检索核验
+PR_0272	莫斯奇诺	Toy Boy	玩偶少年	待检索核验

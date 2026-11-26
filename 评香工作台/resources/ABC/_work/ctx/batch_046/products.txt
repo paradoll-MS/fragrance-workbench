@@ -1,0 +1,10 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0004	BR_001	香奈儿	Chance Eau Tendre	粉色邂逅；粉邂逅；邂逅柔情	7	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0062	BR_005	汤姆·福特	Bitter Peach	桃涩花蜜；苦桃	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0077	BR_006	蒂普提克	Eau des Sens	感官之水	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0126	BR_013	兰蔻	La Vie Est Belle	LA VIE EST BELLE；美丽人生	15	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0175	BR_019	馥马尔	Eau de Magnolia	木兰之水	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0259	BR_038	阿芙南	9PM Elixir	9PM Elixir；下午9点馥郁版；下午9点（馥郁版）	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0269	BR_043	维多利亚的秘密	Pink Tide	粉红潮汐	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0275	BR_045	罗意威	001 Woman	001 事后清晨女士	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0332	BR_001	香奈儿	COCO	COCO	11	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

@@ -1,0 +1,5 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0023	BR_002	祖玛珑	Wood Sage & Sea Salt	鼠尾草与海盐；鼠尾草海盐	7	官网已核验存在	https://www.jomalone.com/scent-layering	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0052	BR_004	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	11	官网已核验存在	https://www.yslbeautyus.com/fragrance/womens-fragrances/mon-paris/mon-paris-eau-de-parfum/3614272048447.html	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0231	BR_033	安娜苏	Secret Wish	许愿精灵	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0332	BR_001	香奈儿	COCO	COCO	11	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

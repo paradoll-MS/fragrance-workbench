@@ -1,0 +1,13 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0012	BR_001	香奈儿	COCO Noir	COCO Noir；可可小姐黑色	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0016	BR_001	香奈儿	Sycomore	梧桐影木	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0051	BR_004	圣罗兰	Black Opium	黑鸦片	7	官网已核验存在	https://www.yslbeautyus.com/fragrance/womens-fragrances/black-opium/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0052	BR_004	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	11	官网已核验存在	https://www.yslbeautyus.com/fragrance/womens-fragrances/mon-paris/mon-paris-eau-de-parfum/3614272048447.html	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0095	BR_008	柏芮朵	Rose of No Man’s Land	无人区玫瑰	3	官网已核验存在	https://www.byredo.com/us_en/c/perfume/personal-fragrances/categories/250ml	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0173	BR_019	馥马尔	Portrait of a Lady	贵妇肖像	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0186	BR_022	娇兰	Mon Guerlain	我的娇兰	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0189	BR_022	娇兰	Aqua Allegoria Mandarine Basilic	柑橘罗勒	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0242	BR_036	卡亚利	Vanilla 28	香草28	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0250	BR_037	拉塔法	Cookie Crave	曲奇执念	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0264	BR_042	吉萨	Martinique	GISSAH 马提尼克桂花	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0287	BR_049	阿莎罗	Chrome	铬元素	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

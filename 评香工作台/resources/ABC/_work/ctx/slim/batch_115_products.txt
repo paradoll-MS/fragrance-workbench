@@ -1,0 +1,3 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0023	祖玛珑	Wood Sage & Sea Salt	鼠尾草与海盐；鼠尾草海盐	官网已核验存在
+PR_0332	香奈儿	COCO	COCO	待检索核验

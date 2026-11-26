@@ -1,0 +1,13 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0012	香奈儿	COCO Noir	COCO Noir；可可小姐黑色	待检索核验
+PR_0016	香奈儿	Sycomore	梧桐影木	待检索核验
+PR_0051	圣罗兰	Black Opium	黑鸦片	官网已核验存在
+PR_0052	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	官网已核验存在
+PR_0095	柏芮朵	Rose of No Man’s Land	无人区玫瑰	官网已核验存在
+PR_0173	馥马尔	Portrait of a Lady	贵妇肖像	待检索核验
+PR_0186	娇兰	Mon Guerlain	我的娇兰	待检索核验
+PR_0189	娇兰	Aqua Allegoria Mandarine Basilic	柑橘罗勒	待检索核验
+PR_0242	卡亚利	Vanilla 28	香草28	待检索核验
+PR_0250	拉塔法	Cookie Crave	曲奇执念	待检索核验
+PR_0264	吉萨	Martinique	GISSAH 马提尼克桂花	待检索核验
+PR_0287	阿莎罗	Chrome	铬元素	待检索核验

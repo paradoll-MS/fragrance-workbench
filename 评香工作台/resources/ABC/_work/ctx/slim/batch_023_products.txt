@@ -1,0 +1,8 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0138	迪奥	Ambre Nuit	琥珀幽夜	待检索核验
+PR_0193	娇兰	L’Homme Idéal	理想男士	待检索核验
+PR_0196	娇兰	Champs-Élysées	香榭丽舍	待检索核验
+PR_0222	伊丽莎白雅顿	Sunflowers	太阳花	待检索核验
+PR_0224	浪凡	Rumeur	谣言2；谣言（美丽传说）	待检索核验
+PR_0327	克莱恩	Eternity	永恒女士	待检索核验
+PR_0337	拉夫劳伦	Polo	绿马球；马球	待检索核验

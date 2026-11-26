@@ -1,0 +1,3 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0048	爱马仕	Eau des Merveilles	橘彩星光；橘采星光	待检索核验
+PR_0052	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	官网已核验存在

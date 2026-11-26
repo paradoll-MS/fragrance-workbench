@@ -1,0 +1,7 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0007	香奈儿	Gabrielle	CHANEL GABRIELLE；嘉柏丽尔	官网已核验存在
+PR_0008	香奈儿	Bleu de Chanel	蔚蓝男士；香奈儿-蔚蓝；香尼儿蔚蓝	官网已核验存在
+PR_0147	古驰	Bloom	花悦（绽放）	待检索核验
+PR_0220	大卫杜夫	Champion	勇者（奖杯）	待检索核验
+PR_0297	维克多与罗夫	Flowerbomb	鲜花炸弹	待检索核验
+PR_0301	马克·雅可布	Honey	MJ 甜美蜜糖	待检索核验

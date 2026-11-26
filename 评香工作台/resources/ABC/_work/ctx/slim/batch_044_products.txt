@@ -1,0 +1,2 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0051	圣罗兰	Black Opium	黑鸦片	官网已核验存在

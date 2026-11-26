@@ -1,0 +1,2 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0106	芦丹氏	La Fille de Berlin	柏林少女	待检索核验

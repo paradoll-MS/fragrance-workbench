@@ -1,0 +1,10 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0004	香奈儿	Chance Eau Tendre	粉色邂逅；粉邂逅；邂逅柔情	待检索核验
+PR_0062	汤姆·福特	Bitter Peach	桃涩花蜜；苦桃	待检索核验
+PR_0077	蒂普提克	Eau des Sens	感官之水	待检索核验
+PR_0126	兰蔻	La Vie Est Belle	LA VIE EST BELLE；美丽人生	待检索核验
+PR_0175	馥马尔	Eau de Magnolia	木兰之水	待检索核验
+PR_0259	阿芙南	9PM Elixir	9PM Elixir；下午9点馥郁版；下午9点（馥郁版）	待检索核验
+PR_0269	维多利亚的秘密	Pink Tide	粉红潮汐	待检索核验
+PR_0275	罗意威	001 Woman	001 事后清晨女士	待检索核验
+PR_0332	香奈儿	COCO	COCO	待检索核验

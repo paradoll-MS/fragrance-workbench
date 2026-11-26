@@ -1,0 +1,9 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0126	BR_013	兰蔻	La Vie Est Belle	LA VIE EST BELLE；美丽人生	15	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0133	BR_014	迪奥	Sauvage	旷野；旷野男士	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0178	BR_020	凯利安	Apple Brandy	苹果白兰地	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0204	BR_024	卡罗琳娜·海莱拉	Good Girl	GOOD GIRL；好女孩	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0228	BR_032	蔻依	Magnolia Alba	木兰诗语	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0298	BR_053	维克多与罗夫	Spicebomb	性感炸弹	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0326	BR_063	克莱恩	Eternity for Men	永恒男士	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0341	BR_004	圣罗兰	Black Opium Illicit Green	绿鸦片；黑鸦片违禁之绿	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

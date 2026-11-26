@@ -1,0 +1,2 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0154	阿玛尼	Thé Yulong	玉龙茶	待检索核验

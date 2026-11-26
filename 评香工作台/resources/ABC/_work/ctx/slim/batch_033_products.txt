@@ -1,0 +1,4 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0052	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	官网已核验存在
+PR_0115	梅森·马吉拉	Under the Lemon Trees	柠檬树下	待检索核验
+PR_0133	迪奥	Sauvage	旷野；旷野男士	待检索核验

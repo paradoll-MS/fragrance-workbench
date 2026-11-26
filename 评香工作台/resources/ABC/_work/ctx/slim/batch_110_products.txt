@@ -1,0 +1,3 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0075	蒂普提克	34 Boulevard Saint Germain	圣日尔曼大道34号	待检索核验
+PR_0184	解放橘郡	Hermann à mes côtés me paraissait une ombre	赫曼如影	待检索核验

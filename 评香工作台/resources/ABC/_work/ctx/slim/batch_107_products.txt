@@ -1,0 +1,7 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0003	香奈儿	Chance Eau Fraîche	绿邂逅；邂逅清新	待检索核验
+PR_0004	香奈儿	Chance Eau Tendre	粉色邂逅；粉邂逅；邂逅柔情	待检索核验
+PR_0007	香奈儿	Gabrielle	CHANEL GABRIELLE；嘉柏丽尔	官网已核验存在
+PR_0103	阿蒂仙之香	Passage d’Enfer	冥府之路	待检索核验
+PR_0149	古驰	Guilty Pour Homme	罪爱男士	待检索核验
+PR_0170	潘海利根	Endymion	恩迪弥安；牧羊少年	待检索核验

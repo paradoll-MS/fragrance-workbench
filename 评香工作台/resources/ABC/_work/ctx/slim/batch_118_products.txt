@@ -1,0 +1,2 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0032	祖玛珑	English Oak & Hazelnut	英国橡树与榛果	官网已核验存在

@@ -1,0 +1,90 @@
+{
+  "library_items": {
+    "unchanged": true,
+    "v2": {
+      "count": 6331,
+      "sha256": "bc6d0b7e3ae6b73e6c280d633f4f1f8d3537613290b5a3ec9dcea161d2541f63"
+    },
+    "v3": {
+      "count": 6331,
+      "sha256": "bc6d0b7e3ae6b73e6c280d633f4f1f8d3537613290b5a3ec9dcea161d2541f63"
+    }
+  },
+  "library_tags": {
+    "unchanged": true,
+    "v2": {
+      "count": 92864,
+      "sha256": "1afc2c42226f98d0b8922138c9c74d7200700373855ebd16509f9d88bc26c528"
+    },
+    "v3": {
+      "count": 92864,
+      "sha256": "1afc2c42226f98d0b8922138c9c74d7200700373855ebd16509f9d88bc26c528"
+    }
+  },
+  "c_nodes": {
+    "unchanged": true,
+    "v2": {
+      "count": 571,
+      "sha256": "27325bbe2b0c9e9383e1f2e6e036f4ccaaa00a88d24e9195da4c804217540326"
+    },
+    "v3": {
+      "count": 571,
+      "sha256": "27325bbe2b0c9e9383e1f2e6e036f4ccaaa00a88d24e9195da4c804217540326"
+    }
+  },
+  "c_ab": {
+    "unchanged": true,
+    "v2": {
+      "count": 1106,
+      "sha256": "8184bda7bed09fec1943924bbd060cf55b489e0b19fdbb2e47562a51eb25f050"
+    },
+    "v3": {
+      "count": 1106,
+      "sha256": "8184bda7bed09fec1943924bbd060cf55b489e0b19fdbb2e47562a51eb25f050"
+    }
+  },
+  "formula_product_labels": {
+    "unchanged": true,
+    "v2": {
+      "count": 2326,
+      "sha256": "feb9891e25d01ae7d2cc29680e65c67ad498c8b1eddfcfcf0872afb2a588687f"
+    },
+    "v3": {
+      "count": 2326,
+      "sha256": "feb9891e25d01ae7d2cc29680e65c67ad498c8b1eddfcfcf0872afb2a588687f"
+    }
+  },
+  "category_map": {
+    "unchanged": true,
+    "v2": {
+      "count": 56,
+      "sha256": "eb8102fab014f9f483a096fd31ff010b2a7ab31c7e9ab9c58ed5ce7b4d18f984"
+    },
+    "v3": {
+      "count": 56,
+      "sha256": "eb8102fab014f9f483a096fd31ff010b2a7ab31c7e9ab9c58ed5ce7b4d18f984"
+    }
+  },
+  "terms": {
+    "unchanged": true,
+    "v2": {
+      "count": 450,
+      "sha256": "f5f555dab2f17188d8eba6648c3e061befa2d4cefd19ded5513668e47fab40a7"
+    },
+    "v3": {
+      "count": 450,
+      "sha256": "f5f555dab2f17188d8eba6648c3e061befa2d4cefd19ded5513668e47fab40a7"
+    }
+  },
+  "term_aliases": {
+    "unchanged": true,
+    "v2": {
+      "count": 596,
+      "sha256": "f6cd8abab61485f3d5c3d0a122e1deb0f90bc0d8deb859c27b64f038c98cf5d1"
+    },
+    "v3": {
+      "count": 596,
+      "sha256": "f6cd8abab61485f3d5c3d0a122e1deb0f90bc0d8deb859c27b64f038c98cf5d1"
+    }
+  }
+}

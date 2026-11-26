@@ -1,0 +1,5 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0021	祖玛珑	English Pear & Sweet Pea	英国梨与香豌豆	官网已核验存在
+PR_0030	祖玛珑	Cypress & Grapevine	柏木与葡萄藤	待检索核验
+PR_0057	汤姆·福特	Tuscan Leather	托斯卡纳皮革	待检索核验
+PR_0305	爱慕	Interlude Woman	间奏曲女士	待检索核验

@@ -1,0 +1,2 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0266	维多利亚的秘密	Vanilla Lace	VANILLA LACE；香草蕾丝	待检索核验

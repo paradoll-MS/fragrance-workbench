@@ -1,0 +1,2 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0103	阿蒂仙之香	Passage d’Enfer	冥府之路	待检索核验

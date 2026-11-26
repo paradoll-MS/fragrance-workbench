@@ -1,0 +1,2 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0146	古驰	Flora Gorgeous Jasmine	绮梦茉莉	待检索核验

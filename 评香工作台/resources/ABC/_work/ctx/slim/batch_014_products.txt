@@ -1,0 +1,6 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0024	祖玛珑	Blackberry & Bay	莓果月桂叶；黑莓与月桂叶	待检索核验
+PR_0025	祖玛珑	Nectarine Blossom & Honey	杏桃花与蜂蜜	待检索核验
+PR_0148	古驰	The Alchemist’s Garden A Song for the Rose	瑰之颂	待检索核验
+PR_0174	馥马尔	Musc Ravageur	狂野麝香	待检索核验
+PR_0269	维多利亚的秘密	Pink Tide	粉红潮汐	待检索核验

@@ -1,0 +1,5 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0120	宝格丽	Omnia Amethyste	BVLGARI OMNIA AMETHYSTE；花舞轻盈（紫晶）	待检索核验
+PR_0122	宝格丽	Omnia Green Jade	晶翠纯香（绿晶）	待检索核验
+PR_0123	宝格丽	Eau Parfumée au Thé Vert	绿茶花露	待检索核验
+PR_0129	兰蔻	Miracle	奇迹（真爱奇迹）；真爱奇迹	待检索核验

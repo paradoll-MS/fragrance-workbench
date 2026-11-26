@@ -1,0 +1,7 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0008	BR_001	香奈儿	Bleu de Chanel	蔚蓝男士；香奈儿-蔚蓝；香尼儿蔚蓝	4	官网已核验存在	https://www.chanel.com/us/fragrance/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0031	BR_002	祖玛珑	English Oak & Redcurrant	英国橡树与红醋栗	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0118	BR_012	宝格丽	Pour Homme	大吉岭茶	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0206	BR_024	卡罗琳娜·海莱拉	212 VIP Men	212VIPMAN	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0308	BR_057	爱慕	Library Collection Opus I	图书馆收藏1	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0309	BR_057	爱慕	Library Collection Opus VII	图书馆收藏7	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

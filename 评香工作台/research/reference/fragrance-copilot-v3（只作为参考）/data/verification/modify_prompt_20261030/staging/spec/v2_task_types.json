@@ -1,0 +1,78 @@
+{
+  "version": "2026-10-28",
+  "note": "v2 六类子项目；一个子项目只有一个主类型；部门任务挂在子项目下。",
+  "types": {
+    "find_product": {
+      "label": "找一个香",
+      "when": "客户给出精确品牌+产品+版本，或明确只要某款产品",
+      "required": ["category_l3", "target_products"],
+      "default_department_tasks": ["打样", "寄样", "调香", "法规", "质量"],
+      "endpoint_allowed": ["sample_initial", "sample_final"],
+      "on_no_match": "create",
+      "notes": "先查库；有就推，没有转仿香/创香；不拿近似款冒充同款"
+    },
+    "match_sample": {
+      "label": "对一个香味",
+      "when": "客户寄来外部实物样品/竞品，要求对香或在此基础上改",
+      "required": ["category_l3", "external_sample"],
+      "default_department_tasks": ["打样", "寄样", "分析", "调香", "法规", "质量"],
+      "endpoint_allowed": ["sample_initial", "sample_final"],
+      "on_no_match": "create",
+      "notes": "评香对香；分析按需，不强制；没收到样品不能完成"
+    },
+    "recommend_simple": {
+      "label": "推荐香·简单厂家",
+      "when": "只到品牌/大牌、香韵、香调、价格；没有品牌定位/受众/包装/创意 brief",
+      "required": ["category_l3", "price_target"],
+      "default_department_tasks": ["寄样", "打样", "法规", "质量"],
+      "endpoint_allowed": ["sample_initial", "sample_final"],
+      "notes": "硬筛；不做 C/AB 计分；表现力只展示原文"
+    },
+    "recommend_brand": {
+      "label": "推荐香·品牌客户/创香前试香",
+      "when": "有品牌定位、受众、包装、理念、创意 brief、三调预设等复杂度",
+      "required": ["category_l3", "price_target", "target_c"],
+      "default_department_tasks": ["寄样", "打样", "法规", "质量"],
+      "endpoint_allowed": ["sample_initial", "sample_final"],
+      "notes": "C 完全相同是前提；AB 命中每个 +1；C 不加分；三调仅辅助 C 的常见香型香调"
+    },
+    "modify": {
+      "label": "改香",
+      "when": "锁定被改香精编号/版本，有改动要求",
+      "required": ["category_l3", "base_formula_code"],
+      "default_department_tasks": ["调香", "入库", "法规", "质量"],
+      "endpoint_allowed": ["sample_initial", "sample_final", "library_intake"],
+      "notes": "改基质/味道/价格/表现力/法规；不跑推荐"
+    },
+    "create": {
+      "label": "创香",
+      "when": "从零创作，或找香无结果后转仿香/创香",
+      "required": ["category_l3"],
+      "default_department_tasks": ["寄样", "打样", "法规", "质量", "调香", "入库"],
+      "endpoint_allowed": ["sample_initial", "sample_final", "library_intake"],
+      "notes": "把调香师需要的信息+评香参考香（含备注）交调香；参考香可无"
+    }
+  },
+  "department_tasks": {
+    "打样": "调香实验室/制样",
+    "寄样": "样品管理/物流/销售",
+    "分析": "分析/GC",
+    "调香": "调香师",
+    "法规": "法规/技术资料",
+    "质量": "质量/稳定性/检测",
+    "入库": "配方登记（不是实物库存）"
+  },
+  "split_rules": [
+    "每个精确品牌+产品+版本单独成一个 find_product",
+    "只到品牌、没有精确产品：一个 recommend_simple",
+    "品牌 + 多个指定产品：每个指定产品一个 find_product，剩余品牌需求一个 recommend_simple",
+    "只指定一个产品：一个 find_product；只指定品牌：一个 recommend_simple",
+    "客户寄样：一个 match_sample；锁定旧号改香：一个 modify；从零创作：一个 create",
+    "一个子项目只有一个主类型；类型可升级并保留历史"
+  ],
+  "endpoints": {
+    "sample_initial": "只闻香；法规/稳定性/表现力只提示，评香放行",
+    "sample_final": "三项默认逐项核对；缺项阻断",
+    "library_intake": "同终样；配方登记，不做库存"
+  }
+}

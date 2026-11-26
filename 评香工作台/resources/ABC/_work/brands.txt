@@ -1,0 +1,62 @@
+brand_id	品牌中文标准名	国际标准名	别名（；分隔）	状态
+BR_001	香奈儿	CHANEL	香尼儿;香奈尔	候选目录；大牌定义待业务确认
+BR_002	祖玛珑	Jo Malone London	JM;Jo Malone;祖玛龙	候选目录；大牌定义待业务确认
+BR_003	爱马仕	Hermès	HERMES;马仕	候选目录；大牌定义待业务确认
+BR_004	圣罗兰	Yves Saint Laurent	YSL;圣罗兰	候选目录；大牌定义待业务确认
+BR_005	汤姆·福特	Tom Ford	TF;汤姆福特;汤姆·福特	候选目录；大牌定义待业务确认
+BR_006	蒂普提克	Diptyque		候选目录；大牌定义待业务确认
+BR_007	勒莱柏	Le Labo	香水实验室;勒莱柏;勒拉博	候选目录；大牌定义待业务确认
+BR_008	柏芮朵	Byredo	柏芮朵;百瑞德	候选目录；大牌定义待业务确认
+BR_009	阿蒂仙之香	L’Artisan Parfumeur	阿蒂仙;阿蒂仙之香	候选目录；大牌定义待业务确认
+BR_010	芦丹氏	Serge Lutens		候选目录；大牌定义待业务确认
+BR_011	梅森·马吉拉	Maison Margiela	Maison Martin Margiela;马吉拉;梅森马吉拉	候选目录；大牌定义待业务确认
+BR_012	宝格丽	BVLGARI	Bulgari;宝格丽	候选目录；大牌定义待业务确认
+BR_013	兰蔻	Lancôme	兰蔻;兰芝蔻	候选目录；大牌定义待业务确认
+BR_014	迪奥	Dior	迪奥;大奥	候选目录；大牌定义待业务确认
+BR_015	范思哲	Versace		候选目录；大牌定义待业务确认
+BR_016	古驰	Gucci		候选目录；大牌定义待业务确认
+BR_017	阿玛尼	Giorgio Armani	阿玛尼;阿尼	候选目录；大牌定义待业务确认
+BR_018	潘海利根	Penhaligon’s		候选目录；大牌定义待业务确认
+BR_019	馥马尔	Frédéric Malle	FM;馥马尔	候选目录；大牌定义待业务确认
+BR_020	凯利安	Kilian Paris	Kilian;凯利安	候选目录；大牌定义待业务确认
+BR_021	解放橘郡	Etat Libre d’Orange	ELDO;解放橘郡	候选目录；大牌定义待业务确认
+BR_022	娇兰	Guerlain	娇兰	候选目录；大牌定义待业务确认
+BR_023	信仰	Creed		候选目录；大牌定义待业务确认
+BR_024	卡罗琳娜·海莱拉	Carolina Herrera	CH;卡罗琳娜海莱拉	候选目录；大牌定义待业务确认
+BR_025	拉巴纳	Rabanne	Paco Rabanne;帕高;拉巴纳	候选目录；大牌定义待业务确认
+BR_026	巴宝莉	Burberry	博柏利;巴宝莉;BURBERRY	候选目录；大牌定义待业务确认
+BR_027	三宅一生	Issey Miyake		候选目录；大牌定义待业务确认
+BR_028	大卫杜夫	Davidoff		候选目录；大牌定义待业务确认
+BR_029	伊丽莎白雅顿	Elizabeth Arden		候选目录；大牌定义待业务确认
+BR_030	浪凡	Lanvin		候选目录；大牌定义待业务确认
+BR_032	蔻依	Chloé		候选目录；大牌定义待业务确认
+BR_033	安娜苏	Anna Sui		候选目录；大牌定义待业务确认
+BR_034	MFK	Maison Francis Kurkdjian	MFK;库尔吉安	候选目录；大牌定义待业务确认
+BR_035	路易威登	Louis Vuitton		候选目录；大牌定义待业务确认
+BR_036	卡亚利	Kayali		候选目录；大牌定义待业务确认
+BR_037	拉塔法	Lattafa	拉塔法	候选目录；大牌定义待业务确认
+BR_038	阿芙南	Afnan		候选目录；大牌定义待业务确认
+BR_039	海湾兰花	Gulf Orchid		候选目录；大牌定义待业务确认
+BR_040	阿玛芙	Armaf		候选目录；大牌定义待业务确认
+BR_041	伊布拉欣·古莱希	Ibraheem Al Qurashi		候选目录；大牌定义待业务确认
+BR_042	吉萨	Gissah		候选目录；大牌定义待业务确认
+BR_043	维多利亚的秘密	Victoria’s Secret	维密;Victoria Secret	候选目录；大牌定义待业务确认
+BR_044	莫斯奇诺	Moschino		候选目录；大牌定义待业务确认
+BR_045	罗意威	Loewe		候选目录；大牌定义待业务确认
+BR_047	高缇耶	Jean Paul Gaultier		候选目录；大牌定义待业务确认
+BR_048	欧珑	Atelier Cologne		候选目录；大牌定义待业务确认
+BR_049	阿莎罗	Azzaro		候选目录；大牌定义待业务确认
+BR_050	梵克雅宝	Van Cleef & Arpels		候选目录；大牌定义待业务确认
+BR_051	古特尔	Goutal		候选目录；大牌定义待业务确认
+BR_052	帕尔玛之水	Acqua di Parma	ADP;帕尔玛之水	候选目录；大牌定义待业务确认
+BR_053	维克多与罗夫	Viktor&Rolf		候选目录；大牌定义待业务确认
+BR_054	马克·雅可布	Marc Jacobs	MJ;马克雅可布	候选目录；大牌定义待业务确认
+BR_055	祖·马龙	Jo Loves		候选目录；大牌定义待业务确认
+BR_056	佩枪朱丽叶	Juliette Has A Gun		候选目录；大牌定义待业务确认
+BR_057	爱慕	Amouage		候选目录；大牌定义待业务确认
+BR_059	卡诗	Kérastase		候选目录；大牌定义待业务确认
+BR_060	威斯汀	Westin	威斯汀	候选目录；大牌定义待业务确认
+BR_061	纪梵希	Givenchy		候选目录；大牌定义待业务确认
+BR_062	莲娜丽姿	Nina Ricci		候选目录；大牌定义待业务确认
+BR_063	克莱恩	Calvin Klein	CK;卡尔文克莱恩	候选目录；大牌定义待业务确认
+BR_064	拉夫劳伦	Ralph Lauren		候选目录；大牌定义待业务确认

@@ -1,0 +1,7 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0069	汤姆·福特	Jasmin Rouge	茉莉胭脂	待检索核验
+PR_0113	梅森·马吉拉	Bubble Bath	泡泡浴	待检索核验
+PR_0245	卡亚利	Yum Pistachio Gelato 33	开心果冰淇淋	待检索核验
+PR_0248	拉塔法	Ajwad Pink to Pink	阿吉瓦德 粉映粉；阿吉瓦德粉映粉	待检索核验
+PR_0300	马克·雅可布	Daisy Dream	雏菊梦境	待检索核验
+PR_0302	祖·马龙	Jo by Jo Loves	祖玛珑之爱	待检索核验

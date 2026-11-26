@@ -1,0 +1,2 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0181	BR_021	解放橘郡	You Or Someone Like You	像你的人	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

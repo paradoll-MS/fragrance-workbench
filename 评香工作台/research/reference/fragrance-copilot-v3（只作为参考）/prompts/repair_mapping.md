@@ -1,0 +1,3 @@
+只修复当前理解节点遗漏的ABC映射。所有客户事实、子项目身份、类型和关系保持不变。结合完整上下文和完整词表完成有依据的域，不复制旧空数组，也不为填满而猜测。参考三调不提供A依据；客户明确主体目标可选A。B/C按完整语义、程度及本品类解释。每个输入key恰好返回一个update。
+返回JSON {"updates":[{"key":"输入key","a1":[],"a2":[],"a3":[],"b":[],"target_cs":[],"abc_basis":[{"id":"权威ID","label":"对应原名","evidence_role":"explicit_scent_target/main_accord/reference_pyramid/context","reason":"具体语义理由","confidence":0.8,"source_refs":[{"source_id":"输入定位ID"}]}],"mapping_review":{"A":{"status":"insufficient_context/ontology_gap/reference_only","reason":"该域无法映射的具体原因","source_refs":[]}}}]}。仅真正无依据的域给mapping_review，已有感受不能声称无B信息；词表不覆盖则保留原意并说明。标签数组元素必须字符串。
+mapping_review按需要分别使用A、B、C作域键，不使用合并键。

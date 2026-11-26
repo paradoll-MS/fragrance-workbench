@@ -1,0 +1,15 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0051	BR_004	圣罗兰	Black Opium	黑鸦片	7	官网已核验存在	https://www.yslbeautyus.com/fragrance/womens-fragrances/black-opium/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0052	BR_004	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	11	官网已核验存在	https://www.yslbeautyus.com/fragrance/womens-fragrances/mon-paris/mon-paris-eau-de-parfum/3614272048447.html	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0061	BR_005	汤姆·福特	Lost Cherry	落樱甜情；落红樱桃	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0076	BR_006	蒂普提克	Eau de Lierre	利埃尔；常春藤之水	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0103	BR_009	阿蒂仙之香	Passage d’Enfer	冥府之路	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0126	BR_013	兰蔻	La Vie Est Belle	LA VIE EST BELLE；美丽人生	15	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0133	BR_014	迪奥	Sauvage	旷野；旷野男士	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0199	BR_023	信仰	Aventus	信仰 成功男士；成功（拿破仑之水）	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0200	BR_023	信仰	Silver Mountain Water	银色山泉	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0207	BR_025	拉巴纳	1 Million	帕高百万；百万金砖	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0208	BR_025	拉巴纳	Lady Million	百万女士香水；百万女香	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0270	BR_043	维多利亚的秘密	Romantic	ROMANTIC(维密浪漫)	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0271	BR_044	莫斯奇诺	Toy 2	桃丝熊小熊	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0281	BR_048	欧珑	Orange Sanguine	赤霞极光；赤霞橘光	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

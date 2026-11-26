@@ -1,0 +1,7 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0054	BR_004	圣罗兰	Libre	肆意之水；自由至上	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0056	BR_004	圣罗兰	MYSLF	自我无界	7	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0081	BR_007	勒莱柏	Santal 33	檀香33；檀香木33	12	官网已核验存在	https://www.lelabofragrances.com/classic-collection.html	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0086	BR_007	勒莱柏	Patchouli 24	广藿香24	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0098	BR_008	柏芮朵	Super Cedar	超级雪松	3	官网已核验存在	https://www.byredo.com/us_en/c/perfume/personal-fragrances/categories/250ml	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0282	BR_048	欧珑	Pomélo Paradis	柚子天堂	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

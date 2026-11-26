@@ -1,0 +1,6 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0016	香奈儿	Sycomore	梧桐影木	待检索核验
+PR_0023	祖玛珑	Wood Sage & Sea Salt	鼠尾草与海盐；鼠尾草海盐	官网已核验存在
+PR_0040	爱马仕	Un Jardin sur le Nil	尼罗河花园	官网已核验存在
+PR_0108	芦丹氏	Fille en Aiguilles	松林少女；高跟鞋少女	待检索核验
+PR_0273	莫斯奇诺	I Love Love	爱你之爱	待检索核验

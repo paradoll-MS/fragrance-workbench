@@ -1,0 +1,2 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0132	迪奥	Miss Dior Blooming Bouquet	花漾甜心	待检索核验

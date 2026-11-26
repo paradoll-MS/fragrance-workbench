@@ -1,0 +1,7 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0008	香奈儿	Bleu de Chanel	蔚蓝男士；香奈儿-蔚蓝；香尼儿蔚蓝	官网已核验存在
+PR_0031	祖玛珑	English Oak & Redcurrant	英国橡树与红醋栗	待检索核验
+PR_0118	宝格丽	Pour Homme	大吉岭茶	待检索核验
+PR_0206	卡罗琳娜·海莱拉	212 VIP Men	212VIPMAN	待检索核验
+PR_0308	爱慕	Library Collection Opus I	图书馆收藏1	待检索核验
+PR_0309	爱慕	Library Collection Opus VII	图书馆收藏7	待检索核验

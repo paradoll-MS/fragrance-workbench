@@ -1,0 +1,2 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0181	解放橘郡	You Or Someone Like You	像你的人	待检索核验

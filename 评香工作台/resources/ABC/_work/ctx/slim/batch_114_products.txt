@@ -1,0 +1,6 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0002	香奈儿	Chance	邂逅；邂逅（黄邂逅）；黄邂逅	待检索核验
+PR_0023	祖玛珑	Wood Sage & Sea Salt	鼠尾草与海盐；鼠尾草海盐	官网已核验存在
+PR_0029	祖玛珑	Mimosa & Cardamom	含羞草与小豆蔻	待检索核验
+PR_0073	蒂普提克	Eau Rose	一支玫瑰；盛放玫瑰	官网已核验存在
+PR_0234	MFK	Baccarat Rouge 540	540香精；Baccarat Rouge 540；晶红540	待检索核验

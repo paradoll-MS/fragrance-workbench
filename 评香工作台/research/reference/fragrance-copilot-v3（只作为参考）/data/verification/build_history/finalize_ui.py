@@ -1,0 +1,13 @@
+from pathlib import Path
+p=Path('fragrance-copilot-v3/web/app.js');s=p.read_text(encoding='utf-8-sig')
+s=s.replace("return String(v);", "return String(v).replace(/\\b(recommend_brand|recommend_simple|find_product|match_sample|modify|create)\\b/g,k=>types[k]||k);")
+s=s.replace("${esc(s.summary||'尚未生成故事；原始资料仍可随时查阅。')}","${esc(human(s.summary)||'尚未生成故事；原始资料仍可随时查阅。')}")
+s=s.replace("${chip(statuses[s.status]||s.status)}${s.parent_subproject_id?", "${chip(statuses[s.status]||s.status)}${json(s.planning_json,{}).launch_tier?chip('上市分层 '+json(s.planning_json,{}).launch_tier,'blue'):''}${s.parent_subproject_id?")
+s=s.replace("parse_multimodal_v3:'图片 / 音频识别',qa:'项目问答'", "parse_multimodal_v3:'图片 / 音频识别',understand_project_v3_contract_repair:'依据完整性校验',qa:'项目问答'")
+s=s.replace(" · 估算 ¥${Number(d.totals.cost||0).toFixed(3)}", "")
+s=s.replace("<p>${esc(b.reason||'')}</p>${refsHTML(b.source_refs)}", "<p>${esc(b.reason||'')}</p>${refsHTML(b.source_refs)}")
+s=s.replace("${payload.requirements?briefHTML(payload.requirements):''}<p class=", "${payload.requirements?briefHTML(payload.requirements):''}${coordinationHTML(payload.project_coordination?.events)}<p class=")
+s=s.replace("${t.type==='分析'?'<label", "${t.type==='寄样'?`<label class=\"field\">实际寄样香精号（逗号分隔）<input id=\"taskShippedCodes\" value=\"${esc((json(t.payload_json,{}).shipped_codes||(['recommend_brand','recommend_simple','find_product','match_sample'].includes(state.sub.subproject.task_type)?json(state.sub.subproject.selected_codes_json):[])).join('，'))}\"></label>`:''}${t.type==='分析'?'<label")
+s=s.replace("confirmed:$('#gcConfirmed')?.checked===true}", "confirmed:$('#gcConfirmed')?.checked===true,...($('#taskShippedCodes')?.value.trim()?{shipped_codes:$('#taskShippedCodes').value.split(/[，,\\s]+/).map(x=>x.trim()).filter(Boolean)}:{})}")
+s=s.replace("${esc(r.locator||'')}</span>${r.quote?", "${esc(r.locator||'')}${r.quote_normalization?' · 已按原文定位校对':''}</span>${r.quote?")
+p.write_text(s,encoding='utf-8')

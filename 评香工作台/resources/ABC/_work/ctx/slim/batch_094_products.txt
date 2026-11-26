@@ -1,0 +1,16 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0040	爱马仕	Un Jardin sur le Nil	尼罗河花园	官网已核验存在
+PR_0041	爱马仕	Un Jardin sur le Toit	屋顶花园	官网已核验存在
+PR_0042	爱马仕	Un Jardin en Méditerranée	地中海花园	官网已核验存在
+PR_0043	爱马仕	Le Jardin de Monsieur Li	李先生的花园	待检索核验
+PR_0044	爱马仕	Un Jardin après la Mousson	印度花园；雨后花园	待检索核验
+PR_0097	柏芮朵	Gypsy Water	吉普赛之水；流浪者之歌	官网已核验存在
+PR_0103	阿蒂仙之香	Passage d’Enfer	冥府之路	待检索核验
+PR_0106	芦丹氏	La Fille de Berlin	柏林少女	待检索核验
+PR_0118	宝格丽	Pour Homme	大吉岭茶	待检索核验
+PR_0135	迪奥	Hypnotic Poison	红毒；蛊媚奇葩	待检索核验
+PR_0136	迪奥	Pure Poison	冰火奇葩；白毒	待检索核验
+PR_0170	潘海利根	Endymion	恩迪弥安；牧羊少年	待检索核验
+PR_0239	路易威登	L’Immensité	无际主义	待检索核验
+PR_0306	爱慕	Memoir Man	回忆录男士	待检索核验
+PR_0337	拉夫劳伦	Polo	绿马球；马球	待检索核验

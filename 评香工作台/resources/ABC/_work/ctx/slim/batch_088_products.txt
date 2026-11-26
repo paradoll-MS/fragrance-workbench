@@ -1,0 +1,7 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0019	香奈儿	La Pausa	法式别墅	待检索核验
+PR_0045	爱马仕	Un Jardin sur la Lagune	泻湖花园	待检索核验
+PR_0081	勒莱柏	Santal 33	檀香33；檀香木33	官网已核验存在
+PR_0202	信仰	Royal Oud	皇家沉香	待检索核验
+PR_0291	古特尔	Petite Chérie	古特尔 小甜心	待检索核验
+PR_0294	帕尔玛之水	Blu Mediterraneo Mirto di Panarea	桃金娘加州桂	待检索核验

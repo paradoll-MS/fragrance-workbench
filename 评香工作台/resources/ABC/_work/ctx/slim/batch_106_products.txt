@@ -1,0 +1,3 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0037	祖玛珑	Honeysuckle & Davana	忍冬印蒿	待检索核验
+PR_0331	香奈儿	N°5 L’Eau	5号之水	待检索核验

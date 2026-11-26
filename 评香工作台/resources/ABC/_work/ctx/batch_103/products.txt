@@ -1,0 +1,7 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0069	BR_005	汤姆·福特	Jasmin Rouge	茉莉胭脂	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0113	BR_011	梅森·马吉拉	Bubble Bath	泡泡浴	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0245	BR_036	卡亚利	Yum Pistachio Gelato 33	开心果冰淇淋	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0248	BR_037	拉塔法	Ajwad Pink to Pink	阿吉瓦德 粉映粉；阿吉瓦德粉映粉	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0300	BR_054	马克·雅可布	Daisy Dream	雏菊梦境	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0302	BR_055	祖·马龙	Jo by Jo Loves	祖玛珑之爱	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

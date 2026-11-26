@@ -1,0 +1,628 @@
+{
+  "brief": {
+    "project": {
+      "name": "ouyin",
+      "customer": "oy",
+      "brand": "oy",
+      "sales": "m",
+      "evaluator": "评香",
+      "grade": "",
+      "summary": "为运动品牌欧印的跑步店空间香氛提供推荐，需体现竞速、科技感、东方力量、精英跑者，利落通透不软不甜，避免与lululemon托斯卡纳橙相似，倾向柑橘果香，并需与DPM相容，安排小样。",
+      "customer_profile": "",
+      "contacts": [],
+      "overall_deadline": "",
+      "coordination_notes": "需与DPM相容；小样最好10/12前收到。",
+      "coordination_events": [
+        {
+          "action": "安排并寄送小样",
+          "owner": "Gary",
+          "due_original": "10/12前",
+          "due_resolved": "",
+          "destination": "",
+          "quantity": "",
+          "purpose": "供客户评估",
+          "status": "planned",
+          "source_refs": [
+            {
+              "artifact_id": "a_04bab2d647e244ff",
+              "locator": "图片原文",
+              "quote": "Gary，看一下这两天是不是可以安排一下小样，需要可以与DPM相融的哈．最好10/12 前可以收到．"
+            }
+          ]
+        }
+      ]
+    },
+    "product": {
+      "name": "",
+      "category_l1": "",
+      "category_l2": "",
+      "category_l3": "",
+      "application": "",
+      "form": "",
+      "usage": "",
+      "substrate": "",
+      "dosage": "",
+      "target_audience": ""
+    },
+    "scent": {
+      "theme": "",
+      "core_position": "",
+      "structure": "",
+      "principles": [],
+      "directions": [],
+      "direction_notes": {},
+      "references": [],
+      "families": [],
+      "top": [],
+      "middle": [],
+      "base": [],
+      "note_references": [],
+      "main_accord": "",
+      "feelings": [],
+      "scenes": [],
+      "exclusions": [],
+      "intensity": "",
+      "longevity": "",
+      "diffusion": ""
+    },
+    "commercial": {
+      "target_price": null,
+      "markets": [],
+      "channel": "",
+      "annual_volume": "",
+      "sample_due": "",
+      "terminal_price": ""
+    },
+    "compliance": {
+      "markets": [],
+      "regulatory": [],
+      "allergen": "",
+      "halal": "",
+      "flash_point": "",
+      "stability": "",
+      "color": "",
+      "substrate_test": ""
+    },
+    "deliverables": {
+      "type": "",
+      "quantity": "",
+      "recipient": "",
+      "deadline": "",
+      "notes": ""
+    },
+    "evidence": {},
+    "open_questions": [],
+    "customer_requirements": [],
+    "requirement_register": [],
+    "manual_overrides": {},
+    "planning": {
+      "launch_tier": "",
+      "development_target": "",
+      "commercialization_target": "",
+      "launch_timing": "",
+      "priority_reason": ""
+    }
+  },
+  "story": {
+    "summary": "2026年10月8日，销售Ida.AST提出新客户跑步店空间香氛需求，强调竞速、科技感、东方力量、精英跑者等品牌感觉，并建议柑橘、果香方向，同时提示避免与隔壁lululemon的托斯卡纳橙柑橘调相似。2026年10月21日，Gary回复可安排小样，要求与DPM相容，最好10/12前收到，并补充果香类香气需突出、留香长，还提到另一客户选中的香柠檬在门店表现不突出，暗示避免类似问题。整体需求为欧印运动品牌跑步店空间香氛推荐，目前处于选型试香阶段。",
+    "timeline": [
+      {
+        "date": "2026年10月8日",
+        "event": "Ida.AST提出跑步店香氛需求及方向建议，包括竞速科技感等风格，并给出参考香调。",
+        "source_refs": [
+          {
+            "artifact_id": "a_beb7b55812744598",
+            "locator": "图片原文",
+            "quote": "Ida.AST　2026年10月8日 14:34\n有个新客户跑步店需要香氛.\n\nIda.AST　2026年10月8日 14:34\n表现竞速、科技感、东方力量、精英跑者、要利落、通透、带一点点力量感，不能软、不能甜，兼顾东方简约＋赛场清爽."
+          }
+        ]
+      },
+      {
+        "date": "2026年10月21日",
+        "event": "Gary回复安排小样，要求与DPM相容，10/12前收到，果香突出留香长，并提及香柠檬问题。",
+        "source_refs": [
+          {
+            "artifact_id": "a_04bab2d647e244ff",
+            "locator": "图片原文",
+            "quote": "Gary\n2026年10月21日 16:30\nGary，看一下这两天是不是可以安排一下小样，需要可以与DPM相融的哈．最好10/12 前可以收到．\n\nGary\n2026年10月21日 16:30\n果香类的话，香气表现要突出一点，留香长一点的哦．"
+          }
+        ]
+      }
+    ],
+    "decisions": [],
+    "conflicts": [],
+    "open_questions": [
+      {
+        "question": "小样交付日期10/12与消息日期10/21存在矛盾，是否为笔误？需确认实际期望日期。",
+        "impact": "影响交付计划和优先级",
+        "owner": "销售Gary"
+      },
+      {
+        "question": "产品具体类型未明确：是扩香机用香液还是其他形式？需确认DPM具体含义及产品规格。",
+        "impact": "影响配方开发和基质测试",
+        "owner": "销售Gary"
+      }
+    ]
+  },
+  "artifact_annotations": [
+    {
+      "artifact_id": "a_04bab2d647e244ff",
+      "source_type": "微信",
+      "role": "需求",
+      "summary": "Gary确认安排小样，要求与DPM相容，果香类香气突出、留香长，并提及另一客户香柠檬不突出，给出项目编号XMBM202610080026。",
+      "relation": "progression",
+      "subproject_keys": [
+        "ouyin_running_store_scent"
+      ],
+      "source_refs": [
+        {
+          "artifact_id": "a_04bab2d647e244ff",
+          "locator": "图片原文",
+          "quote": "Gary，看一下这两天是不是可以安排一下小样，需要可以与DPM相融的哈．最好10/12 前可以收到．"
+        }
+      ]
+    },
+    {
+      "artifact_id": "a_beb7b55812744598",
+      "source_type": "微信",
+      "role": "需求",
+      "summary": "Ida.AST提出新客户跑步店香氛需求，描述品牌感觉（竞速、科技感、东方力量等），建议柑橘果香方向，并给出参考香调，提醒避免与lululemon托斯卡纳橙相似。",
+      "relation": "initial",
+      "subproject_keys": [
+        "ouyin_running_store_scent"
+      ],
+      "source_refs": [
+        {
+          "artifact_id": "a_beb7b55812744598",
+          "locator": "图片原文",
+          "quote": "Ida.AST　2026年10月8日 14:34\n有个新客户跑步店需要香氛."
+        }
+      ]
+    }
+  ],
+  "subprojects": [
+    {
+      "id": "",
+      "key": "ouyin_running_store_scent",
+      "title": "欧印跑步店空间香氛推荐",
+      "task_type": "recommend_brand",
+      "type_basis": {
+        "reason": "客户提供了品牌定位、风格、场景等模糊联想（竞速、科技感、东方力量、精英跑者等），要求从这些概念出发选香试香，没有明确要求直接原创或指定大牌产品，符合recommend_brand。",
+        "confidence": 0.85
+      },
+      "parent_subproject_id": "",
+      "category_k_code": "K009",
+      "direction": "结合跑步店定位，推荐柑橘/果香方向但避免与lululemon托斯卡纳橙相似，体现竞速科技感、东方力量、利落通透。",
+      "brief": {
+        "project": {
+          "name": "ouyin",
+          "customer": "oy",
+          "brand": "oy",
+          "sales": "m",
+          "evaluator": "评香",
+          "grade": "",
+          "summary": "为欧印跑步店空间香氛提供推荐，需符合品牌气质并安排小样。",
+          "customer_profile": "",
+          "contacts": [],
+          "overall_deadline": "",
+          "coordination_notes": "需与DPM相容；小样最好10/12前收到。",
+          "coordination_events": [
+            {
+              "action": "安排并寄送小样",
+              "owner": "Gary",
+              "due_original": "10/12前",
+              "due_resolved": "",
+              "destination": "",
+              "quantity": "",
+              "purpose": "供客户评估",
+              "status": "planned",
+              "source_refs": [
+                {
+                  "artifact_id": "a_04bab2d647e244ff",
+                  "locator": "图片原文",
+                  "quote": "Gary，看一下这两天是不是可以安排一下小样，需要可以与DPM相融的哈．最好10/12 前可以收到．"
+                }
+              ]
+            }
+          ]
+        },
+        "product": {
+          "name": "运动品牌空间香氛（跑步店用）",
+          "category_l1": "高级香氛",
+          "category_l2": "空间香氛",
+          "category_l3": "扩香机",
+          "application": "空间香氛",
+          "form": "液体",
+          "usage": "用于跑步店门店扩香",
+          "substrate": "DPM（需相容）",
+          "dosage": "",
+          "target_audience": "精英跑者及跑步运动人群"
+        },
+        "scent": {
+          "theme": "竞速、科技感、东方力量、精英跑者，利落通透带力量感，不软不甜，兼顾东方简约与赛场清爽。",
+          "core_position": "品牌专属商业识别",
+          "structure": "",
+          "principles": [
+            "利落通透",
+            "有力量感",
+            "不软不甜",
+            "东方简约与清爽结合"
+          ],
+          "directions": [
+            "柑橘、果香方向，但避免与lululemon托斯卡纳橙相似"
+          ],
+          "direction_notes": {
+            "避免相似": "贴隔壁就是lululemon，她们家就是托斯卡纳橙，柑橘调，不能和他们家太像"
+          },
+          "references": [
+            "青柠＋鲜罗勒＋岩兰草＋雪松",
+            "柏木＋苦橙叶＋薄荷＋白麝香",
+            "龙井绿茶＋佛手柑＋白檀"
+          ],
+          "families": [
+            "柑橘调",
+            "果香调"
+          ],
+          "top": [],
+          "middle": [],
+          "base": [],
+          "note_references": [
+            "青柠＋鲜罗勒＋岩兰草＋雪松",
+            "柏木＋苦橙叶＋薄荷＋白麝香",
+            "龙井绿茶＋佛手柑＋白檀"
+          ],
+          "main_accord": "",
+          "feelings": [
+            "竞速",
+            "科技感",
+            "东方力量",
+            "精英跑者",
+            "利落",
+            "通透",
+            "力量感"
+          ],
+          "scenes": [
+            "跑步店"
+          ],
+          "exclusions": [
+            "不能软",
+            "不能甜",
+            "避免与lululemon托斯卡纳橙相似"
+          ],
+          "intensity": "",
+          "longevity": "留香长",
+          "diffusion": ""
+        },
+        "commercial": {
+          "target_price": null,
+          "markets": [],
+          "channel": "零售门店",
+          "annual_volume": "",
+          "sample_due": "最好10/12前收到",
+          "terminal_price": ""
+        },
+        "compliance": {
+          "markets": [],
+          "regulatory": [],
+          "allergen": "",
+          "halal": "",
+          "flash_point": "",
+          "stability": "",
+          "color": "",
+          "substrate_test": "需要与DPM相容"
+        },
+        "deliverables": {
+          "type": "小样",
+          "quantity": "",
+          "recipient": "Gary",
+          "deadline": "最好10/12前收到",
+          "notes": "需与DPM相融"
+        },
+        "evidence": {
+          "scent.theme": [
+            {
+              "artifact_id": "a_beb7b55812744598",
+              "locator": "图片原文",
+              "quote": "表现竞速、科技感、东方力量、精英跑者、要利落、通透、带一点点力量感，不能软、不能甜，兼顾东方简约＋赛场清爽."
+            }
+          ],
+          "scent.exclusions": [
+            {
+              "artifact_id": "a_beb7b55812744598",
+              "locator": "图片原文",
+              "quote": "不能软、不能甜"
+            }
+          ],
+          "compliance.substrate_test": [
+            {
+              "artifact_id": "a_04bab2d647e244ff",
+              "locator": "图片原文",
+              "quote": "需要可以与DPM相融的哈"
+            }
+          ],
+          "deliverables.deadline": [
+            {
+              "artifact_id": "a_04bab2d647e244ff",
+              "locator": "图片原文",
+              "quote": "最好10/12 前可以收到"
+            }
+          ],
+          "scent.longevity": [
+            {
+              "artifact_id": "a_04bab2d647e244ff",
+              "locator": "图片原文",
+              "quote": "留香长一点的哦"
+            }
+          ]
+        },
+        "open_questions": [
+          {
+            "question": "产品具体类型是否为扩香机香液？DPM具体含义？",
+            "impact": "影响基质测试和配方开发",
+            "owner": "销售Gary"
+          },
+          {
+            "question": "小样数量未明确，需要多少？",
+            "impact": "影响生产安排",
+            "owner": "销售Gary"
+          }
+        ],
+        "modification": ""
+      },
+      "a1": [],
+      "a2": [],
+      "a3": [],
+      "b": [
+        "B1_0260ff7811",
+        "B2_f4a68246bd",
+        "B7_ac45d324ae",
+        "B7_e346515178",
+        "B7_98367825bc"
+      ],
+      "target_cs": [
+        "C_830",
+        "C_886",
+        "C_852",
+        "C_950",
+        "C_946"
+      ],
+      "abc_basis": [
+        {
+          "id": "B1_0260ff7811",
+          "evidence_role": "context",
+          "reason": "需求原文明确要求“通透”，直接对应通透感。",
+          "confidence": 0.95,
+          "source_refs": [
+            {
+              "artifact_id": "a_beb7b55812744598",
+              "locator": "图片原文",
+              "quote": "要利落、通透"
+            }
+          ]
+        },
+        {
+          "id": "B2_f4a68246bd",
+          "evidence_role": "context",
+          "reason": "“利落、通透”和赛场清爽可关联空气感，且空间香氛需要空气流动感。",
+          "confidence": 0.8,
+          "source_refs": [
+            {
+              "artifact_id": "a_beb7b55812744598",
+              "locator": "图片原文",
+              "quote": "要利落、通透"
+            }
+          ]
+        },
+        {
+          "id": "B7_ac45d324ae",
+          "evidence_role": "context",
+          "reason": "需求提到“带一点点力量感”、“不能软”，硬朗感符合。",
+          "confidence": 0.85,
+          "source_refs": [
+            {
+              "artifact_id": "a_beb7b55812744598",
+              "locator": "图片原文",
+              "quote": "带一点点力量感，不能软"
+            }
+          ]
+        },
+        {
+          "id": "B7_e346515178",
+          "evidence_role": "context",
+          "reason": "需求明确“科技感”，直接对应科技感标签。",
+          "confidence": 0.95,
+          "source_refs": [
+            {
+              "artifact_id": "a_beb7b55812744598",
+              "locator": "图片原文",
+              "quote": "表现竞速、科技感"
+            }
+          ]
+        },
+        {
+          "id": "B7_98367825bc",
+          "evidence_role": "context",
+          "reason": "“精英跑者”和东方力量暗示沉稳坚定气质。",
+          "confidence": 0.7,
+          "source_refs": [
+            {
+              "artifact_id": "a_beb7b55812744598",
+              "locator": "图片原文",
+              "quote": "东方力量、精英跑者"
+            }
+          ]
+        },
+        {
+          "id": "C_830",
+          "evidence_role": "context",
+          "reason": "跑步店是品牌门店，空间香氛需要体现品牌专属商业识别。",
+          "confidence": 0.8,
+          "source_refs": [
+            {
+              "artifact_id": "a_beb7b55812744598",
+              "locator": "图片原文",
+              "quote": "有个新客户跑步店需要香氛"
+            }
+          ]
+        },
+        {
+          "id": "C_886",
+          "evidence_role": "context",
+          "reason": "跑步店属于门店空间，场景风格适配中“酒店与门店”描述有辨识度、符合品牌气质，直接相关。",
+          "confidence": 0.9,
+          "source_refs": [
+            {
+              "artifact_id": "a_beb7b55812744598",
+              "locator": "图片原文",
+              "quote": "就是跑步店"
+            }
+          ]
+        },
+        {
+          "id": "C_852",
+          "evidence_role": "context",
+          "reason": "竞速、精英跑者暗示清醒专注的情绪体验，跑步场景需要提神专注。",
+          "confidence": 0.75,
+          "source_refs": [
+            {
+              "artifact_id": "a_beb7b55812744598",
+              "locator": "图片原文",
+              "quote": "表现竞速、科技感、东方力量、精英跑者"
+            }
+          ]
+        },
+        {
+          "id": "C_950",
+          "evidence_role": "context",
+          "reason": "销售和Gary均提到果香方向，且要求果香突出，空间香氛常见香调中果香调符合。",
+          "confidence": 0.85,
+          "source_refs": [
+            {
+              "artifact_id": "a_beb7b55812744598",
+              "locator": "图片原文",
+              "quote": "我觉得柑橘、果香比较适合"
+            },
+            {
+              "artifact_id": "a_04bab2d647e244ff",
+              "locator": "图片原文",
+              "quote": "果香类的话，香气表现要突出一点"
+            }
+          ]
+        },
+        {
+          "id": "C_946",
+          "evidence_role": "context",
+          "reason": "销售提到柑橘方向，但需避免与lululemon托斯卡纳橙相似，仍可作为候选香调。",
+          "confidence": 0.7,
+          "source_refs": [
+            {
+              "artifact_id": "a_beb7b55812744598",
+              "locator": "图片原文",
+              "quote": "我觉得柑橘、果香比较适合，但贴隔壁就是lululemon，她们家就是托斯卡纳橙，柑橘调."
+            }
+          ]
+        }
+      ],
+      "brand_requirements": [],
+      "wants_hot": false,
+      "wants_new": false,
+      "target_products": [],
+      "base_formula_code": "",
+      "source_refs": [
+        {
+          "artifact_id": "a_beb7b55812744598",
+          "locator": "图片原文",
+          "quote": "有个新客户跑步店需要香氛."
+        },
+        {
+          "artifact_id": "a_04bab2d647e244ff",
+          "locator": "图片原文",
+          "quote": "XMBM202610080026\n欧印--运动品牌空间香氛推荐20261008"
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "requirement": "跑步店空间香氛推荐",
+      "subproject_keys": [
+        "ouyin_running_store_scent"
+      ],
+      "disposition": "独立推进",
+      "source_refs": [
+        {
+          "artifact_id": "a_beb7b55812744598",
+          "locator": "图片原文",
+          "quote": "有个新客户跑步店需要香氛."
+        }
+      ]
+    },
+    {
+      "requirement": "需与DPM相容",
+      "subproject_keys": [
+        "ouyin_running_store_scent"
+      ],
+      "disposition": "补充已有",
+      "source_refs": [
+        {
+          "artifact_id": "a_04bab2d647e244ff",
+          "locator": "图片原文",
+          "quote": "需要可以与DPM相融的哈"
+        }
+      ]
+    },
+    {
+      "requirement": "果香类香气突出、留香长",
+      "subproject_keys": [
+        "ouyin_running_store_scent"
+      ],
+      "disposition": "补充已有",
+      "source_refs": [
+        {
+          "artifact_id": "a_04bab2d647e244ff",
+          "locator": "图片原文",
+          "quote": "果香类的话，香气表现要突出一点，留香长一点的哦．"
+        }
+      ]
+    },
+    {
+      "requirement": "避免与lululemon托斯卡纳橙相似",
+      "subproject_keys": [
+        "ouyin_running_store_scent"
+      ],
+      "disposition": "补充已有",
+      "source_refs": [
+        {
+          "artifact_id": "a_beb7b55812744598",
+          "locator": "图片原文",
+          "quote": "也不能和他们家太像"
+        }
+      ]
+    },
+    {
+      "requirement": "安排小样并在10/12前收到",
+      "subproject_keys": [
+        "ouyin_running_store_scent"
+      ],
+      "disposition": "独立推进",
+      "source_refs": [
+        {
+          "artifact_id": "a_04bab2d647e244ff",
+          "locator": "图片原文",
+          "quote": "Gary，看一下这两天是不是可以安排一下小样，需要可以与DPM相融的哈．最好10/12 前可以收到．"
+        }
+      ]
+    }
+  ],
+  "ontology_gaps": [
+    {
+      "term": "东方力量",
+      "issue": "本体中缺乏直接对应“东方力量”的标签，已用B7沉稳坚定近似，但力量感与东方意象的结合仍不完整。",
+      "evidence": "Ida.AST　2026年10月8日 14:34\n表现竞速、科技感、东方力量、精英跑者"
+    }
+  ],
+  "warnings": [
+    "小样交付日期10/12与消息日期10/21存在矛盾，可能为笔误，需人工确认。",
+    "产品类型推断为扩香机香液（K009），需确认具体基质和产品形式。"
+  ]
+}

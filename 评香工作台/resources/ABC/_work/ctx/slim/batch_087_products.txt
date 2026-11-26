@@ -1,0 +1,6 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0016	香奈儿	Sycomore	梧桐影木	待检索核验
+PR_0061	汤姆·福特	Lost Cherry	落樱甜情；落红樱桃	待检索核验
+PR_0085	勒莱柏	Rose 31	玫瑰31	官网已核验存在
+PR_0166	潘海利根	The Impudent Cousin Matthew	鲁莽的马修	待检索核验
+PR_0199	信仰	Aventus	信仰 成功男士；成功（拿破仑之水）	待检索核验

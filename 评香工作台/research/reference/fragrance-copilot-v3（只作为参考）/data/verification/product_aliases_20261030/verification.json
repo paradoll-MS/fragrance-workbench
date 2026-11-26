@@ -1,0 +1,295 @@
+{
+  "before_model_calls": 4,
+  "queries": [
+    {
+      "brand": "Le Labo",
+      "query": "13",
+      "total": 6,
+      "codes": [
+        "JKB864EJK",
+        "JKP864AJK",
+        "JKP864AJKC",
+        "JKP864BJK",
+        "JKQ2130AJK",
+        "JKB864EJKW"
+      ],
+      "elapsed_ms": 415
+    },
+    {
+      "brand": "Le Labo",
+      "query": "33",
+      "total": 11,
+      "codes": [
+        "LJB872BLJB",
+        "LJC2344ALJ",
+        "LJP579CLJ",
+        "LJP579DLJ",
+        "LYA1477CLY",
+        "LJB872CLJ",
+        "LJP579ALJ",
+        "LJP872DLJ",
+        "C60447",
+        "LJA2433ALJ",
+        "LJP872DLJW"
+      ],
+      "elapsed_ms": 395
+    },
+    {
+      "brand": "祖玛珑 Jo Malone London",
+      "query": "鼠尾草与海盐",
+      "total": 7,
+      "codes": [
+        "C60179",
+        "SYA044BSY",
+        "SYB044GSY",
+        "SYP044ASY",
+        "SYC2656ASY",
+        "SYP2117ESY",
+        "SYP2117ESYWB"
+      ],
+      "elapsed_ms": 353
+    },
+    {
+      "brand": "迪奥 Dior",
+      "query": "花漾甜心",
+      "total": 8,
+      "codes": [
+        "LYP1078ALY",
+        "C30025",
+        "DH110509W11",
+        "DH151202E",
+        "LYB1078CLY",
+        "LYP1078ALY5B",
+        "LYP1078ALY6B",
+        "LYP2132ALY"
+      ],
+      "elapsed_ms": 285
+    }
+  ],
+  "subprojects": [
+    {
+      "id": "s_6b120ad47a14431d",
+      "title": "Le Labo 13 指定产品",
+      "elapsed_ms": 260,
+      "items": [
+        {
+          "code": "JKP864AJK",
+          "price": 191.09,
+          "identity": {
+            "code": "JKP864AJK",
+            "brand": "Le Labo",
+            "product": "Another 13／别样13",
+            "relation": "名称明确同款",
+            "source": "brand_product_labels"
+          }
+        }
+      ],
+      "meta": {
+        "total": 1,
+        "shown": 1,
+        "identity_total": 6,
+        "max_price": 360.0,
+        "algorithm": "v3-structured-product-catalog-2",
+        "resolutions": [
+          {
+            "status": "matched",
+            "mode": "brand_number",
+            "brand": "Le Labo",
+            "query": "13",
+            "version": "",
+            "options": [
+              {
+                "brand": "Le Labo",
+                "product": "Another 13",
+                "aliases": [
+                  "Another 13",
+                  "Another 13 别样13",
+                  "Another 13／别样13",
+                  "别样13"
+                ],
+                "codes": [
+                  "JKB864EJK",
+                  "JKB864EJKW",
+                  "JKP864AJK",
+                  "JKP864AJKC",
+                  "JKP864BJK",
+                  "JKQ2130AJK"
+                ]
+              }
+            ]
+          }
+        ],
+        "excluded_identity_records": [
+          {
+            "code": "JKB864EJK",
+            "name": "别样13（龙涎香基）",
+            "price": 405.12,
+            "reason": "品类不适用"
+          },
+          {
+            "code": "JKB864EJKW",
+            "name": "别样13水质香精",
+            "price": null,
+            "reason": "品类不适用"
+          },
+          {
+            "code": "JKP864AJKC",
+            "name": "别样13号",
+            "price": 154.6,
+            "reason": "品类不适用"
+          },
+          {
+            "code": "JKP864BJK",
+            "name": "别样13号",
+            "price": 441.19,
+            "reason": "超过当前价格上限"
+          },
+          {
+            "code": "JKQ2130AJK",
+            "name": "别样13",
+            "price": null,
+            "reason": "价格待确认"
+          }
+        ],
+        "unverified_versions": [],
+        "unresolved_products": [],
+        "message": ""
+      }
+    },
+    {
+      "id": "s_852dc3ec8774475b",
+      "title": "Le Labo 33 指定产品",
+      "elapsed_ms": 295,
+      "items": [
+        {
+          "code": "LJC2344ALJ",
+          "price": 176.24,
+          "identity": {
+            "code": "LJC2344ALJ",
+            "brand": "Le Labo",
+            "product": "Santal 33",
+            "relation": "仿香对象",
+            "source": "brand_product_labels"
+          }
+        },
+        {
+          "code": "LYA1477CLY",
+          "price": 228.71,
+          "identity": {
+            "code": "LYA1477CLY",
+            "brand": "Le Labo",
+            "product": "Santal 33",
+            "relation": "仿香对象",
+            "source": "brand_product_labels"
+          }
+        },
+        {
+          "code": "LJB872BLJB",
+          "price": 293.01,
+          "identity": {
+            "code": "LJB872BLJB",
+            "brand": "Le Labo",
+            "product": "Santal 33／檀香33",
+            "relation": "名称明确同款",
+            "source": "brand_product_labels"
+          }
+        }
+      ],
+      "meta": {
+        "total": 3,
+        "shown": 3,
+        "identity_total": 11,
+        "max_price": 360.0,
+        "algorithm": "v3-structured-product-catalog-2",
+        "resolutions": [
+          {
+            "status": "matched",
+            "mode": "brand_number",
+            "brand": "Le Labo",
+            "query": "33",
+            "version": "",
+            "options": [
+              {
+                "brand": "Le Labo",
+                "product": "Santal 33",
+                "aliases": [
+                  "Santal 33",
+                  "Santal 33 檀香33",
+                  "Santal 33／檀香33",
+                  "檀香33"
+                ],
+                "codes": [
+                  "C60447",
+                  "LJA2433ALJ",
+                  "LJB872BLJB",
+                  "LJB872CLJ",
+                  "LJC2344ALJ",
+                  "LJP579ALJ",
+                  "LJP579CLJ",
+                  "LJP579DLJ",
+                  "LJP872DLJ",
+                  "LJP872DLJW",
+                  "LYA1477CLY"
+                ]
+              }
+            ]
+          }
+        ],
+        "excluded_identity_records": [
+          {
+            "code": "C60447",
+            "name": "香水实验室 檀香33",
+            "price": null,
+            "reason": "品类不适用"
+          },
+          {
+            "code": "LJA2433ALJ",
+            "name": "檀香33",
+            "price": null,
+            "reason": "品类不适用"
+          },
+          {
+            "code": "LJB872CLJ",
+            "name": "檀香33",
+            "price": null,
+            "reason": "价格待确认"
+          },
+          {
+            "code": "LJP579ALJ",
+            "name": "檀香33",
+            "price": 866.48,
+            "reason": "超过当前价格上限"
+          },
+          {
+            "code": "LJP579CLJ",
+            "name": "檀香33",
+            "price": null,
+            "reason": "价格待确认"
+          },
+          {
+            "code": "LJP579DLJ",
+            "name": "檀香33",
+            "price": 291.1,
+            "reason": "品类不适用"
+          },
+          {
+            "code": "LJP872DLJ",
+            "name": "檀香33",
+            "price": null,
+            "reason": "价格待确认"
+          },
+          {
+            "code": "LJP872DLJW",
+            "name": "水质檀香33",
+            "price": null,
+            "reason": "品类不适用"
+          }
+        ],
+        "unverified_versions": [],
+        "unresolved_products": [],
+        "message": ""
+      }
+    }
+  ],
+  "after_model_calls": 4
+}

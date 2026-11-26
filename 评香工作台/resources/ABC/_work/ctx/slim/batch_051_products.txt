@@ -1,0 +1,4 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0049	爱马仕	Twilly d’Hermès	丝意姜香	待检索核验
+PR_0238	路易威登	Fantasmagory	幻梦奇境	待检索核验
+PR_0299	马克·雅可布	Daisy	小雏菊	待检索核验

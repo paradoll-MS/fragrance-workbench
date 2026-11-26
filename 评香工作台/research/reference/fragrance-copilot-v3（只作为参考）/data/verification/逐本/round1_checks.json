@@ -1,0 +1,2828 @@
+{
+  "run": {
+    "id": "g_79fb648f5f454c96",
+    "project_id": "p_bafd3133cc154ffa",
+    "status": "succeeded",
+    "stage": "理解完成",
+    "error": "",
+    "created_at": "2026-10-29 21:46:23",
+    "updated_at": "2026-10-29 21:46:29"
+  },
+  "project_id": "p_bafd3133cc154ffa",
+  "checks": [
+    {
+      "check": "首轮只读取两份brief",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "十二个独立香型全部建项",
+      "passed": true,
+      "detail": "12"
+    },
+    {
+      "check": "茉莉冰荔枝独立归属",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝三级品类",
+      "passed": true,
+      "detail": "卸妆膏油"
+    },
+    {
+      "check": "茉莉冰荔枝上市分层",
+      "passed": true,
+      "detail": "S"
+    },
+    {
+      "check": "茉莉冰荔枝未编造香精价格",
+      "passed": true,
+      "detail": "None"
+    },
+    {
+      "check": "茉莉冰荔枝没有把香气比例当添加量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝客户额外要求逐项有来源",
+      "passed": true,
+      "detail": "7"
+    },
+    {
+      "check": "茉莉冰荔枝ABC有语义依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝已生成推荐或明确零候选",
+      "passed": true,
+      "detail": "14"
+    },
+    {
+      "check": "气泡青苹果独立归属",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果三级品类",
+      "passed": true,
+      "detail": "卸妆膏油"
+    },
+    {
+      "check": "气泡青苹果上市分层",
+      "passed": true,
+      "detail": "S"
+    },
+    {
+      "check": "气泡青苹果未编造香精价格",
+      "passed": true,
+      "detail": "None"
+    },
+    {
+      "check": "气泡青苹果没有把香气比例当添加量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果客户额外要求逐项有来源",
+      "passed": true,
+      "detail": "7"
+    },
+    {
+      "check": "气泡青苹果ABC有语义依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果已生成推荐或明确零候选",
+      "passed": true,
+      "detail": "1"
+    },
+    {
+      "check": "茉莉青提独立归属",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提三级品类",
+      "passed": true,
+      "detail": "卸妆膏油"
+    },
+    {
+      "check": "茉莉青提上市分层",
+      "passed": true,
+      "detail": "S"
+    },
+    {
+      "check": "茉莉青提未编造香精价格",
+      "passed": true,
+      "detail": "None"
+    },
+    {
+      "check": "茉莉青提没有把香气比例当添加量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提客户额外要求逐项有来源",
+      "passed": true,
+      "detail": "7"
+    },
+    {
+      "check": "茉莉青提ABC有语义依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提已生成推荐或明确零候选",
+      "passed": true,
+      "detail": "15"
+    },
+    {
+      "check": "鲜莓芭乐独立归属",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐三级品类",
+      "passed": true,
+      "detail": "卸妆膏油"
+    },
+    {
+      "check": "鲜莓芭乐上市分层",
+      "passed": true,
+      "detail": "S"
+    },
+    {
+      "check": "鲜莓芭乐未编造香精价格",
+      "passed": true,
+      "detail": "None"
+    },
+    {
+      "check": "鲜莓芭乐没有把香气比例当添加量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐客户额外要求逐项有来源",
+      "passed": true,
+      "detail": "7"
+    },
+    {
+      "check": "鲜莓芭乐ABC有语义依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐已生成推荐或明确零候选",
+      "passed": true,
+      "detail": "1"
+    },
+    {
+      "check": "海盐柚子独立归属",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "海盐柚子三级品类",
+      "passed": true,
+      "detail": "卸妆膏油"
+    },
+    {
+      "check": "海盐柚子上市分层",
+      "passed": true,
+      "detail": "A"
+    },
+    {
+      "check": "海盐柚子未编造香精价格",
+      "passed": true,
+      "detail": "None"
+    },
+    {
+      "check": "海盐柚子没有把香气比例当添加量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "海盐柚子客户额外要求逐项有来源",
+      "passed": true,
+      "detail": "7"
+    },
+    {
+      "check": "海盐柚子ABC有语义依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "海盐柚子已生成推荐或明确零候选",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "check": "青柠百香果独立归属",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "青柠百香果三级品类",
+      "passed": true,
+      "detail": "卸妆膏油"
+    },
+    {
+      "check": "青柠百香果上市分层",
+      "passed": true,
+      "detail": "A"
+    },
+    {
+      "check": "青柠百香果未编造香精价格",
+      "passed": true,
+      "detail": "None"
+    },
+    {
+      "check": "青柠百香果没有把香气比例当添加量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "青柠百香果客户额外要求逐项有来源",
+      "passed": true,
+      "detail": "7"
+    },
+    {
+      "check": "青柠百香果ABC有语义依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "青柠百香果已生成推荐或明确零候选",
+      "passed": true,
+      "detail": "2"
+    },
+    {
+      "check": "爆汁青橙独立归属",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "爆汁青橙三级品类",
+      "passed": true,
+      "detail": "卸妆膏油"
+    },
+    {
+      "check": "爆汁青橙上市分层",
+      "passed": true,
+      "detail": "A"
+    },
+    {
+      "check": "爆汁青橙未编造香精价格",
+      "passed": true,
+      "detail": "None"
+    },
+    {
+      "check": "爆汁青橙没有把香气比例当添加量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "爆汁青橙客户额外要求逐项有来源",
+      "passed": true,
+      "detail": "7"
+    },
+    {
+      "check": "爆汁青橙ABC有语义依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "爆汁青橙已生成推荐或明确零候选",
+      "passed": true,
+      "detail": "2"
+    },
+    {
+      "check": "一口水蜜桃独立归属",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "一口水蜜桃三级品类",
+      "passed": true,
+      "detail": "卸妆膏油"
+    },
+    {
+      "check": "一口水蜜桃上市分层",
+      "passed": true,
+      "detail": "B"
+    },
+    {
+      "check": "一口水蜜桃未编造香精价格",
+      "passed": true,
+      "detail": "None"
+    },
+    {
+      "check": "一口水蜜桃没有把香气比例当添加量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "一口水蜜桃客户额外要求逐项有来源",
+      "passed": true,
+      "detail": "7"
+    },
+    {
+      "check": "一口水蜜桃ABC有语义依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "一口水蜜桃已生成推荐或明确零候选",
+      "passed": true,
+      "detail": "2"
+    },
+    {
+      "check": "海风轻椰独立归属",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "海风轻椰三级品类",
+      "passed": true,
+      "detail": "卸妆膏油"
+    },
+    {
+      "check": "海风轻椰上市分层",
+      "passed": true,
+      "detail": "B"
+    },
+    {
+      "check": "海风轻椰未编造香精价格",
+      "passed": true,
+      "detail": "None"
+    },
+    {
+      "check": "海风轻椰没有把香气比例当添加量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "海风轻椰客户额外要求逐项有来源",
+      "passed": true,
+      "detail": "7"
+    },
+    {
+      "check": "海风轻椰ABC有语义依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "海风轻椰已生成推荐或明确零候选",
+      "passed": true,
+      "detail": "3"
+    },
+    {
+      "check": "冰镇西瓜独立归属",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "冰镇西瓜三级品类",
+      "passed": true,
+      "detail": "卸妆膏油"
+    },
+    {
+      "check": "冰镇西瓜上市分层",
+      "passed": true,
+      "detail": "C"
+    },
+    {
+      "check": "冰镇西瓜未编造香精价格",
+      "passed": true,
+      "detail": "None"
+    },
+    {
+      "check": "冰镇西瓜没有把香气比例当添加量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "冰镇西瓜客户额外要求逐项有来源",
+      "passed": true,
+      "detail": "7"
+    },
+    {
+      "check": "冰镇西瓜ABC有语义依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "冰镇西瓜已生成推荐或明确零候选",
+      "passed": true,
+      "detail": "1"
+    },
+    {
+      "check": "冰镇西瓜没有继承九款商品化验收",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "酸野青芒独立归属",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "酸野青芒三级品类",
+      "passed": true,
+      "detail": "卸妆膏油"
+    },
+    {
+      "check": "酸野青芒上市分层",
+      "passed": true,
+      "detail": "C"
+    },
+    {
+      "check": "酸野青芒未编造香精价格",
+      "passed": true,
+      "detail": "None"
+    },
+    {
+      "check": "酸野青芒没有把香气比例当添加量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "酸野青芒客户额外要求逐项有来源",
+      "passed": true,
+      "detail": "7"
+    },
+    {
+      "check": "酸野青芒ABC有语义依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "酸野青芒已生成推荐或明确零候选",
+      "passed": true,
+      "detail": "1"
+    },
+    {
+      "check": "酸野青芒没有继承九款商品化验收",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "害羞乌梅独立归属",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "害羞乌梅三级品类",
+      "passed": true,
+      "detail": "卸妆膏油"
+    },
+    {
+      "check": "害羞乌梅上市分层",
+      "passed": true,
+      "detail": "C"
+    },
+    {
+      "check": "害羞乌梅未编造香精价格",
+      "passed": true,
+      "detail": "None"
+    },
+    {
+      "check": "害羞乌梅没有把香气比例当添加量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "害羞乌梅客户额外要求逐项有来源",
+      "passed": true,
+      "detail": "7"
+    },
+    {
+      "check": "害羞乌梅ABC有语义依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "害羞乌梅已生成推荐或明确零候选",
+      "passed": true,
+      "detail": "0"
+    },
+    {
+      "check": "害羞乌梅没有继承九款商品化验收",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "details": [
+    {
+      "name": "茉莉冰荔枝",
+      "tier": "S",
+      "type": "recommend_brand",
+      "id": "s_a77630e85a59486f",
+      "price": null,
+      "abc_counts": {
+        "a1": 2,
+        "a2": 4,
+        "a3": 1,
+        "b": 5,
+        "target_cs": 4
+      },
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "12香全部打样，每款至少完成同一轮基准样；统一浓度起点、统一基底、盲码送样；记录香精编号、添加量、批次与调整意见。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "12香\n全部打样\n每款至少完成同一轮基准样；统一\n浓度起点、统一基底、盲码送样；\n记录香精编号、添加量、批次与调\n整意见。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一要求：真实水果 > 糖果；果肉 > 香精；鲜切 > 加工；汁水 > 浓甜；空气感 > 厚重感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "后段",
+              "quote": "真实水果 > 糖果\n果肉 > 香精\n鲜切 > 加工\n汁水 > 浓甜\n空气感 > 厚重感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "scent": {
+        "theme": "新鲜荔枝白肉+轻茉莉+冰凉水汽；浪漫、明媚、心动。",
+        "core_position": "浪漫女主、首席形象款",
+        "structure": "主水果｜75–80% 新鲜荔枝白肉/透明汁水；年轻放大器｜10–15% 轻茉莉；清新空气感｜5–10% 冰凉水汽/夏日空气",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "新鲜荔枝白肉",
+          "轻茉莉",
+          "冰凉水汽"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [
+          "果香",
+          "花香",
+          "水汽香"
+        ],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [
+          "浪漫",
+          "明媚",
+          "心动",
+          "有感受力"
+        ],
+        "scenes": [
+          "夏天傍晚冰荔枝"
+        ],
+        "exclusions": [
+          "荔枝罐头",
+          "荔枝糖浆",
+          "浓茉莉香水",
+          "红茶苦涩",
+          "过度甜腻"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "planning": {
+        "launch_tier": "S"
+      },
+      "candidate_total": 14
+    },
+    {
+      "name": "气泡青苹果",
+      "tier": "S",
+      "type": "recommend_brand",
+      "id": "s_65dd17250bf842d2",
+      "price": null,
+      "abc_counts": {
+        "a1": 2,
+        "a2": 4,
+        "a3": 1,
+        "b": 5,
+        "target_cs": 4
+      },
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "12香全部打样，每款至少完成同一轮基准样；统一浓度起点、统一基底、盲码送样；记录香精编号、添加量、批次与调整意见。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "12香\n全部打样\n每款至少完成同一轮基准样；统一\n浓度起点、统一基底、盲码送样；\n记录香精编号、添加量、批次与调\n整意见。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一要求：真实水果 > 糖果；果肉 > 香精；鲜切 > 加工；汁水 > 浓甜；空气感 > 厚重感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "后段",
+              "quote": "真实水果 > 糖果\n果肉 > 香精\n鲜切 > 加工\n汁水 > 浓甜\n空气感 > 厚重感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "scent": {
+        "theme": "脆青苹果+苏打气泡+冰空气；成长、好奇、冒险、少年感。",
+        "core_position": "系列年轻Icon、短视频拉新款",
+        "structure": "主水果｜70–75% 脆青苹果/鲜果肉/苹果皮；年轻放大器｜15–20% 苏打气泡/酸度提升；清新空气感｜5–10% 冰空气/水汽",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "脆青苹果",
+          "苏打气泡",
+          "冰空气"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [
+          "果香",
+          "青绿"
+        ],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [
+          "成长",
+          "好奇",
+          "冒险",
+          "少年感"
+        ],
+        "scenes": [
+          "冰凉的青苹果咬下去咔嚓一声"
+        ],
+        "exclusions": [
+          "青苹果洗发水",
+          "苹果糖",
+          "过度人工酯香"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "planning": {
+        "launch_tier": "S"
+      },
+      "candidate_total": 1
+    },
+    {
+      "name": "茉莉青提",
+      "tier": "S",
+      "type": "recommend_brand",
+      "id": "s_9d6037979dc844b3",
+      "price": null,
+      "abc_counts": {
+        "a1": 2,
+        "a2": 5,
+        "a3": 1,
+        "b": 7,
+        "target_cs": 4
+      },
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "12香全部打样，每款至少完成同一轮基准样；统一浓度起点、统一基底、盲码送样；记录香精编号、添加量、批次与调整意见。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "12香\n全部打样\n每款至少完成同一轮基准样；统一\n浓度起点、统一基底、盲码送样；\n记录香精编号、添加量、批次与调\n整意见。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一要求：真实水果 > 糖果；果肉 > 香精；鲜切 > 加工；汁水 > 浓甜；空气感 > 厚重感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "后段",
+              "quote": "真实水果 > 糖果\n果肉 > 香精\n鲜切 > 加工\n汁水 > 浓甜\n空气感 > 厚重感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "scent": {
+        "theme": "新鲜青提+轻茉莉+清晨空气；温柔清透、从容向前。",
+        "core_position": "清透高级款、系列审美平衡器",
+        "structure": "主水果｜75–80% 新鲜青提；年轻放大器｜10–15% 轻茉莉；清新空气感｜5–10% 清晨空气",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "新鲜青提",
+          "轻茉莉",
+          "清晨空气",
+          "轻露水",
+          "透明水汽"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [
+          "果香",
+          "花香",
+          "青绿"
+        ],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [
+          "温柔",
+          "清透",
+          "从容",
+          "通透",
+          "有方向"
+        ],
+        "scenes": [
+          "清晨",
+          "安静往前走"
+        ],
+        "exclusions": [
+          "葡萄软糖",
+          "葡萄汽水",
+          "熟紫葡萄",
+          "浓茉莉",
+          "苦茶",
+          "奶甜",
+          "冷冽高智香"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "planning": {
+        "launch_tier": "S"
+      },
+      "candidate_total": 15
+    },
+    {
+      "name": "鲜莓芭乐",
+      "tier": "S",
+      "type": "recommend_brand",
+      "id": "s_a2a1a82de2af424c",
+      "price": null,
+      "abc_counts": {
+        "a1": 2,
+        "a2": 3,
+        "a3": 1,
+        "b": 4,
+        "target_cs": 3
+      },
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "12香全部打样，每款至少完成同一轮基准样；统一浓度起点、统一基底、盲码送样；记录香精编号、添加量、批次与调整意见。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "12香\n全部打样\n每款至少完成同一轮基准样；统一\n浓度起点、统一基底、盲码送样；\n记录香精编号、添加量、批次与调\n整意见。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一要求：真实水果 > 糖果；果肉 > 香精；鲜切 > 加工；汁水 > 浓甜；空气感 > 厚重感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "后段",
+              "quote": "真实水果 > 糖果\n果肉 > 香精\n鲜切 > 加工\n汁水 > 浓甜\n空气感 > 厚重感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "scent": {
+        "theme": "粉红芭乐+新鲜草莓高光+鲜果空气；鲜甜、热烈、可爱。",
+        "core_position": "社交话题款、热带碰撞款",
+        "structure": "主水果｜70–75% 粉红芭乐/鲜果肉/轻青皮/热带汁水感；年轻放大器｜15–20% 新鲜草莓（不可成为草莓主导）；清新空气感｜5–10% 鲜果空气/水汽",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "粉红芭乐",
+          "新鲜草莓高光",
+          "鲜果空气"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [
+          "果香",
+          "热带水果"
+        ],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [
+          "鲜甜",
+          "热烈",
+          "可爱",
+          "有趣"
+        ],
+        "scenes": [
+          "粉红芭乐与新鲜草莓"
+        ],
+        "exclusions": [
+          "草莓奶",
+          "芭乐糖",
+          "果酱甜腻",
+          "两个水果五五开导致混沌"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "planning": {
+        "launch_tier": "S"
+      },
+      "candidate_total": 1
+    },
+    {
+      "name": "海盐柚子",
+      "tier": "A",
+      "type": "recommend_brand",
+      "id": "s_5ea1890f659b4114",
+      "price": null,
+      "abc_counts": {
+        "a1": 1,
+        "a2": 5,
+        "a3": 2,
+        "b": 6,
+        "target_cs": 4
+      },
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "12香全部打样，每款至少完成同一轮基准样；统一浓度起点、统一基底、盲码送样；记录香精编号、添加量、批次与调整意见。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "12香\n全部打样\n每款至少完成同一轮基准样；统一\n浓度起点、统一基底、盲码送样；\n记录香精编号、添加量、批次与调\n整意见。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一要求：真实水果 > 糖果；果肉 > 香精；鲜切 > 加工；汁水 > 浓甜；空气感 > 厚重感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "后段",
+              "quote": "真实水果 > 糖果\n果肉 > 香精\n鲜切 > 加工\n汁水 > 浓甜\n空气感 > 厚重感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "scent": {
+        "theme": "新鲜柚子+极轻海盐矿物感+海风；清爽、自在、边界感。",
+        "core_position": "清洁心智款、清爽理性派",
+        "structure": "主水果｜75–80% 新鲜柚子果肉/柚皮/清爽柑橘汁水；年轻放大器｜10–15% 极轻海盐矿物感/微量柚皮苦感；清新空气感｜5–10% 海风/水汽",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "新鲜柚子果肉",
+          "极轻海盐矿物感",
+          "海风"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [
+          "柑橘",
+          "果香",
+          "海洋香"
+        ],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [
+          "自在",
+          "清爽",
+          "自由",
+          "边界感"
+        ],
+        "scenes": [
+          "海边刚剥开新鲜柚子"
+        ],
+        "exclusions": [
+          "男香海洋感",
+          "强麝香",
+          "过苦果皮",
+          "清洁剂感"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "planning": {
+        "launch_tier": "A"
+      },
+      "candidate_total": 0
+    },
+    {
+      "name": "青柠百香果",
+      "tier": "A",
+      "type": "recommend_brand",
+      "id": "s_ae01b30b001a4b0b",
+      "price": null,
+      "abc_counts": {
+        "a1": 2,
+        "a2": 4,
+        "a3": 2,
+        "b": 4,
+        "target_cs": 4
+      },
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "12香全部打样，每款至少完成同一轮基准样；统一浓度起点、统一基底、盲码送样；记录香精编号、添加量、批次与调整意见。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "12香\n全部打样\n每款至少完成同一轮基准样；统一\n浓度起点、统一基底、盲码送样；\n记录香精编号、添加量、批次与调\n整意见。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一要求：真实水果 > 糖果；果肉 > 香精；鲜切 > 加工；汁水 > 浓甜；空气感 > 厚重感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "后段",
+              "quote": "真实水果 > 糖果\n果肉 > 香精\n鲜切 > 加工\n汁水 > 浓甜\n空气感 > 厚重感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "scent": {
+        "theme": "成熟百香果+新鲜青柠+微气泡矿物感；清醒、明亮、有劲、热情。",
+        "core_position": "高酸高能款、热带动感补充",
+        "structure": "主水果｜75–80% 成熟百香果+新鲜青柠；年轻放大器｜12–15% 微气泡矿物感/极轻绿色脆感/明亮柑橘火花感；清新空气感｜5–8% 湿润热带空气/水汽/透明果汁雾感",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "成熟百香果",
+          "新鲜青柠",
+          "微气泡矿物感",
+          "湿润热带空气"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [
+          "柑橘",
+          "果香",
+          "热带水果",
+          "水汽香"
+        ],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [
+          "清醒",
+          "明亮",
+          "有劲",
+          "热情",
+          "拎得清"
+        ],
+        "scenes": [
+          "百香果切开，青柠汁飞出来",
+          "明亮清醒带劲的鲜果生命力"
+        ],
+        "exclusions": [
+          "柠檬洗洁精",
+          "浴室清洁剂",
+          "雪碧饮料感",
+          "百香果糖浆",
+          "热带水果糖",
+          "芒果味",
+          "菠萝味",
+          "过重果皮苦感"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "planning": {
+        "launch_tier": "A"
+      },
+      "candidate_total": 2
+    },
+    {
+      "name": "爆汁青橙",
+      "tier": "A",
+      "type": "recommend_brand",
+      "id": "s_06d89e40477f4850",
+      "price": null,
+      "abc_counts": {
+        "a1": 2,
+        "a2": 4,
+        "a3": 2,
+        "b": 5,
+        "target_cs": 4
+      },
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "12香全部打样，每款至少完成同一轮基准样；统一浓度起点、统一基底、盲码送样；记录香精编号、添加量、批次与调整意见。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "12香\n全部打样\n每款至少完成同一轮基准样；统一\n浓度起点、统一基底、盲码送样；\n记录香精编号、添加量、批次与调\n整意见。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一要求：真实水果 > 糖果；果肉 > 香精；鲜切 > 加工；汁水 > 浓甜；空气感 > 厚重感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "后段",
+              "quote": "真实水果 > 糖果\n果肉 > 香精\n鲜切 > 加工\n汁水 > 浓甜\n空气感 > 厚重感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "scent": {
+        "theme": "新鲜橙肉/鲜榨橙汁+青橙皮+清凉空气；明亮、爽快、行动力。",
+        "core_position": "即刻清新款、柑橘赛道补位",
+        "structure": "主水果｜75–80% 新鲜橙肉/鲜榨橙汁；年轻放大器｜10–15% 青橙皮/极少白瓤微苦/轻青柑皮精油感；清新空气感｜5–10% 清凉空气/水汽",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "新鲜橙肉",
+          "鲜榨橙汁",
+          "青橙皮",
+          "清凉空气"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [
+          "柑橘",
+          "果香"
+        ],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [
+          "元气",
+          "明亮",
+          "爽快",
+          "行动力"
+        ],
+        "scenes": [
+          "用力掰开新鲜橙子",
+          "生活突然亮了"
+        ],
+        "exclusions": [
+          "芬达",
+          "橙糖",
+          "清洁剂柑橘",
+          "单调甜橙精油"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "planning": {
+        "launch_tier": "A"
+      },
+      "candidate_total": 2
+    },
+    {
+      "name": "一口水蜜桃",
+      "tier": "B",
+      "type": "recommend_brand",
+      "id": "s_bc89cc5e90374d3b",
+      "price": null,
+      "abc_counts": {
+        "a1": 1,
+        "a2": 4,
+        "a3": 1,
+        "b": 4,
+        "target_cs": 4
+      },
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "12香全部打样，每款至少完成同一轮基准样；统一浓度起点、统一基底、盲码送样；记录香精编号、添加量、批次与调整意见。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "12香\n全部打样\n每款至少完成同一轮基准样；统一\n浓度起点、统一基底、盲码送样；\n记录香精编号、添加量、批次与调\n整意见。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一要求：真实水果 > 糖果；果肉 > 香精；鲜切 > 加工；汁水 > 浓甜；空气感 > 厚重感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "后段",
+              "quote": "真实水果 > 糖果\n果肉 > 香精\n鲜切 > 加工\n汁水 > 浓甜\n空气感 > 厚重感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "scent": {
+        "theme": "成熟水蜜桃+自然成熟果香+湿润鲜果空气；敢要、享受、柔软、丰盛。",
+        "core_position": "大众安全牌、温柔熟悉款",
+        "structure": "主水果｜80% 成熟水蜜桃/柔软桃肉/高汁水感/天然甜香/极轻桃皮绒毛感；年轻放大器｜10–15% 自然成熟果香/极轻自然酸度/桃皮鲜感；清新空气感｜5–10% 湿润鲜果空气/轻水汽",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "成熟水蜜桃",
+          "自然成熟果香",
+          "湿润鲜果空气"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [
+          "果香",
+          "水汽香"
+        ],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [
+          "敢要",
+          "享受",
+          "柔软",
+          "丰盛"
+        ],
+        "scenes": [
+          "熟到刚刚好的水蜜桃直接咬一口"
+        ],
+        "exclusions": [
+          "桃糖",
+          "桃罐头",
+          "奶桃",
+          "桃奶昔",
+          "香草",
+          "奶油",
+          "浓香水白桃"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "planning": {
+        "launch_tier": "B"
+      },
+      "candidate_total": 2
+    },
+    {
+      "name": "海风轻椰",
+      "tier": "B",
+      "type": "recommend_brand",
+      "id": "s_66bdd5271d8c41e0",
+      "price": null,
+      "abc_counts": {
+        "a1": 1,
+        "a2": 4,
+        "a3": 1,
+        "b": 4,
+        "target_cs": 3
+      },
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "12香全部打样，每款至少完成同一轮基准样；统一浓度起点、统一基底、盲码送样；记录香精编号、添加量、批次与调整意见。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "12香\n全部打样\n每款至少完成同一轮基准样；统一\n浓度起点、统一基底、盲码送样；\n记录香精编号、添加量、批次与调\n整意见。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一要求：真实水果 > 糖果；果肉 > 香精；鲜切 > 加工；汁水 > 浓甜；空气感 > 厚重感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "后段",
+              "quote": "真实水果 > 糖果\n果肉 > 香精\n鲜切 > 加工\n汁水 > 浓甜\n空气感 > 厚重感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "scent": {
+        "theme": "新鲜嫩椰水+极淡海盐+海风；自由、松弛、轻盈。",
+        "core_position": "度假氛围款、场景化长尾",
+        "structure": "主水果｜75–80% 新鲜嫩椰水/清甜透明椰水/极轻嫩椰肉感；年轻放大器｜10–15% 极淡海盐矿物感；清新空气感｜5–10% 海风/水汽/透明空气",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "新鲜嫩椰水",
+          "极淡海盐矿物感",
+          "海风"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [
+          "果香",
+          "水汽香",
+          "海洋香"
+        ],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [
+          "自由",
+          "松弛",
+          "随性",
+          "轻盈"
+        ],
+        "scenes": [
+          "海边刚劈开嫩椰"
+        ],
+        "exclusions": [
+          "椰奶",
+          "椰子糖",
+          "香草",
+          "奶油",
+          "防晒霜",
+          "男士海洋香",
+          "强臭氧"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "planning": {
+        "launch_tier": "B"
+      },
+      "candidate_total": 3
+    },
+    {
+      "name": "冰镇西瓜",
+      "tier": "C",
+      "type": "recommend_brand",
+      "id": "s_6ddc69ae92f9438b",
+      "price": null,
+      "abc_counts": {
+        "a1": 1,
+        "a2": 4,
+        "a3": 1,
+        "b": 4,
+        "target_cs": 3
+      },
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "12香全部打样，每款至少完成同一轮基准样；统一浓度起点、统一基底、盲码送样；记录香精编号、添加量、批次与调整意见。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "12香\n全部打样\n每款至少完成同一轮基准样；统一\n浓度起点、统一基底、盲码送样；\n记录香精编号、添加量、批次与调\n整意见。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一要求：真实水果 > 糖果；果肉 > 香精；鲜切 > 加工；汁水 > 浓甜；空气感 > 厚重感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "后段",
+              "quote": "真实水果 > 糖果\n果肉 > 香精\n鲜切 > 加工\n汁水 > 浓甜\n空气感 > 厚重感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "C级3款完成打样并进入品牌香型库，保留最终概念样、配方版本、供应商代码、评香记录与应用边界；暂不推进正式商品标准。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "iced_watermelon",
+            "wild_green_mango",
+            "shy_plum"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "3香\n进入品牌香型库\nC级保留最终概念样、配方版本、\n供应商代码、评香记录与应用边界\n，未来可直接复测和重新立项。"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "scent": {
+        "theme": "新鲜红瓤西瓜+冰镇感+冰箱冷空气；痛快、松快、快乐。",
+        "core_position": "夏日限定氛围款",
+        "structure": "主水果｜75–80% 新鲜红瓤西瓜/强水分感/清甜瓜汁；年轻放大器｜10–15% 极轻西瓜皮青香/冰镇感；清新空气感｜5–10% 冰箱冷空气/水汽",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "新鲜红瓤西瓜",
+          "冰镇感",
+          "冰箱冷空气"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [
+          "果香",
+          "水汽香"
+        ],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [
+          "痛快",
+          "松快",
+          "快乐",
+          "当下"
+        ],
+        "scenes": [
+          "完整西瓜从冰箱抱出裂开"
+        ],
+        "exclusions": [
+          "西瓜泡泡糖",
+          "西瓜糖",
+          "人工瓜香",
+          "奶香"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "planning": {
+        "launch_tier": "C"
+      },
+      "candidate_total": 1
+    },
+    {
+      "name": "酸野青芒",
+      "tier": "C",
+      "type": "recommend_brand",
+      "id": "s_8d1f0ec9f92a4c96",
+      "price": null,
+      "abc_counts": {
+        "a1": 1,
+        "a2": 4,
+        "a3": 1,
+        "b": 4,
+        "target_cs": 3
+      },
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "12香全部打样，每款至少完成同一轮基准样；统一浓度起点、统一基底、盲码送样；记录香精编号、添加量、批次与调整意见。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "12香\n全部打样\n每款至少完成同一轮基准样；统一\n浓度起点、统一基底、盲码送样；\n记录香精编号、添加量、批次与调\n整意见。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一要求：真实水果 > 糖果；果肉 > 香精；鲜切 > 加工；汁水 > 浓甜；空气感 > 厚重感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "后段",
+              "quote": "真实水果 > 糖果\n果肉 > 香精\n鲜切 > 加工\n汁水 > 浓甜\n空气感 > 厚重感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "C级3款完成打样并进入品牌香型库，保留最终概念样、配方版本、供应商代码、评香记录与应用边界；暂不推进正式商品标准。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "iced_watermelon",
+            "wild_green_mango",
+            "shy_plum"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "3香\n进入品牌香型库\nC级保留最终概念样、配方版本、\n供应商代码、评香记录与应用边界\n，未来可直接复测和重新立项。"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "scent": {
+        "theme": "鲜青芒+明亮鲜酸+热带湿润空气；野、青涩、敢玩、有生命力。",
+        "core_position": "地域探索款、海外候选",
+        "structure": "主水果｜75–80% 鲜青芒/脆果肉/青皮感；年轻放大器｜10–15% 明亮鲜酸/极轻果皮树脂感；清新空气感｜5–10% 热带湿润空气/鲜切果汁水汽",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "鲜青芒",
+          "明亮鲜酸",
+          "热带湿润空气"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [
+          "果香",
+          "青绿",
+          "热带水果"
+        ],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [
+          "野",
+          "青涩",
+          "敢玩",
+          "生命力"
+        ],
+        "scenes": [
+          "盛夏未完全成熟的青芒被切开"
+        ],
+        "exclusions": [
+          "熟黄芒",
+          "芒果奶昔",
+          "布丁",
+          "芒果糖",
+          "奶香",
+          "强青草"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "planning": {
+        "launch_tier": "C"
+      },
+      "candidate_total": 1
+    },
+    {
+      "name": "害羞乌梅",
+      "tier": "C",
+      "type": "recommend_brand",
+      "id": "s_b17540384cd84a0d",
+      "price": null,
+      "abc_counts": {
+        "a1": 1,
+        "a2": 4,
+        "a3": 1,
+        "b": 4,
+        "target_cs": 3
+      },
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "12香全部打样，每款至少完成同一轮基准样；统一浓度起点、统一基底、盲码送样；记录香精编号、添加量、批次与调整意见。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "12香\n全部打样\n每款至少完成同一轮基准样；统一\n浓度起点、统一基底、盲码送样；\n记录香精编号、添加量、批次与调\n整意见。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一要求：真实水果 > 糖果；果肉 > 香精；鲜切 > 加工；汁水 > 浓甜；空气感 > 厚重感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "后段",
+              "quote": "真实水果 > 糖果\n果肉 > 香精\n鲜切 > 加工\n汁水 > 浓甜\n空气感 > 厚重感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "C级3款完成打样并进入品牌香型库，保留最终概念样、配方版本、供应商代码、评香记录与应用边界；暂不推进正式商品标准。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "iced_watermelon",
+            "wild_green_mango",
+            "shy_plum"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "3香\n进入品牌香型库\nC级保留最终概念样、配方版本、\n供应商代码、评香记录与应用边界\n，未来可直接复测和重新立项。"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "scent": {
+        "theme": "新鲜乌梅+薄雾+湿润空气；慢热、神秘、酸甜、有层次。",
+        "core_position": "东方酸甜内容实验款",
+        "structure": "主水果｜75–80% 新鲜乌梅/鲜酸/明确梅子识别/成熟果肉/酸甜张力；年轻放大器｜10–15% 鲜酸提亮/极轻果酱感/可用极低比例红莓；清新空气感｜5–10% 薄雾/湿润空气/清透水汽",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "新鲜乌梅",
+          "薄雾",
+          "湿润空气"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [
+          "果香",
+          "酸感",
+          "雾感"
+        ],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [
+          "慢热",
+          "神秘",
+          "酸甜",
+          "有层次"
+        ],
+        "scenes": [
+          "深紫红乌梅藏在薄薄水雾里"
+        ],
+        "exclusions": [
+          "酸梅汤",
+          "中药",
+          "陈皮主导",
+          "红糖",
+          "强烟熏",
+          "蜜饯",
+          "话梅糖"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "planning": {
+        "launch_tier": "C"
+      },
+      "candidate_total": 0
+    }
+  ],
+  "passed": true
+}

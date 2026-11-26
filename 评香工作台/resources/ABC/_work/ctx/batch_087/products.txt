@@ -1,0 +1,6 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0016	BR_001	香奈儿	Sycomore	梧桐影木	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0061	BR_005	汤姆·福特	Lost Cherry	落樱甜情；落红樱桃	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0085	BR_007	勒莱柏	Rose 31	玫瑰31	2	官网已核验存在	https://www.lelabofragrances.com/classic-collection.html	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0166	BR_018	潘海利根	The Impudent Cousin Matthew	鲁莽的马修	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0199	BR_023	信仰	Aventus	信仰 成功男士；成功（拿破仑之水）	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

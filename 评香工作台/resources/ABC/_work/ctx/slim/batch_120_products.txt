@@ -1,0 +1,7 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0073	蒂普提克	Eau Rose	一支玫瑰；盛放玫瑰	官网已核验存在
+PR_0180	凯利安	Black Phantom	黑夜魅影（黑幽灵）；黑幽灵	待检索核验
+PR_0208	拉巴纳	Lady Million	百万女士香水；百万女香	待检索核验
+PR_0215	巴宝莉	Brit	英伦风尚	待检索核验
+PR_0234	MFK	Baccarat Rouge 540	540香精；Baccarat Rouge 540；晶红540	待检索核验
+PR_0237	MFK	Amyris Femme	雅迷瑞斯女士	待检索核验

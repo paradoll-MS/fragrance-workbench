@@ -1,0 +1,11 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0024	祖玛珑	Blackberry & Bay	莓果月桂叶；黑莓与月桂叶	待检索核验
+PR_0027	祖玛珑	Lime Basil & Mandarin	青柠罗勒与柑橘	待检索核验
+PR_0063	汤姆·福特	Fucking Fabulous	他妈的真棒；法布勒斯	待检索核验
+PR_0066	汤姆·福特	Grey Vetiver	灰色香根草；灰香根草	待检索核验
+PR_0153	阿玛尼	Armani Code	阿尼密码；阿玛尼密码	待检索核验
+PR_0159	潘海利根	The Coveted Duchess Rose	罗斯公爵夫人	待检索核验
+PR_0204	卡罗琳娜·海莱拉	Good Girl	GOOD GIRL；好女孩	待检索核验
+PR_0229	安娜苏	Fantasia	独角兽/幻想曲；筑梦天马	待检索核验
+PR_0262	伊布拉欣·古莱希	Black Diamond Incense	Black Diamond Incense	待检索核验
+PR_0336	祖玛珑	Cherry Blossom	樱花2018限量；祖玛珑樱花	待检索核验

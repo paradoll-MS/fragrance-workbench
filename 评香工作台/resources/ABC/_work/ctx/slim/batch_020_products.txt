@@ -1,0 +1,5 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0130	迪奥	J’adore	大奥真我；真我；真我-降价版；真我倾世之金	待检索核验
+PR_0142	范思哲	Yellow Diamond	黄钻（黄水晶）	待检索核验
+PR_0219	大卫杜夫	Cool Water Woman	冷水女士	待检索核验
+PR_0220	大卫杜夫	Champion	勇者（奖杯）	待检索核验

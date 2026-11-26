@@ -1,0 +1,9 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0025	祖玛珑	Nectarine Blossom & Honey	杏桃花与蜂蜜	待检索核验
+PR_0052	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	官网已核验存在
+PR_0064	汤姆·福特	Soleil Neige	太阳雪；雪映流光	待检索核验
+PR_0115	梅森·马吉拉	Under the Lemon Trees	柠檬树下	待检索核验
+PR_0118	宝格丽	Pour Homme	大吉岭茶	待检索核验
+PR_0140	范思哲	Eros	Versace Eros；爱神（爱罗斯）	待检索核验
+PR_0174	馥马尔	Musc Ravageur	狂野麝香	待检索核验
+PR_0274	罗意威	001 Man	001 事后清晨男士；001男士	待检索核验

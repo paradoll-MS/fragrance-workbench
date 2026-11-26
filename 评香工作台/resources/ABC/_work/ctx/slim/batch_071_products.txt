@@ -1,0 +1,11 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0040	爱马仕	Un Jardin sur le Nil	尼罗河花园	官网已核验存在
+PR_0053	圣罗兰	Y	Y（Y先生）；圣罗兰Y男香	官网已核验存在
+PR_0058	汤姆·福特	Oud Wood	TF-沉香；珍华乌木	待检索核验
+PR_0104	阿蒂仙之香	Fou d’Absinthe	狂恋苦艾	待检索核验
+PR_0120	宝格丽	Omnia Amethyste	BVLGARI OMNIA AMETHYSTE；花舞轻盈（紫晶）	待检索核验
+PR_0183	解放橘郡	The Story of Your Life	你的人生故事	待检索核验
+PR_0205	卡罗琳娜·海莱拉	212 Sexy Men	212Sexyman；212Sexymen；212性感；212性感男士	待检索核验
+PR_0243	卡亚利	Fleur Majesty Rose Royale 31	御品玫瑰31	待检索核验
+PR_0244	卡亚利	Yum Boujee Marshmallow 81	美味棉花糖81	待检索核验
+PR_0281	欧珑	Orange Sanguine	赤霞极光；赤霞橘光	待检索核验

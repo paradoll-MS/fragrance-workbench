@@ -1,0 +1,5 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0015	香奈儿	31 Rue Cambon	康朋街31号	待检索核验
+PR_0035	祖玛珑	Nettle & Wild Achillea	荨麻与野生欧蓍草	待检索核验
+PR_0090	勒莱柏	Vetiver 46	香根草46	待检索核验
+PR_0307	爱慕	Epic Woman	史诗女士	待检索核验

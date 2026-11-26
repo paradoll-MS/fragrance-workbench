@@ -1,0 +1,6 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0002	BR_001	香奈儿	Chance	邂逅；邂逅（黄邂逅）；黄邂逅	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0023	BR_002	祖玛珑	Wood Sage & Sea Salt	鼠尾草与海盐；鼠尾草海盐	7	官网已核验存在	https://www.jomalone.com/scent-layering	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0029	BR_002	祖玛珑	Mimosa & Cardamom	含羞草与小豆蔻	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0073	BR_006	蒂普提克	Eau Rose	一支玫瑰；盛放玫瑰	3	官网已核验存在	https://diptyqueparis.com/en-eu	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0234	BR_034	MFK	Baccarat Rouge 540	540香精；Baccarat Rouge 540；晶红540	6	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

@@ -1,0 +1,6 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0036	BR_002	祖玛珑	Hemlock & Bergamot	铁杉与香柠檬	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0082	BR_007	勒莱柏	Another 13	别样13	5	官网已核验存在	https://www.lelabofragrances.com/classic-collection.html	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0176	BR_019	馥马尔	Carnal Flower	魅夜晚香玉	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0189	BR_022	娇兰	Aqua Allegoria Mandarine Basilic	柑橘罗勒	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0230	BR_033	安娜苏	Fantasia Mermaid	筑梦人鱼；美人鱼	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

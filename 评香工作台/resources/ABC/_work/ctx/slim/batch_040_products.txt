@@ -1,0 +1,4 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0014	香奈儿	Paris–Édimbourg	巴黎-爱丁堡	待检索核验
+PR_0112	梅森·马吉拉	Beach Walk	海滩漫步	待检索核验
+PR_0204	卡罗琳娜·海莱拉	Good Girl	GOOD GIRL；好女孩	待检索核验

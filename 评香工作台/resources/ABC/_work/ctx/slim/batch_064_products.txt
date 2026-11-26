@@ -1,0 +1,8 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0002	香奈儿	Chance	邂逅；邂逅（黄邂逅）；黄邂逅	待检索核验
+PR_0004	香奈儿	Chance Eau Tendre	粉色邂逅；粉邂逅；邂逅柔情	待检索核验
+PR_0048	爱马仕	Eau des Merveilles	橘彩星光；橘采星光	待检索核验
+PR_0072	蒂普提克	L’Ombre dans l’Eau	原版白玫瑰（玫瑰之影）；水中影	官网已核验存在
+PR_0096	柏芮朵	Mojave Ghost	荒漠孤魂；莫哈维之影	官网已核验存在
+PR_0154	阿玛尼	Thé Yulong	玉龙茶	待检索核验
+PR_0188	娇兰	Aqua Allegoria Herba Fresca	薄荷青草	待检索核验

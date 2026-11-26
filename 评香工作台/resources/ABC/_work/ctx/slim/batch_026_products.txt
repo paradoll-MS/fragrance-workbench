@@ -1,0 +1,6 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0068	汤姆·福特	Tobacco Vanille	烟叶香草	待检索核验
+PR_0137	迪奥	Tendre Poison	温柔奇葩；绿毒	待检索核验
+PR_0195	娇兰	Samsara	圣莎拉	待检索核验
+PR_0197	娇兰	Shalimar	一千零一夜	待检索核验
+PR_0218	大卫杜夫	Cool Water Man	冷水男士	待检索核验

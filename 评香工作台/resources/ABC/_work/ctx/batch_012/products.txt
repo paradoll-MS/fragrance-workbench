@@ -1,0 +1,14 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0001	BR_001	香奈儿	COCO Mademoiselle	COCO小姐；MADEMOISELLE；可可小姐	8	官网已核验存在	https://www.chanel.com/us/fragrance/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0002	BR_001	香奈儿	Chance	邂逅；邂逅（黄邂逅）；黄邂逅	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0023	BR_002	祖玛珑	Wood Sage & Sea Salt	鼠尾草与海盐；鼠尾草海盐	7	官网已核验存在	https://www.jomalone.com/scent-layering	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0039	BR_003	爱马仕	Terre d’Hermès	大地；大地男士；爱马仕大地；马仕大地	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0044	BR_003	爱马仕	Un Jardin après la Mousson	印度花园；雨后花园	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0068	BR_005	汤姆·福特	Tobacco Vanille	烟叶香草	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0126	BR_013	兰蔻	La Vie Est Belle	LA VIE EST BELLE；美丽人生	15	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0193	BR_022	娇兰	L’Homme Idéal	理想男士	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0205	BR_024	卡罗琳娜·海莱拉	212 Sexy Men	212Sexyman；212Sexymen；212性感；212性感男士	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0231	BR_033	安娜苏	Secret Wish	许愿精灵	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0323	BR_062	莲娜丽姿	Nina	妮娜苹果；莲娜丽姿苹果	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0332	BR_001	香奈儿	COCO	COCO	11	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0338	BR_064	拉夫劳伦	Polo Blue	蓝色马球	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

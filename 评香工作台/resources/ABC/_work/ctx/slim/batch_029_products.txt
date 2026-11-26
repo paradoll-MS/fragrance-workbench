@@ -1,0 +1,4 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0040	爱马仕	Un Jardin sur le Nil	尼罗河花园	官网已核验存在
+PR_0187	娇兰	La Petite Robe Noire	小黑裙	待检索核验
+PR_0290	古特尔	Eau d’Hadrien	哈德良之水	待检索核验

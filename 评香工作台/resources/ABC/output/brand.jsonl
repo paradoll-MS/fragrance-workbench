@@ -1,0 +1,61 @@
+{"brand_id": "BR_001", "canonical_name": "香奈儿", "international_name": "CHANEL", "aliases": ["香尼儿", "香奈尔"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_002", "canonical_name": "祖玛珑", "international_name": "Jo Malone London", "aliases": ["JM", "Jo Malone", "祖玛龙"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_003", "canonical_name": "爱马仕", "international_name": "Hermès", "aliases": ["HERMES", "马仕"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_004", "canonical_name": "圣罗兰", "international_name": "Yves Saint Laurent", "aliases": ["YSL", "圣罗兰"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_005", "canonical_name": "汤姆·福特", "international_name": "Tom Ford", "aliases": ["TF", "汤姆福特", "汤姆·福特"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_006", "canonical_name": "蒂普提克", "international_name": "Diptyque", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_007", "canonical_name": "勒莱柏", "international_name": "Le Labo", "aliases": ["香水实验室", "勒莱柏", "勒拉博"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_008", "canonical_name": "柏芮朵", "international_name": "Byredo", "aliases": ["柏芮朵", "百瑞德"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_009", "canonical_name": "阿蒂仙之香", "international_name": "L’Artisan Parfumeur", "aliases": ["阿蒂仙", "阿蒂仙之香"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_010", "canonical_name": "芦丹氏", "international_name": "Serge Lutens", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_011", "canonical_name": "梅森·马吉拉", "international_name": "Maison Margiela", "aliases": ["Maison Martin Margiela", "马吉拉", "梅森马吉拉"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_012", "canonical_name": "宝格丽", "international_name": "BVLGARI", "aliases": ["Bulgari", "宝格丽"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_013", "canonical_name": "兰蔻", "international_name": "Lancôme", "aliases": ["兰蔻", "兰芝蔻"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_014", "canonical_name": "迪奥", "international_name": "Dior", "aliases": ["迪奥", "大奥"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_015", "canonical_name": "范思哲", "international_name": "Versace", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_016", "canonical_name": "古驰", "international_name": "Gucci", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_017", "canonical_name": "阿玛尼", "international_name": "Giorgio Armani", "aliases": ["阿玛尼", "阿尼"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_018", "canonical_name": "潘海利根", "international_name": "Penhaligon’s", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_019", "canonical_name": "馥马尔", "international_name": "Frédéric Malle", "aliases": ["FM", "馥马尔"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_020", "canonical_name": "凯利安", "international_name": "Kilian Paris", "aliases": ["Kilian", "凯利安"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_021", "canonical_name": "解放橘郡", "international_name": "Etat Libre d’Orange", "aliases": ["ELDO", "解放橘郡"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_022", "canonical_name": "娇兰", "international_name": "Guerlain", "aliases": ["娇兰"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_023", "canonical_name": "信仰", "international_name": "Creed", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_024", "canonical_name": "卡罗琳娜·海莱拉", "international_name": "Carolina Herrera", "aliases": ["CH", "卡罗琳娜海莱拉"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_025", "canonical_name": "拉巴纳", "international_name": "Rabanne", "aliases": ["Paco Rabanne", "帕高", "拉巴纳"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_026", "canonical_name": "巴宝莉", "international_name": "Burberry", "aliases": ["博柏利", "巴宝莉", "BURBERRY"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_027", "canonical_name": "三宅一生", "international_name": "Issey Miyake", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_028", "canonical_name": "大卫杜夫", "international_name": "Davidoff", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_029", "canonical_name": "伊丽莎白雅顿", "international_name": "Elizabeth Arden", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_030", "canonical_name": "浪凡", "international_name": "Lanvin", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_032", "canonical_name": "蔻依", "international_name": "Chloé", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_033", "canonical_name": "安娜苏", "international_name": "Anna Sui", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_034", "canonical_name": "MFK", "international_name": "Maison Francis Kurkdjian", "aliases": ["MFK", "库尔吉安"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_035", "canonical_name": "路易威登", "international_name": "Louis Vuitton", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_036", "canonical_name": "卡亚利", "international_name": "Kayali", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_037", "canonical_name": "拉塔法", "international_name": "Lattafa", "aliases": ["拉塔法"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_038", "canonical_name": "阿芙南", "international_name": "Afnan", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_039", "canonical_name": "海湾兰花", "international_name": "Gulf Orchid", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_040", "canonical_name": "阿玛芙", "international_name": "Armaf", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_041", "canonical_name": "伊布拉欣·古莱希", "international_name": "Ibraheem Al Qurashi", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_042", "canonical_name": "吉萨", "international_name": "Gissah", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_043", "canonical_name": "维多利亚的秘密", "international_name": "Victoria’s Secret", "aliases": ["维密", "Victoria Secret"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_044", "canonical_name": "莫斯奇诺", "international_name": "Moschino", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_045", "canonical_name": "罗意威", "international_name": "Loewe", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_047", "canonical_name": "高缇耶", "international_name": "Jean Paul Gaultier", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_048", "canonical_name": "欧珑", "international_name": "Atelier Cologne", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_049", "canonical_name": "阿莎罗", "international_name": "Azzaro", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_050", "canonical_name": "梵克雅宝", "international_name": "Van Cleef & Arpels", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_051", "canonical_name": "古特尔", "international_name": "Goutal", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_052", "canonical_name": "帕尔玛之水", "international_name": "Acqua di Parma", "aliases": ["ADP", "帕尔玛之水"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_053", "canonical_name": "维克多与罗夫", "international_name": "Viktor&Rolf", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_054", "canonical_name": "马克·雅可布", "international_name": "Marc Jacobs", "aliases": ["MJ", "马克雅可布"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_055", "canonical_name": "祖·马龙", "international_name": "Jo Loves", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_056", "canonical_name": "佩枪朱丽叶", "international_name": "Juliette Has A Gun", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_057", "canonical_name": "爱慕", "international_name": "Amouage", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_059", "canonical_name": "卡诗", "international_name": "Kérastase", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_060", "canonical_name": "威斯汀", "international_name": "Westin", "aliases": ["威斯汀"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_061", "canonical_name": "纪梵希", "international_name": "Givenchy", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_062", "canonical_name": "莲娜丽姿", "international_name": "Nina Ricci", "aliases": [], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_063", "canonical_name": "克莱恩", "international_name": "Calvin Klein", "aliases": ["CK", "卡尔文克莱恩"], "status": "候选目录；大牌定义待业务确认"}
+{"brand_id": "BR_064", "canonical_name": "拉夫劳伦", "international_name": "Ralph Lauren", "aliases": [], "status": "候选目录；大牌定义待业务确认"}

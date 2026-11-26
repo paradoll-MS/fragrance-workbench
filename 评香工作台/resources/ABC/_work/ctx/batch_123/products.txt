@@ -1,0 +1,5 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0015	BR_001	香奈儿	31 Rue Cambon	康朋街31号	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0052	BR_004	圣罗兰	Mon Paris	反转巴黎；我的巴黎（反转巴黎）	11	官网已核验存在	https://www.yslbeautyus.com/fragrance/womens-fragrances/mon-paris/mon-paris-eau-de-parfum/3614272048447.html	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0076	BR_006	蒂普提克	Eau de Lierre	利埃尔；常春藤之水	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0117	BR_011	梅森·马吉拉	Flower Market	鲜花市场	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

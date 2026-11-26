@@ -1,0 +1,7 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0007	BR_001	香奈儿	Gabrielle	CHANEL GABRIELLE；嘉柏丽尔	5	官网已核验存在	https://www.chanel.com/us/fragrance/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0008	BR_001	香奈儿	Bleu de Chanel	蔚蓝男士；香奈儿-蔚蓝；香尼儿蔚蓝	4	官网已核验存在	https://www.chanel.com/us/fragrance/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0147	BR_016	古驰	Bloom	花悦（绽放）	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0220	BR_028	大卫杜夫	Champion	勇者（奖杯）	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0297	BR_053	维克多与罗夫	Flowerbomb	鲜花炸弹	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0301	BR_054	马克·雅可布	Honey	MJ 甜美蜜糖	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

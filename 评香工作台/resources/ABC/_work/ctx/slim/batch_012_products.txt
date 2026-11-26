@@ -1,0 +1,14 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0001	香奈儿	COCO Mademoiselle	COCO小姐；MADEMOISELLE；可可小姐	官网已核验存在
+PR_0002	香奈儿	Chance	邂逅；邂逅（黄邂逅）；黄邂逅	待检索核验
+PR_0023	祖玛珑	Wood Sage & Sea Salt	鼠尾草与海盐；鼠尾草海盐	官网已核验存在
+PR_0039	爱马仕	Terre d’Hermès	大地；大地男士；爱马仕大地；马仕大地	待检索核验
+PR_0044	爱马仕	Un Jardin après la Mousson	印度花园；雨后花园	待检索核验
+PR_0068	汤姆·福特	Tobacco Vanille	烟叶香草	待检索核验
+PR_0126	兰蔻	La Vie Est Belle	LA VIE EST BELLE；美丽人生	待检索核验
+PR_0193	娇兰	L’Homme Idéal	理想男士	待检索核验
+PR_0205	卡罗琳娜·海莱拉	212 Sexy Men	212Sexyman；212Sexymen；212性感；212性感男士	待检索核验
+PR_0231	安娜苏	Secret Wish	许愿精灵	待检索核验
+PR_0323	莲娜丽姿	Nina	妮娜苹果；莲娜丽姿苹果	待检索核验
+PR_0332	香奈儿	COCO	COCO	待检索核验
+PR_0338	拉夫劳伦	Polo Blue	蓝色马球	待检索核验

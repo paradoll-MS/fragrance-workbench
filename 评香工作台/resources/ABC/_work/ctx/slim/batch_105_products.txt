@@ -1,0 +1,5 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0093	勒莱柏	Myrrhe 55	没药55	待检索核验
+PR_0256	拉塔法	Fakhar Black	法哈尔黑色版	待检索核验
+PR_0257	拉塔法	Fakhar Extrait	法哈尔精粹	待检索核验
+PR_0258	拉塔法	Angham	安哈姆	待检索核验

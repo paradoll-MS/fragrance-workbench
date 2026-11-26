@@ -1,0 +1,4 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0039	爱马仕	Terre d’Hermès	大地；大地男士；爱马仕大地；马仕大地	待检索核验
+PR_0234	MFK	Baccarat Rouge 540	540香精；Baccarat Rouge 540；晶红540	待检索核验
+PR_0237	MFK	Amyris Femme	雅迷瑞斯女士	待检索核验

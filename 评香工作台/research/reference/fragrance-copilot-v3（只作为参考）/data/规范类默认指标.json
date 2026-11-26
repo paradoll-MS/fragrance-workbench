@@ -1,0 +1,609 @@
+{
+ "metadata": {
+  "version": "2026-10-28",
+  "source": "_资料包/统一逻辑-表格.md 表3/表4",
+  "regions": [
+   "中国大陆",
+   "欧盟",
+   "东盟",
+   "美国",
+   "加拿大",
+   "沙特",
+   "阿联酋/迪拜",
+   "其他海湾",
+   "其他"
+  ],
+  "stability_defaults": "高温45℃、低温4℃、冷热循环3次、光照8周；项目可用客户方案覆盖。",
+  "note": "F1 IFRA 与 F3 SDS+COA 为各分类各市场均需；表4只列随分类×销售地变化的市场法规。"
+ },
+ "norm_class_defaults": {
+  "身体香氛类": {
+   "contact": "驻留",
+   "ifra": "Cat 4/2",
+   "allergen": ">0.001%",
+   "sds_coa": "必需",
+   "performance_text": "强度、爆发、扩散、特征保持、平衡、层次、留香、舒适；纸上/人体分评",
+   "stability_text": "水醇澄清(25℃/4℃)、油膏无析出；45℃/4℃/循环；光照；闪点(乙醇易燃)；喷泵/瓶身；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P2",
+    "P3",
+    "P4",
+    "P5",
+    "P6",
+    "P7",
+    "P11"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "普通化妆品备案+安全评估；原料在已使用目录、无禁用；功效宣称评价摘要；过敏原数据保留",
+    "欧盟": "责任人+PIF/CPSR+CPNP；附件II/III；过敏原81项(>0.001%)",
+    "东盟": "ACD+各国通知+PIF；东盟禁限用",
+    "美国": "MoCRA注册/列名；成分安全证据",
+    "加拿大": "通知(上市后10日)+过敏原24项(>0.001%)",
+    "沙特": "SFDA+GSO；清真按需",
+    "阿联酋/迪拜": "MoIAT+Montaji；清真按需",
+    "其他海湾": "GSO；清真按需",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "点燃扩香类": {
+   "contact": "非人体",
+   "ifra": "Cat 12",
+   "allergen": "不适用",
+   "sds_coa": "必需",
+   "performance_text": "强度(冷/燃/熄)、扩散、层次、遮盖、舒适",
+   "stability_text": "蜡基/香材相容；燃烧安全与闪点(无黑烟/火星/杯壁残留/火焰稳)；耐高温(70–90℃)；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P3",
+    "P6",
+    "P10",
+    "P11"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S4",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "SDS；非化妆品；蚊香→农药登记",
+    "欧盟": "CLP/UFI；蚊香→BPR",
+    "东盟": "SDS",
+    "美国": "FHSA+TSCA；蚊香→FIFRA",
+    "加拿大": "SDS",
+    "沙特": "SDS",
+    "阿联酋/迪拜": "SDS",
+    "其他海湾": "SDS",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "无火扩香类": {
+   "contact": "非人体",
+   "ifra": "Cat 12",
+   "allergen": "不适用",
+   "sds_coa": "必需",
+   "performance_text": "强度、扩散、均匀性、层次、特征保持",
+   "stability_text": "与基底溶剂相容(无浑浊分层)；车载高温(60–70℃)；光照；藤条/瓶口渗漏腐蚀；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P3",
+    "P4",
+    "P6",
+    "P8"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "SDS；非化妆品",
+    "欧盟": "CLP/UFI",
+    "东盟": "SDS",
+    "美国": "FHSA+TSCA",
+    "加拿大": "SDS",
+    "沙特": "SDS",
+    "阿联酋/迪拜": "SDS",
+    "其他海湾": "SDS",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "身体淋洗类": {
+   "contact": "淋洗",
+   "ifra": "Cat 9",
+   "allergen": ">0.01%",
+   "sds_coa": "必需",
+   "performance_text": "爆发(开盖/起泡)、强度、特征保持(冲洗后)、舒适",
+   "stability_text": "基料 48h 无异常；45℃/4℃/循环；光照；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P2",
+    "P4",
+    "P11"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "化妆品备案+安全评估；功效宣称摘要；婴童→儿童化妆品(小金盾+儿童评估)；宠物→非人体",
+    "欧盟": "责任人+PIF/CPSR+CPNP；过敏原81项(>0.01%)；儿童/宠物分别",
+    "东盟": "ACD+各国+PIF",
+    "美国": "MoCRA；成分安全证据；儿童/宠物分别",
+    "加拿大": "通知+过敏原24项(>0.01%)",
+    "沙特": "SFDA+GSO",
+    "阿联酋/迪拜": "MoIAT+Montaji",
+    "其他海湾": "GSO",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "身体驻留类": {
+   "contact": "驻留",
+   "ifra": "Cat 5A/5C/5D",
+   "allergen": ">0.001%",
+   "sds_coa": "必需",
+   "performance_text": "舒适、留香、强度、特征保持",
+   "stability_text": "乳/霜/油/粉分选；45℃/4℃/循环；光照；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P4",
+    "P7",
+    "P11"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "同身体淋洗(驻留阈值)；婴童膏霜/爽身粉→儿童化妆品",
+    "欧盟": "同身体淋洗(>0.001%)",
+    "东盟": "ACD+各国+PIF",
+    "美国": "MoCRA",
+    "加拿大": "通知+过敏原24项(>0.001%)",
+    "沙特": "SFDA+GSO",
+    "阿联酋/迪拜": "MoIAT+Montaji",
+    "其他海湾": "GSO",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "头发淋洗类": {
+   "contact": "淋洗",
+   "ifra": "Cat 9/7A",
+   "allergen": ">0.01%",
+   "sds_coa": "必需",
+   "performance_text": "爆发(起泡)、强度、特征保持、留香(湿/干发)",
+   "stability_text": "洗发/护发基料分别；45℃/4℃/循环；光照；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P2",
+    "P4",
+    "P7"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "化妆品备案+安全评估",
+    "欧盟": "责任人+CPNP；过敏原81项(>0.01%)",
+    "东盟": "ACD+各国+PIF",
+    "美国": "MoCRA",
+    "加拿大": "通知+过敏原24项(>0.01%)",
+    "沙特": "SFDA+GSO",
+    "阿联酋/迪拜": "MoIAT+Montaji",
+    "其他海湾": "GSO",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "头发驻留类": {
+   "contact": "驻留",
+   "ifra": "Cat 7B",
+   "allergen": ">0.001%",
+   "sds_coa": "必需",
+   "performance_text": "强度、留香、特征保持、舒适",
+   "stability_text": "头皮/发丝分开；45℃/4℃/循环；光照；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P4",
+    "P7",
+    "P11"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "化妆品备案+安全评估",
+    "欧盟": "责任人+CPNP；过敏原81项(>0.001%)",
+    "东盟": "ACD+各国+PIF",
+    "美国": "MoCRA",
+    "加拿大": "通知+过敏原24项(>0.001%)",
+    "沙特": "SFDA+GSO",
+    "阿联酋/迪拜": "MoIAT+Montaji",
+    "其他海湾": "GSO",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "面部淋洗类": {
+   "contact": "淋洗",
+   "ifra": "Cat 9/3",
+   "allergen": ">0.01%",
+   "sds_coa": "必需",
+   "performance_text": "爆发、强度、特征保持、舒适",
+   "stability_text": "面部/眼周分别；45℃/4℃/循环；光照；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P2",
+    "P4",
+    "P11"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "化妆品备案+安全评估",
+    "欧盟": "责任人+CPNP；过敏原81项(>0.01%)",
+    "东盟": "ACD+各国+PIF",
+    "美国": "MoCRA",
+    "加拿大": "通知+过敏原24项(>0.01%)",
+    "沙特": "SFDA+GSO",
+    "阿联酋/迪拜": "MoIAT+Montaji",
+    "其他海湾": "GSO",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "面部驻留类": {
+   "contact": "驻留",
+   "ifra": "Cat 5B/3",
+   "allergen": ">0.001%",
+   "sds_coa": "必需",
+   "performance_text": "强度、舒适、特征保持、留香",
+   "stability_text": "近鼻/眼周场景；45℃/4℃/循环；光照；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P4",
+    "P7",
+    "P11"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "化妆品备案+安全评估",
+    "欧盟": "责任人+CPNP；过敏原81项(>0.001%)",
+    "东盟": "ACD+各国+PIF",
+    "美国": "MoCRA",
+    "加拿大": "通知+过敏原24项(>0.001%)",
+    "沙特": "SFDA+GSO",
+    "阿联酋/迪拜": "MoIAT+Montaji",
+    "其他海湾": "GSO",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "口腔淋洗类": {
+   "contact": "口腔",
+   "ifra": "Cat 6",
+   "allergen": "驻留口径",
+   "sds_coa": "必需",
+   "performance_text": "强度、舒适(清凉/刺激/余味)、特征保持",
+   "stability_text": "牙膏膏体/漱口水相容；45℃/4℃/循环；光照；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P4",
+    "P11"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "牙膏→牙膏单独备案；漱口水→口腔化妆品评估",
+    "欧盟": "责任人+PIF/CPSR+CPNP；过敏原标签",
+    "东盟": "ACD+各国+PIF",
+    "美国": "MoCRA；口腔安全证据",
+    "加拿大": "通知+过敏原",
+    "沙特": "SFDA+GSO",
+    "阿联酋/迪拜": "MoIAT+Montaji",
+    "其他海湾": "GSO",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "口唇驻留类": {
+   "contact": "口唇",
+   "ifra": "Cat 1",
+   "allergen": ">0.001%",
+   "sds_coa": "必需",
+   "performance_text": "强度、特征保持、舒适(味感/余味)",
+   "stability_text": "油蜡相容(无析出起霜)；45℃/4℃/循环；光照；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P4",
+    "P11"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "化妆品备案；先确认香料适用口唇(Cat 1)",
+    "欧盟": "责任人+CPNP；过敏原(>0.001%)",
+    "东盟": "ACD+各国+PIF",
+    "美国": "MoCRA",
+    "加拿大": "通知+过敏原(>0.001%)",
+    "沙特": "SFDA+GSO",
+    "阿联酋/迪拜": "MoIAT+Montaji",
+    "其他海湾": "GSO",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "织物清洁类": {
+   "contact": "非人体",
+   "ifra": "Cat 10A",
+   "allergen": "不适用",
+   "sds_coa": "必需",
+   "performance_text": "强度、特征保持、留香(洗中/湿布/干布/后续)、再释放(凝珠)、遮盖",
+   "stability_text": "洗涤基料相容；45℃/4℃/循环；光照；凝珠膜材(PVA)；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P4",
+    "P7",
+    "P9",
+    "P10"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "洗涤剂标准+标签；香精符合洗涤剂允许",
+    "欧盟": "CLP/UFI；洗涤剂法规(2026/405 于 2029 适用)",
+    "东盟": "SDS",
+    "美国": "FHSA+TSCA",
+    "加拿大": "SDS(WHMIS)",
+    "沙特": "SDS",
+    "阿联酋/迪拜": "SDS",
+    "其他海湾": "SDS",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "织物附香类": {
+   "contact": "非人体",
+   "ifra": "Cat 10A/12",
+   "allergen": "不适用",
+   "sds_coa": "必需",
+   "performance_text": "强度、留香(湿/干/后续)、再释放、特征保持",
+   "stability_text": "附香载体相容；45℃/4℃/循环；光照；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P4",
+    "P7",
+    "P9"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "洗涤剂标准+标签",
+    "欧盟": "CLP/UFI；洗涤剂法规",
+    "东盟": "SDS",
+    "美国": "FHSA+TSCA",
+    "加拿大": "SDS",
+    "沙特": "SDS",
+    "阿联酋/迪拜": "SDS",
+    "其他海湾": "SDS",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "硬面清洁类": {
+   "contact": "非人体",
+   "ifra": "Cat 10A",
+   "allergen": "不适用",
+   "sds_coa": "必需",
+   "performance_text": "强度、遮盖(底味)、特征保持、舒适(残留)",
+   "stability_text": "酸碱/氧化体系相容；45℃/4℃/循环；光照；颜色/透明度/黏度/包材；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P4",
+    "P10",
+    "P11"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S5",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "洗涤剂标准+标签；果蔬净→GB 14930.1 食品接触",
+    "欧盟": "CLP/UFI；洗涤剂法规；食品接触",
+    "东盟": "SDS",
+    "美国": "FHSA+TSCA",
+    "加拿大": "SDS",
+    "沙特": "SDS",
+    "阿联酋/迪拜": "SDS",
+    "其他海湾": "SDS",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "空气护理类": {
+   "contact": "非人体",
+   "ifra": "Cat 10B",
+   "allergen": "不适用",
+   "sds_coa": "必需",
+   "performance_text": "强度、扩散、层次(后续)、遮盖(除臭)、均匀性",
+   "stability_text": "闪点(气雾可燃)；基料相容；45℃/4℃/循环；光照；喷罐；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P3",
+    "P6",
+    "P8",
+    "P10"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "SDS；气雾→危险品运输+警示",
+    "欧盟": "CLP/UFI；气雾 Aerosol 指令",
+    "东盟": "SDS",
+    "美国": "FHSA(气雾)+TSCA",
+    "加拿大": "SDS",
+    "沙特": "SDS",
+    "阿联酋/迪拜": "SDS",
+    "其他海湾": "SDS",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "消杀感官配套类": {
+   "contact": "非人体",
+   "ifra": "Cat 10B/10A",
+   "allergen": "不适用",
+   "sds_coa": "必需",
+   "performance_text": "遮盖(底味)、强度、特征保持、舒适(使用后)",
+   "stability_text": "与有效体系相容且不影响功效；45℃/4℃/循环；光照；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P4",
+    "P10",
+    "P11"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "消毒→消毒产品备案；杀虫→农药登记",
+    "欧盟": "消毒→BPR；杀虫→BPR/农药",
+    "东盟": "各国消毒/农药登记",
+    "美国": "FIFRA 抗菌/杀虫",
+    "加拿大": "各国消毒/农药",
+    "沙特": "各国消毒/农药",
+    "阿联酋/迪拜": "各国消毒/农药",
+    "其他海湾": "各国消毒/农药",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "异味管理类": {
+   "contact": "非人体",
+   "ifra": "Cat 11A/12",
+   "allergen": "不适用",
+   "sds_coa": "必需",
+   "performance_text": "遮盖、强度、舒适(整体接受)、特征保持、均匀性(返味)",
+   "stability_text": "与基材相容；45℃/4℃/循环；光照；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P4",
+    "P8",
+    "P10",
+    "P11"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "尿布→一次性卫生用品标准；宠物→非人体",
+    "欧盟": "SDS",
+    "东盟": "SDS",
+    "美国": "SDS",
+    "加拿大": "SDS",
+    "沙特": "SDS",
+    "阿联酋/迪拜": "SDS",
+    "其他海湾": "SDS",
+    "其他": "按实际国家补核对"
+   }
+  },
+  "工业工艺类": {
+   "contact": "非人体",
+   "ifra": "Cat 12",
+   "allergen": "不适用",
+   "sds_coa": "必需",
+   "performance_text": "特征保持(加工前后)、强度、遮盖(原料味)、留香(成品)",
+   "stability_text": "材料/助剂相容；加工温度(120–200℃)；光照；析出/迁移/力学性能；批次；供货",
+   "performance_codes": [
+    "P1",
+    "P4",
+    "P7",
+    "P10"
+   ],
+   "stability_codes": [
+    "S1",
+    "S2",
+    "S3",
+    "S6",
+    "S7"
+   ],
+   "regulatory_by_region": {
+    "中国大陆": "新化学物质登记(MEE)",
+    "欧盟": "REACH+CLP/UFI",
+    "东盟": "SDS",
+    "美国": "TSCA",
+    "加拿大": "SDS",
+    "沙特": "SDS",
+    "阿联酋/迪拜": "SDS",
+    "其他海湾": "SDS",
+    "其他": "按实际国家补核对"
+   }
+  }
+ }
+}

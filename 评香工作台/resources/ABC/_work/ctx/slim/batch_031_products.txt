@@ -1,0 +1,3 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0020	祖玛珑	English Pear & Freesia	英国梨与小苍兰；英国梨与香小苍兰	官网已核验存在
+PR_0209	拉巴纳	1 Million Lucky	幸运百万淡香水	待检索核验

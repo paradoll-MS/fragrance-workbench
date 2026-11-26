@@ -1,0 +1,7 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0073	BR_006	蒂普提克	Eau Rose	一支玫瑰；盛放玫瑰	3	官网已核验存在	https://diptyqueparis.com/en-eu	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0180	BR_020	凯利安	Black Phantom	黑夜魅影（黑幽灵）；黑幽灵	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0208	BR_025	拉巴纳	Lady Million	百万女士香水；百万女香	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0215	BR_026	巴宝莉	Brit	英伦风尚	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0234	BR_034	MFK	Baccarat Rouge 540	540香精；Baccarat Rouge 540；晶红540	6	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0237	BR_034	MFK	Amyris Femme	雅迷瑞斯女士	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

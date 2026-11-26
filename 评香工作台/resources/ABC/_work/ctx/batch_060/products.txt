@@ -1,0 +1,9 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0051	BR_004	圣罗兰	Black Opium	黑鸦片	7	官网已核验存在	https://www.yslbeautyus.com/fragrance/womens-fragrances/black-opium/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0060	BR_005	汤姆·福特	White Suede	TOM FORD WHITE SUEDE；白色麂皮	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0126	BR_013	兰蔻	La Vie Est Belle	LA VIE EST BELLE；美丽人生	15	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0151	BR_016	古驰	Flora Gorgeous Gardenia	绮梦栀子	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0228	BR_032	蔻依	Magnolia Alba	木兰诗语	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0235	BR_034	MFK	Oud Satin Mood	乌木丝缎	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0236	BR_034	MFK	Amyris Homme	雅迷瑞斯男士	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0287	BR_049	阿莎罗	Chrome	铬元素	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

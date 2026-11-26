@@ -1,0 +1,10 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0046	爱马仕	Eau d’Orange Verte	橘绿之泉；爱马仕-橘绿	待检索核验
+PR_0047	爱马仕	Eau de Rhubarbe Écarlate	血色大黄	待检索核验
+PR_0055	圣罗兰	M7 Oud Absolu	M7乌木精纯	待检索核验
+PR_0083	勒莱柏	Thé Noir 29	红茶29	官网已核验存在
+PR_0119	宝格丽	Pour Homme Soir	大吉岭夜色	待检索核验
+PR_0130	迪奥	J’adore	大奥真我；真我；真我-降价版；真我倾世之金	待检索核验
+PR_0157	潘海利根	The Tragedy of Lord George	乔治勋爵的悲剧	待检索核验
+PR_0161	潘海利根	The Ingénue Cousin Flora	潘海利根-麻雀；纯真的弗洛拉	待检索核验
+PR_0304	佩枪朱丽叶	Lipstick Fever	唇情欲燃	待检索核验

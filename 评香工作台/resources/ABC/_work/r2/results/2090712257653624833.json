@@ -1,0 +1,1 @@
+{"groups": [{"g": "d1", "direction": "指定美味棉花糖香水", "cat": ["CAT_01"], "samples": [1], "kind": "recommended", "n": [1], "query": {"A1": ["棉花糖", "香草", "焦糖", "奶油"], "A2": ["甜感", "乳香韵", "果香"], "A3": ["美食调"], "B": ["年轻印象", "轻松趣味", "愉悦明朗"]}, "tags_same_as_query": true}], "_raw_len": 234}

@@ -1,0 +1,1 @@
+{"groups": [], "individual": [{"s": 1, "g": "d1", "cat": ["CAT_07"], "kind": "modification_base", "n": [1], "tags": {"A1": ["A1_c0f7356e72"], "A2": ["A2_83fdd91606", "A2_4d8dcb29ec"], "A3": ["A3_25d07a4ca4"], "B": ["B5_359761e520", "B5_770b8674d7", "B6_6fad3a2e12"]}}], "counter": [], "gaps": [], "unresolved": [{"s": 2, "reason": "仅被提及为修改目标，未作为推荐对象"}], "_raw_len": 353}

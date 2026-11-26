@@ -1,0 +1,7 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0001	香奈儿	COCO Mademoiselle	COCO小姐；MADEMOISELLE；可可小姐	官网已核验存在
+PR_0008	香奈儿	Bleu de Chanel	蔚蓝男士；香奈儿-蔚蓝；香尼儿蔚蓝	官网已核验存在
+PR_0010	香奈儿	N°19	香奈儿19号；香尼儿19号	待检索核验
+PR_0127	兰蔻	Trésor Midnight Rose	珍爱午夜玫瑰	待检索核验
+PR_0130	迪奥	J’adore	大奥真我；真我；真我-降价版；真我倾世之金	待检索核验
+PR_0337	拉夫劳伦	Polo	绿马球；马球	待检索核验

@@ -1,0 +1,9 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0003	香奈儿	Chance Eau Fraîche	绿邂逅；邂逅清新	待检索核验
+PR_0039	爱马仕	Terre d’Hermès	大地；大地男士；爱马仕大地；马仕大地	待检索核验
+PR_0048	爱马仕	Eau des Merveilles	橘彩星光；橘采星光	待检索核验
+PR_0050	爱马仕	24 Faubourg	法布街24号	待检索核验
+PR_0127	兰蔻	Trésor Midnight Rose	珍爱午夜玫瑰	待检索核验
+PR_0205	卡罗琳娜·海莱拉	212 Sexy Men	212Sexyman；212Sexymen；212性感；212性感男士	待检索核验
+PR_0213	巴宝莉	London for Men	伦敦男士	待检索核验
+PR_0214	巴宝莉	Weekend for Women	周末女士	待检索核验

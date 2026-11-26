@@ -1,0 +1,1196 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "累计三个原始资料",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "新增四个关联改香子项目",
+      "passed": true,
+      "detail": "4"
+    },
+    {
+      "check": "原十二个子项目记录保持不变",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "原十二份简报保持不变",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "原始资料文字保留不变",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝正确承接首轮",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝修改包含甜",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝修改包含冰",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝修改包含茉莉",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝没有虚构内部号",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝原样引用保留",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝新纪要作为依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝50度和UV要求",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝承袭首轮上市分层",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝承袭仍有效商品化验收",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝已形成承袭原样的调香工单",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝等待原编号同步而不伪造完成",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉冰荔枝待执行工单与新简报完全同步",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果正确承接首轮",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果修改包含气泡",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果修改包含酸脆",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果修改包含洗发水",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果修改包含复合",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果没有虚构内部号",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果原样引用保留",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果新纪要作为依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果50度和UV要求",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果承袭首轮上市分层",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果承袭仍有效商品化验收",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果已形成承袭原样的调香工单",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果等待原编号同步而不伪造完成",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "气泡青苹果待执行工单与新简报完全同步",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提正确承接首轮",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提修改包含发酵",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提修改包含酒",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提修改包含一半",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提没有虚构内部号",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提原样引用保留",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提新纪要作为依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提50度和UV要求",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提承袭首轮上市分层",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提承袭仍有效商品化验收",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "青提茉莉新配比写入结构而非只写备注",
+      "passed": true,
+      "detail": "主水果｜约50% 新鲜青提（去除发酵酒香）；年轻放大器｜约50% 轻茉莉（与青提意象各占一半）；清新空气感｜清晨空气/轻露水/透明水汽（仅定性氛围，不另占百分比）"
+    },
+    {
+      "check": "青提茉莉不再受旧水果主导比例检查",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提已形成承袭原样的调香工单",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提等待原编号同步而不伪造完成",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "茉莉青提待执行工单与新简报完全同步",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐正确承接首轮",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐修改包含脂粉",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐修改包含芭乐",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐修改包含草莓",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐没有虚构内部号",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐原样引用保留",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐新纪要作为依据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐50度和UV要求",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐承袭首轮上市分层",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐承袭仍有效商品化验收",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐已形成承袭原样的调香工单",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐等待原编号同步而不伪造完成",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "鲜莓芭乐待执行工单与新简报完全同步",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "总体定香节点保存在项目",
+      "passed": true,
+      "detail": "9月底完成定香（会议原始口径，未提供具体完成日期）"
+    },
+    {
+      "check": "上海寄料规格分开保存",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "上海用途正确",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "上海负责人明确",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "上海下周一按会议日定位",
+      "passed": true,
+      "detail": "2026-09-14（按2026-09-11会议日期推算）"
+    },
+    {
+      "check": "上海只是计划而非已寄",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "天津寄料规格分开保存",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "天津用途正确",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "天津负责人明确",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "天津下周一按会议日定位",
+      "passed": true,
+      "detail": "2026-09-14（按2026-09-11会议日期推算）"
+    },
+    {
+      "check": "天津只是计划而非已寄",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "测试方法同步有负责人",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "四款配方调整有负责人",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "没有把实际任务标记完成",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "details": [
+    {
+      "parent": "茉莉冰荔枝",
+      "id": "s_c9d95d1e12ef4539",
+      "parent_id": "s_a77630e85a59486f",
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "需大幅减少荔枝的甜腻感，增加清爽清脆的质感与明显的冰凉感，同时需明确表达出茉莉花香。",
+          "category": "scent",
+          "source_scope": "specific",
+          "source_refs": [
+            {
+              "artifact_id": "a_483dc50300804fdf",
+              "locator": "第1页",
+              "quote": "需大幅减少荔枝的甜腻感，增加清爽清脆的质感与明显的冰凉\n感，同时需明确表达出茉莉花香。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "茉莉等原料存在变色风险，需确保料体在高温50度或紫外线照射下保持颜色稳定；建议采用50度高温或紫外线机照射（8至24小时梯度观察），因颜色变化较慢，通常需观察一周以上才能得出结论。",
+          "category": "compliance",
+          "source_scope": "specific",
+          "source_refs": [
+            {
+              "artifact_id": "a_483dc50300804fdf",
+              "locator": "第2页",
+              "quote": "• 警惕变色风险：茉莉等原料存在变色风险（如变黄、变粉），需确保料体\n在高温 50 度或紫外线照射下保持颜色稳定。\n• 测试方法与周期：建议采用 50 度高温或紫外线机照射（8 至 24 小时梯度\n观察），因颜色变化较慢，通常需观察一周以上才能得出结论。"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "modification": "大幅减少荔枝甜腻感，增加清爽清脆质感与明显冰凉感，同时明确表达茉莉花香。",
+      "scent": {
+        "theme": "新鲜荔枝白肉+轻茉莉+冰凉水汽；减少甜腻，提升清爽清脆与冰凉感，明确茉莉花香。",
+        "core_position": "浪漫女主、首席形象款",
+        "structure": "主水果｜75–80% 新鲜荔枝白肉/透明汁水（减少甜腻感）；年轻放大器｜10–15% 轻茉莉（明确表达，不缺失）；清新空气感｜5–10% 冰凉水汽/夏日空气（明显冰凉感）",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "真实水果 > 糖果",
+          "果肉 > 香精",
+          "鲜切 > 加工",
+          "汁水 > 浓甜",
+          "空气感 > 厚重感",
+          "减少荔枝甜腻",
+          "增加冰凉感",
+          "明确茉莉花香"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [],
+        "scenes": [],
+        "exclusions": [
+          "过度甜腻",
+          "茉莉花香不可缺失",
+          "缺乏冰凉感"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "tasks": [
+        {
+          "type": "调香",
+          "status": "waiting"
+        }
+      ]
+    },
+    {
+      "parent": "气泡青苹果",
+      "id": "s_69fdb7af7e694835",
+      "parent_id": "s_65dd17250bf842d2",
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "需强化青苹果的清新与酸脆质感，提升气泡在料体中的爆发性，避免洗发水意象，在保证质感的前提下增加复合感。",
+          "category": "scent",
+          "source_scope": "specific",
+          "source_refs": [
+            {
+              "artifact_id": "a_483dc50300804fdf",
+              "locator": "第1页",
+              "quote": "需强化青苹果的清新与酸脆质感，提升气泡在料体中的爆发性，\n避免洗发水意象，在保证质感的前提下增加复合感。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "茉莉等原料存在变色风险，需按50度高温或紫外线机照射（8至24小时梯度观察），通常观察一周以上。",
+          "category": "compliance",
+          "source_scope": "specific",
+          "source_refs": [
+            {
+              "artifact_id": "a_483dc50300804fdf",
+              "locator": "第2页",
+              "quote": "• 警惕变色风险：茉莉等原料存在变色风险（如变黄、变粉），需确保料体\n在高温 50 度或紫外线照射下保持颜色稳定。"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "modification": "强化青苹果清新与酸脆质感，提升气泡在料体中的爆发性，避免洗发水意象，保证质感前提下增加复合感。",
+      "scent": {
+        "theme": "脆青苹果+苏打气泡+冰空气；强化酸脆、气泡爆发与复合感。",
+        "core_position": "系列年轻Icon、短视频拉新款",
+        "structure": "主水果｜70–75% 脆青苹果/鲜果肉/苹果皮；年轻放大器｜15–20% 苏打气泡/酸度提升；清新空气感｜5–10% 冰空气/水汽",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "真实水果 > 糖果",
+          "果肉 > 香精",
+          "鲜切 > 加工",
+          "汁水 > 浓甜",
+          "空气感 > 厚重感",
+          "强化青苹果清新与酸脆",
+          "提升气泡爆发性",
+          "避免洗发水意象"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [],
+        "scenes": [],
+        "exclusions": [
+          "青苹果洗发水意象",
+          "气泡感消失",
+          "单薄单一"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "tasks": [
+        {
+          "type": "调香",
+          "status": "waiting"
+        }
+      ]
+    },
+    {
+      "parent": "茉莉青提",
+      "id": "s_d9b23d29ff6d4410",
+      "parent_id": "s_9d6037979dc844b3",
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "茉莉等原料存在变色风险，需按50度高温或紫外线机照射（8至24小时梯度观察），通常观察一周以上。",
+          "category": "compliance",
+          "source_scope": "specific",
+          "source_refs": [
+            {
+              "artifact_id": "a_483dc50300804fdf",
+              "locator": "第2页",
+              "quote": "• 警惕变色风险：茉莉等原料存在变色风险（如变黄、变粉），需确保料体\n在高温 50 度或紫外线照射下保持颜色稳定。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则更新：鲜切感、汁水感、酸甜张力、空气感；青提与茉莉意象平衡（依据2026-09-11会议反馈，替代原‘水果第一’优先原则）。",
+          "category": "scent",
+          "source_scope": "specific",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_483dc50300804fdf",
+              "locator": "第1页",
+              "quote": "需去除发酵感与酒香，将青提与茉莉花香的比例控制在各占一\n半，确保两者意象在料体中都能得到明确表达。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "需去除发酵感与酒香，将青提与茉莉花香的比例控制在各占一半，确保两者意象在料体中都能得到明确表达。",
+          "category": "scent",
+          "source_scope": "specific",
+          "source_refs": [
+            {
+              "artifact_id": "a_483dc50300804fdf",
+              "locator": "第1页",
+              "quote": "需去除发酵感与酒香，将青提与茉莉花香的比例控制在各占一\n半，确保两者意象在料体中都能得到明确表达。"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "modification": "去除发酵感与酒香，将青提与茉莉花香比例控制在各占一半，确保两者意象在料体中明确表达。",
+      "scent": {
+        "theme": "新鲜青提+轻茉莉+清晨空气；去除发酵酒香，青提茉莉比例约50/50。",
+        "core_position": "清透高级款、系列审美平衡器",
+        "structure": "主水果｜约50% 新鲜青提（去除发酵酒香）；年轻放大器｜约50% 轻茉莉（与青提意象各占一半）；清新空气感｜清晨空气/轻露水/透明水汽（仅定性氛围，不另占百分比）",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "青提与茉莉意象平衡"
+        ],
+        "directions": [
+          "真实水果 > 糖果",
+          "果肉 > 香精",
+          "鲜切 > 加工",
+          "汁水 > 浓甜",
+          "空气感 > 厚重感",
+          "去除发酵感与酒香",
+          "青提与茉莉意象各占一半"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [],
+        "scenes": [],
+        "exclusions": [
+          "厚重紫葡萄联想",
+          "酒香发酵感",
+          "茉莉花香缺失"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "tasks": [
+        {
+          "type": "调香",
+          "status": "waiting"
+        }
+      ]
+    },
+    {
+      "parent": "鲜莓芭乐",
+      "id": "s_d19e899b972949f7",
+      "parent_id": "s_a2a1a82de2af424c",
+      "requirements": [
+        {
+          "text": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。",
+          "category": "substrate",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "S/A/B共9款完成适配、阶段性稳定性、法规文件、放大复现与量产报价准备，达到可排产状态；最低验收清单含感官目标、基底适配、稳定与包材、合规文件、量产复现、版本治理。",
+          "category": "compliance",
+          "source_scope": "inherited",
+          "applies_to_keys": [
+            "jasmine_iced_lychee",
+            "sparkling_green_apple",
+            "jasmine_green_grape",
+            "strawberry_guava",
+            "sea_salt_pomelo",
+            "lime_passionfruit",
+            "burst_orange",
+            "juicy_peach",
+            "sea_breeze_coconut"
+          ],
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香\n正式商品标准\nS/A/B共9款完成适配、阶段性稳定\n性、法规文件、放大复现与量产报\n价准备，达到可排产状态。"
+            },
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "9香达到正式商品标准：最低验收清单"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "统一调香方法：70–80% 主水果 + 10–20% 年轻放大器 + 5–10% 清新空气感。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第50段",
+              "quote": "70–80% 主水果\n+ 10–20% 年轻放大器\n+ 5–10% 清新空气感"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "五大调香原则：鲜切感、汁水感、酸甜张力、空气感、水果第一。",
+          "category": "scent",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第52段",
+              "quote": "01 Fresh｜鲜切感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第55段",
+              "quote": "02 Juicy｜汁水感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第57段",
+              "quote": "03 Tart｜酸甜张力"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第60段",
+              "quote": "04 Airy｜空气感"
+            },
+            {
+              "artifact_id": "a_f1aa7ae4cf3f4231",
+              "locator": "第63段",
+              "quote": "05 Fruit-first｜水果第一"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "禁止口头版本覆盖；每次送样均带唯一编码、日期、浓度、变更点与上一版差异。",
+          "category": "delivery",
+          "source_scope": "inherited",
+          "source_refs": [
+            {
+              "artifact_id": "a_87caa97f9497434f",
+              "locator": "第11页",
+              "quote": "每次送样均带唯一编码、日期、浓度、变更点与上一版差异，禁\n止口头版本覆盖。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "需大幅减少脂粉感，提升芭乐的透香效果作为主调，并微量添加草莓元素以丰富酸酸甜甜的意象。",
+          "category": "scent",
+          "source_scope": "specific",
+          "source_refs": [
+            {
+              "artifact_id": "a_483dc50300804fdf",
+              "locator": "第2页",
+              "quote": "需大幅减少脂粉感，提升芭乐的透香效果作为主调，并微量添\n加草莓元素以丰富酸酸甜甜的意象。"
+            }
+          ],
+          "status": "recorded"
+        },
+        {
+          "text": "茉莉等原料存在变色风险，需按50度高温或紫外线机照射（8至24小时梯度观察），通常观察一周以上。",
+          "category": "compliance",
+          "source_scope": "specific",
+          "source_refs": [
+            {
+              "artifact_id": "a_483dc50300804fdf",
+              "locator": "第2页",
+              "quote": "• 警惕变色风险：茉莉等原料存在变色风险（如变黄、变粉），需确保料体\n在高温 50 度或紫外线照射下保持颜色稳定。"
+            }
+          ],
+          "status": "recorded"
+        }
+      ],
+      "modification": "大幅减少脂粉感，提升芭乐透香效果作为主调，并微量添加草莓元素以丰富酸酸甜甜的意象。",
+      "scent": {
+        "theme": "粉红芭乐+新鲜草莓高光+鲜果空气；大幅减少脂粉感，芭乐透香主调，微量草莓丰富酸甜。",
+        "core_position": "社交话题款、热带碰撞款",
+        "structure": "主水果｜70–75% 粉红芭乐/鲜果肉/轻青皮/热带汁水感（减少脂粉感，透香主调）；年轻放大器｜15–20% 新鲜草莓（微量添加，丰富酸甜，不可主导）；清新空气感｜5–10% 鲜果空气/水汽",
+        "principles": [
+          "鲜切感",
+          "汁水感",
+          "酸甜张力",
+          "空气感",
+          "水果第一"
+        ],
+        "directions": [
+          "真实水果 > 糖果",
+          "果肉 > 香精",
+          "鲜切 > 加工",
+          "汁水 > 浓甜",
+          "空气感 > 厚重感",
+          "减少脂粉感",
+          "芭乐透香主调",
+          "微量草莓丰富酸甜"
+        ],
+        "direction_notes": {},
+        "references": [],
+        "families": [],
+        "top": [],
+        "middle": [],
+        "base": [],
+        "feelings": [],
+        "scenes": [],
+        "exclusions": [
+          "前调脂粉感过重",
+          "芭乐香味被掩盖",
+          "草莓不可主导"
+        ],
+        "intensity": "",
+        "longevity": "",
+        "diffusion": "",
+        "old_formula": ""
+      },
+      "tasks": [
+        {
+          "type": "调香",
+          "status": "waiting"
+        }
+      ]
+    }
+  ],
+  "project_coordination": {
+    "overall_deadline": "9月底完成定香（会议原始口径，未提供具体完成日期）",
+    "sample_due": "",
+    "recipient": "评香/品牌方",
+    "sales": "",
+    "evaluator": "评香",
+    "notes": "涉及产品/品牌/市场/视觉/包装/调香/供应链团队。所有样品需统一卸妆膏基底、统一编码和统一评价表。",
+    "events": [
+      {
+        "action": "寄送空白卸妆膏基底/确认统一基底与浓度起点",
+        "owner": "",
+        "due_original": "",
+        "due_resolved": "",
+        "destination": "",
+        "quantity": "",
+        "purpose": "供应商策略要求所有样品使用统一卸妆膏基底、统一浓度起点；目前尚未提供空白料体信息",
+        "status": "planned",
+        "source_refs": [
+          {
+            "artifact_id": "a_87caa97f9497434f",
+            "locator": "第11页",
+            "quote": "所有样品使用统一卸妆膏基底、统一编码和统一评价表，确保横向比较有效。"
+          }
+        ]
+      },
+      {
+        "action": "寄送空白料体至上海，用于小样制作与闻香效果测试",
+        "owner": "逯柏松",
+        "due_original": "下周一",
+        "due_resolved": "2026-09-14（按2026-09-11会议日期推算）",
+        "destination": "上海",
+        "quantity": "约200g",
+        "purpose": "小样制作与闻香效果测试",
+        "status": "planned",
+        "source_refs": [
+          {
+            "artifact_id": "a_483dc50300804fdf",
+            "locator": "第2页",
+            "quote": "• 上海样品寄送 ：下周一寄出，约 200g，主要用于小样制作与闻香效果测试。"
+          }
+        ]
+      },
+      {
+        "action": "寄送空白料体至天津，用于稳定性测试",
+        "owner": "逯柏松",
+        "due_original": "下周一",
+        "due_resolved": "2026-09-14（按2026-09-11会议日期推算）",
+        "destination": "天津",
+        "quantity": "约500g",
+        "purpose": "稳定性测试",
+        "status": "planned",
+        "source_refs": [
+          {
+            "artifact_id": "a_483dc50300804fdf",
+            "locator": "第2页",
+            "quote": "• 天津样品寄送：下周一寄出，约 500g，主要用于稳定性测试。"
+          }
+        ]
+      },
+      {
+        "action": "同步卸妆膏稳定性测试方法",
+        "owner": "逐本调香师-李玲",
+        "due_original": "",
+        "due_resolved": "",
+        "destination": "",
+        "quantity": "",
+        "purpose": "供应用工程师参考并开展快速测试",
+        "status": "planned",
+        "source_refs": [
+          {
+            "artifact_id": "a_483dc50300804fdf",
+            "locator": "第2页",
+            "quote": "• 同步卸妆膏的稳定性测试方法，供应用工程师参考并开展快速测试。 @逐\n本调香师-李玲"
+          }
+        ]
+      },
+      {
+        "action": "针对四款香精按会议反馈方向进行配方调整",
+        "owner": "畅",
+        "due_original": "9月底完成定香",
+        "due_resolved": "",
+        "destination": "",
+        "quantity": "",
+        "purpose": "完成四款首推香精修改",
+        "status": "planned",
+        "source_refs": [
+          {
+            "artifact_id": "a_483dc50300804fdf",
+            "locator": "第2页",
+            "quote": "• 针对四款香精在料体中的表现，按照会议明确的反馈方向进行配方调整。\n@畅"
+          }
+        ]
+      },
+      {
+        "action": "会后输出并发送会议纪要",
+        "owner": "逯柏松",
+        "due_original": "",
+        "due_resolved": "",
+        "destination": "",
+        "quantity": "",
+        "purpose": "发送本次会议纪要",
+        "status": "planned",
+        "source_refs": [
+          {
+            "artifact_id": "a_483dc50300804fdf",
+            "locator": "第2页",
+            "quote": "• 会后输出并发送本次会议的会议纪要。 @逯柏松"
+          }
+        ]
+      }
+    ]
+  },
+  "project_id": "p_bafd3133cc154ffa"
+}

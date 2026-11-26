@@ -1,0 +1,1278 @@
+{
+  "version": "lite-0.1",
+  "status": "内部工作流草案；法规路由继承v0.9的待核验线索，不是可执行法律限值",
+  "category_policy": {
+    "application_category": "独立推香证据标签，不用于生成审查要求",
+    "review_category": "单层18个规范类；不确定时评香确认；宠物/婴童标记额外用途并合规确认，不强制归类",
+    "market": "具体国家或地区，可多选；未知保留待确认"
+  },
+  "metric_dictionary": {
+    "P1": {
+      "name": "强度",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "在指定阶段、载体、位置和条件下感知到的香气大小。"
+    },
+    "P2": {
+      "name": "爆发",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "开盖、喷洒、起泡或启动后的早期释放。"
+    },
+    "P3": {
+      "name": "扩散",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "在给定空间或人体周围的可感知范围。"
+    },
+    "P4": {
+      "name": "特征保持",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "进入成品并实际使用后，核心气味特征是否保留。"
+    },
+    "P5": {
+      "name": "平衡",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "主体、辅助及甜酸粉木等关系是否符合目标。"
+    },
+    "P6": {
+      "name": "层次",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "同一载体上随时间变化的香气特征。"
+    },
+    "P7": {
+      "name": "留香",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "指定载体在指定时点仍可感知的香气及质量。"
+    },
+    "P8": {
+      "name": "均匀性",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "测点之间或使用周期内的强度一致性。"
+    },
+    "P9": {
+      "name": "再释放",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "摩擦、再润湿或运动等动作引起的香气变化。"
+    },
+    "P10": {
+      "name": "遮盖",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "目标异味感知是否下降以及混合气味是否可接受。"
+    },
+    "P11": {
+      "name": "气味舒适",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "实际使用场景中的突兀、闷、过强等主观感受。"
+    },
+    "P12": {
+      "name": "口感/余味",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "先取得口腔/口唇用途安全授权"
+    },
+    "P13": {
+      "name": "起香时间/有效释放周期",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "区分感官周期与物料消耗"
+    },
+    "P14": {
+      "name": "异味返味",
+      "department": "application",
+      "scope": "application",
+      "record_hint": "与P10同批测试，按时点判断"
+    },
+    "Q_SPEC": {
+      "name": "原液规格与理化",
+      "department": "quality",
+      "scope": "formula_or_batch",
+      "record_hint": "外观、颜色、密度、折光率等按规格记录"
+    },
+    "Q_FLASH": {
+      "name": "闪点",
+      "department": "quality",
+      "scope": "formula_or_finished",
+      "record_hint": "实际数值、单位、方法；原液和成品分开"
+    },
+    "Q_COMPAT": {
+      "name": "加香相容性",
+      "department": "quality",
+      "scope": "application",
+      "record_hint": "溶解、析出、分层、澄清、pH、黏度等按基料选择"
+    },
+    "Q_STABILITY": {
+      "name": "稳定性",
+      "department": "quality",
+      "scope": "application_or_formula",
+      "record_hint": "温度、光照、周期、变色、析出、气味变化；原液和成品分开"
+    },
+    "Q_SPECIAL": {
+      "name": "特殊应用质量检测",
+      "department": "quality",
+      "scope": "application_or_finished",
+      "record_hint": "子项必填：加工耐受、包材、燃烧安全、释放速率等；不同子项不互认"
+    },
+    "Q_COA": {
+      "name": "COA",
+      "department": "quality",
+      "scope": "batch",
+      "record_hint": "批次、规格、检验结果及报告"
+    },
+    "R_IFRA": {
+      "name": "IFRA核查及文件",
+      "department": "compliance",
+      "scope": "formula_use",
+      "record_hint": "具体终用途、标准版本、最大用量、实际用量、文件；核查和出文件可分开"
+    },
+    "R_SDS": {
+      "name": "SDS及运输资料",
+      "department": "compliance",
+      "scope": "formula_market",
+      "record_hint": "语言、市场、版本、报告；运输分类单独子项"
+    },
+    "R_ALLERGEN": {
+      "name": "过敏原核查及资料",
+      "department": "compliance",
+      "scope": "formula_or_product_market",
+      "record_hint": "名单版本、组分数据、阈值口径、成品添加量、报告"
+    },
+    "R_MARKET": {
+      "name": "销售地法规核查",
+      "department": "compliance",
+      "scope": "formula_use_market",
+      "record_hint": "实际终产品、国家、适用规则版本、核查结论和香精支持文件"
+    },
+    "R_EXTRA": {
+      "name": "特殊限制与认证",
+      "department": "compliance",
+      "scope": "formula_use_market",
+      "record_hint": "客户限制清单、清真、食品/口腔适用、儿童宠物、特殊宣称等按具体子项核查"
+    }
+  },
+  "review_category_defaults": {
+    "fine_fragrance": {
+      "name": "身体香氛类",
+      "legal_identity_hint": "cosmetic",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P2"
+        },
+        {
+          "metric_id": "P3"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P5"
+        },
+        {
+          "metric_id": "P6"
+        },
+        {
+          "metric_id": "P7"
+        },
+        {
+          "metric_id": "P11"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        },
+        {
+          "metric_id": "Q_SPECIAL",
+          "subitem": "包材相容",
+          "activation": "按实际体系确认"
+        },
+        {
+          "metric_id": "R_ALLERGEN",
+          "activation": "按实际市场与客户要求确认"
+        }
+      ],
+      "stage_hints": [
+        "喷涂/涂抹初期",
+        "中后期",
+        "约定留香时点"
+      ],
+      "context_note": "水醇、油膏分开；纸/人体分开"
+    },
+    "burning_diffusion": {
+      "name": "点燃扩香类",
+      "legal_identity_hint": "non_cosmetic",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P3"
+        },
+        {
+          "metric_id": "P6"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_SPECIAL",
+          "subitem": "加工耐受",
+          "activation": "按实际体系确认"
+        },
+        {
+          "metric_id": "Q_SPECIAL",
+          "subitem": "成品燃烧安全",
+          "activation": "确认责任主体及检测条件"
+        }
+      ],
+      "stage_hints": [
+        "冷香",
+        "稳定燃烧",
+        "熄灭后"
+      ],
+      "context_note": "蜡/香材、烛芯、燃烧条件"
+    },
+    "passive_diffusion": {
+      "name": "无火扩香类",
+      "legal_identity_hint": "non_cosmetic",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P3"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P6"
+        },
+        {
+          "metric_id": "P8"
+        },
+        {
+          "metric_id": "P13"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        },
+        {
+          "metric_id": "Q_SPECIAL",
+          "subitem": "包材相容",
+          "activation": "按实际体系确认"
+        },
+        {
+          "metric_id": "Q_SPECIAL",
+          "subitem": "消耗/释放速率",
+          "activation": "按实际体系确认"
+        }
+      ],
+      "stage_hints": [
+        "启动",
+        "初期",
+        "中期",
+        "末期"
+      ],
+      "context_note": "被动、加热、雾化、车载分别记录"
+    },
+    "body_rinse_off": {
+      "name": "身体淋洗类",
+      "legal_identity_hint": "cosmetic",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P2"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P11"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        },
+        {
+          "metric_id": "R_ALLERGEN",
+          "activation": "按实际市场与客户要求确认"
+        }
+      ],
+      "stage_hints": [
+        "开盖",
+        "使用/起泡（如有）",
+        "冲洗后"
+      ],
+      "context_note": "水质、用量、冲洗方式"
+    },
+    "body_leave_on": {
+      "name": "身体驻留类",
+      "legal_identity_hint": "cosmetic",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P7"
+        },
+        {
+          "metric_id": "P11"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        },
+        {
+          "metric_id": "R_ALLERGEN",
+          "activation": "按实际市场与客户要求确认"
+        }
+      ],
+      "stage_hints": [
+        "原态",
+        "涂抹",
+        "驻留"
+      ],
+      "context_note": "乳/霜/油/粉体区分"
+    },
+    "hair_rinse_off": {
+      "name": "头发淋洗类",
+      "legal_identity_hint": "cosmetic",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P2"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P7"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        },
+        {
+          "metric_id": "R_ALLERGEN",
+          "activation": "按实际市场与客户要求确认"
+        }
+      ],
+      "stage_hints": [
+        "开盖",
+        "使用",
+        "冲洗后湿发",
+        "干发",
+        "约定时点"
+      ],
+      "context_note": "发束、洗护基料、干燥条件"
+    },
+    "hair_leave_on": {
+      "name": "头发驻留类",
+      "legal_identity_hint": "cosmetic",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P7"
+        },
+        {
+          "metric_id": "P11"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        },
+        {
+          "metric_id": "R_ALLERGEN",
+          "activation": "按实际市场与客户要求确认"
+        }
+      ],
+      "stage_hints": [
+        "使用",
+        "干燥后",
+        "约定时点"
+      ],
+      "context_note": "头皮/发丝、喷雾/非喷雾"
+    },
+    "face_rinse_off": {
+      "name": "面部淋洗类",
+      "legal_identity_hint": "cosmetic",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P2"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P11"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        },
+        {
+          "metric_id": "R_ALLERGEN",
+          "activation": "按实际市场与客户要求确认"
+        }
+      ],
+      "stage_hints": [
+        "原态",
+        "使用",
+        "冲洗后"
+      ],
+      "context_note": "眼周和不起泡产品区分"
+    },
+    "face_leave_on": {
+      "name": "面部驻留类",
+      "legal_identity_hint": "cosmetic",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P7"
+        },
+        {
+          "metric_id": "P11"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        },
+        {
+          "metric_id": "R_ALLERGEN",
+          "activation": "按实际市场与客户要求确认"
+        }
+      ],
+      "stage_hints": [
+        "原态",
+        "涂抹",
+        "驻留"
+      ],
+      "context_note": "近鼻、眼周；留香只观察不要求强香"
+    },
+    "oral_rinse_off": {
+      "name": "口腔淋洗类",
+      "legal_identity_hint": "oral",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P11"
+        },
+        {
+          "metric_id": "P12"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        },
+        {
+          "metric_id": "R_ALLERGEN",
+          "activation": "按实际市场与客户要求确认"
+        }
+      ],
+      "stage_hints": [
+        "原态",
+        "使用",
+        "吐出/冲洗",
+        "余味"
+      ],
+      "context_note": "牙膏/漱口水；先确认安全授权"
+    },
+    "lip_leave_on": {
+      "name": "口唇驻留类",
+      "legal_identity_hint": "cosmetic",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P11"
+        },
+        {
+          "metric_id": "P12"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        },
+        {
+          "metric_id": "R_ALLERGEN",
+          "activation": "按实际市场与客户要求确认"
+        }
+      ],
+      "stage_hints": [
+        "原态",
+        "涂抹",
+        "余味"
+      ],
+      "context_note": "可能摄入；先确认安全授权"
+    },
+    "fabric_wash": {
+      "name": "织物清洁类",
+      "legal_identity_hint": "detergent",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P7"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        }
+      ],
+      "stage_hints": [
+        "原态",
+        "洗中",
+        "湿布",
+        "干布",
+        "约定时点"
+      ],
+      "context_note": "织物、水、程序、干燥；凝珠膜材"
+    },
+    "fabric_deposition": {
+      "name": "织物附香类",
+      "legal_identity_hint": "non_cosmetic",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P7"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        }
+      ],
+      "stage_hints": [
+        "原态",
+        "附香",
+        "湿布（适用时）",
+        "干布",
+        "约定时点"
+      ],
+      "context_note": "附香步骤、技术类型"
+    },
+    "hard_surface": {
+      "name": "硬面清洁类",
+      "legal_identity_hint": "detergent",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P11"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        }
+      ],
+      "stage_hints": [
+        "原态",
+        "稀释（如有）",
+        "使用",
+        "残留"
+      ],
+      "context_note": "酸碱、氧化、食品接触区分"
+    },
+    "air_care": {
+      "name": "空气护理类",
+      "legal_identity_hint": "non_cosmetic",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P2"
+        },
+        {
+          "metric_id": "P3"
+        },
+        {
+          "metric_id": "P6"
+        },
+        {
+          "metric_id": "P13"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        }
+      ],
+      "stage_hints": [
+        "启动/喷洒",
+        "初期",
+        "后续时点"
+      ],
+      "context_note": "喷量、空间、通风、测点"
+    },
+    "disinfection_support": {
+      "name": "消杀感官配套类",
+      "legal_identity_hint": "biocidal",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P11"
+        },
+        {
+          "metric_id": "P10"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        }
+      ],
+      "stage_hints": [
+        "原态",
+        "使用",
+        "残留"
+      ],
+      "context_note": "有效体系与功效；香气不是功效"
+    },
+    "malodor_control": {
+      "name": "异味管理类",
+      "legal_identity_hint": "identity_required",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P10"
+        },
+        {
+          "metric_id": "P11"
+        },
+        {
+          "metric_id": "P14"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_STABILITY"
+        }
+      ],
+      "stage_hints": [
+        "对照",
+        "使用",
+        "约定时点",
+        "返味"
+      ],
+      "context_note": "异味源、物种、人群、接触"
+    },
+    "industrial_process": {
+      "name": "工业工艺类",
+      "legal_identity_hint": "identity_required",
+      "defaults": [
+        {
+          "metric_id": "P1"
+        },
+        {
+          "metric_id": "P4"
+        },
+        {
+          "metric_id": "P7"
+        },
+        {
+          "metric_id": "Q_COMPAT"
+        },
+        {
+          "metric_id": "Q_SPECIAL",
+          "subitem": "加工耐受",
+          "activation": "按实际体系确认"
+        },
+        {
+          "metric_id": "Q_SPECIAL",
+          "subitem": "材料性能/迁移",
+          "activation": "按实际体系确认"
+        }
+      ],
+      "stage_hints": [
+        "加工前",
+        "加工后",
+        "储存后"
+      ],
+      "context_note": "材料牌号、加工温度时间、实际终用途"
+    }
+  },
+  "common_defaults": [
+    {
+      "metric_id": "R_IFRA",
+      "activation": "适用终用途确认后核查",
+      "stage": "before_release_or_as_required"
+    },
+    {
+      "metric_id": "R_SDS",
+      "activation": "按供货及客户要求",
+      "stage": "before_supply"
+    },
+    {
+      "metric_id": "Q_SPEC",
+      "activation": "先查原液规格",
+      "stage": "before_supply"
+    }
+  ],
+  "conditional_defaults": [
+    {
+      "when": "液体且规格、危害、运输或客户需要闪点",
+      "metric_id": "Q_FLASH"
+    },
+    {
+      "when": "客户需要COA或实际批次交付需COA",
+      "metric_id": "Q_COA"
+    },
+    {
+      "when": "客户要求或适用市场需要过敏原资料",
+      "metric_id": "R_ALLERGEN"
+    },
+    {
+      "when": "儿童/宠物/口腔/食品接触/特殊认证或限制",
+      "metric_id": "R_EXTRA",
+      "subitem": "明确具体要求"
+    },
+    {
+      "when": "摩擦或复湿再释放要求",
+      "metric_id": "P9"
+    }
+  ],
+  "market_defaults": {
+    "CN": {
+      "name": "中国大陆",
+      "default": "R_MARKET",
+      "review_hints": [
+        {
+          "if": "cosmetic",
+          "route": "CN_COSMETICS",
+          "note": "普通/特殊、原料禁限及安全评估输入；2026政策原料安全信息文件和报送码不再填报，资料存档备查；实际生效/适用核验",
+          "source_urls": [
+            "https://www.nmpa.gov.cn/xxgk/zhcjd/zhcjdhzhp/20260729120327100.html"
+          ]
+        },
+        {
+          "if": "toothpaste",
+          "route": "CN_TOOTHPASTE",
+          "note": "牙膏独立备案；漱口水按真实身份判定",
+          "source_urls": [
+            "https://www.nmpa.gov.cn/xxgk/zhcjd/zhcjdhzhp/20260729120327100.html",
+            "https://www.nmpa.gov.cn/xxgk/ggtg/hzhpggtg/jmhzhptg/20230925154041194.html"
+          ]
+        },
+        {
+          "if": "children_cosmetic",
+          "route": "CN_CHILD",
+          "note": "儿童必要性、安全评估和标签；谨慎香精",
+          "source_urls": [
+            "https://www.nmpa.gov.cn/xxgk/kpzhsh/kpzhshhzhp/20260428093808135.html"
+          ]
+        },
+        {
+          "if": "detergent",
+          "route": "CN_DETERGENT",
+          "note": "具体产品标准、标签；餐具果蔬另判",
+          "source_urls": [
+            "https://www.nhc.gov.cn/sps/c100087/202207/9c59b98621c0474d9431dac289080e4c.shtml"
+          ]
+        },
+        {
+          "if": "food_contact_cleaning",
+          "route": "CN_FOOD_CLEAN",
+          "note": "GB 14930.1—2022及适用分类/后续更新",
+          "source_urls": [
+            "https://www.nhc.gov.cn/sps/c100087/202207/9c59b98621c0474d9431dac289080e4c.shtml"
+          ]
+        },
+        {
+          "if": "disinfectant",
+          "route": "CN_DISINFECTION",
+          "note": "卫生安全评价及相关资料，实际类别判断",
+          "source_urls": [
+            "https://www.nhc.gov.cn/zhjcj/c100093/201407/9731d89e558f4552a2ba602482a33fc2.shtml"
+          ]
+        },
+        {
+          "if": "pesticide_claim_or_product",
+          "route": "CN_PESTICIDE",
+          "note": "蚊香/驱虫等按农药实际路径",
+          "source_urls": [
+            "https://fgs.moa.gov.cn/flfg/202109/t20210928_6378528.htm"
+          ]
+        },
+        {
+          "if": "chemical_supply_activity",
+          "route": "CN_CHEMICAL",
+          "note": "MEE名录及新物质/新用途，活动及豁免；不对全世界触发",
+          "source_urls": [
+            "https://www.mee.gov.cn/gzk/gz/202112/t20211211_963807.shtml"
+          ]
+        }
+      ]
+    },
+    "EU_EEA": {
+      "name": "欧盟/EEA（实际国家另存）",
+      "default": "R_MARKET",
+      "review_hints": [
+        {
+          "if": "cosmetic",
+          "route": "EU_COSMETICS",
+          "note": "RP、PIF/CPSR、CPNP由相应主体负责；香精数据支持",
+          "source_urls": [
+            "https://single-market-economy.ec.europa.eu/sectors/cosmetics/legislation_en",
+            "https://eur-lex.europa.eu/eli/reg/2023/1545"
+          ]
+        },
+        {
+          "if": "chemical_mixture_supply",
+          "route": "EU_MIXTURE",
+          "note": "REACH/CLP及供应链角色、语言；香精与成品分实例",
+          "source_urls": [
+            "https://echa.europa.eu/regulations/reach/understanding-reach"
+          ]
+        },
+        {
+          "if": "pcn_applicability_review",
+          "route": "EU_PCN",
+          "note": "健康/物理危害混合物、适用角色和豁免；不是所有混合物",
+          "source_urls": [
+            "https://poisoncentres.echa.europa.eu/steps-for-industry",
+            "https://poisoncentres.echa.europa.eu/en/poison-centres-notification-format"
+          ]
+        },
+        {
+          "if": "detergent_or_surfactant",
+          "route": "EU_DETERGENT",
+          "note": "648/2004与2026/405过渡；洗涤剂标签规则不套化妆品阈值",
+          "source_urls": [
+            "https://eur-lex.europa.eu/eli/reg/2026/405/oj"
+          ]
+        },
+        {
+          "if": "biocidal_claim_or_product",
+          "route": "EU_BIOCIDAL",
+          "note": "BPR活性物质及产品授权/标签/功效",
+          "source_urls": [
+            "https://echa.europa.eu/en/biocides"
+          ]
+        },
+        {
+          "if": "pressurized_aerosol",
+          "route": "EU_AEROSOL",
+          "note": "核气雾剂及运输相关要求；区分非压力喷泵",
+          "source_urls": [
+            "https://eur-lex.europa.eu/eli/dir/1975/324/oj"
+          ]
+        },
+        {
+          "if": "non_cosmetic_consumer_product",
+          "route": "EU_GENERAL_SAFETY",
+          "note": "GPSR及适用专项标准、蜡烛/家清等成品责任",
+          "source_urls": [
+            "https://eur-lex.europa.eu/eli/reg/2023/988/oj"
+          ]
+        }
+      ]
+    },
+    "ASEAN": {
+      "name": "东盟实际国家",
+      "default": "R_MARKET",
+      "review_hints": [
+        {
+          "if": "cosmetic",
+          "route": "ASEAN_COSMETICS",
+          "note": "ACD＋实际国家通知、PIF、标签，非区域一次通知",
+          "source_urls": [
+            "https://www.asean.org/wp-content/uploads/2021/08/General-Information-Booklet-on-ASEAN-Harmonized-Cosmetic-Regulatory-Scheme.pdf"
+          ]
+        },
+        {
+          "if": "non_cosmetic_consumer_product",
+          "route": "LOCAL_NONCOSMETIC",
+          "note": "实际国家化学品/标签、产品标准、通知及特定用途；不得以SDS代替完整核查",
+          "source_urls": []
+        },
+        {
+          "if": "chemical_supply_activity",
+          "route": "LOCAL_CHEMICAL",
+          "note": "实际国家化学品、进口、职业安全要求",
+          "source_urls": []
+        },
+        {
+          "if": "biocidal_claim_or_product",
+          "route": "LOCAL_BIOCIDE",
+          "note": "实际国家消毒/杀虫主管机关及批准/豁免",
+          "source_urls": []
+        }
+      ]
+    },
+    "US": {
+      "name": "美国（州另存）",
+      "default": "R_MARKET",
+      "review_hints": [
+        {
+          "if": "cosmetic",
+          "route": "US_COSMETICS",
+          "note": "MoCRA适用主体、豁免、设施注册/列名、安全依据、标签及州规则；过敏原新规核验",
+          "source_urls": [
+            "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/cosmetics-us-law"
+          ]
+        },
+        {
+          "if": "non_cosmetic_consumer_product",
+          "route": "US_HOUSEHOLD",
+          "note": "FHSA警示与包装按实际危害及范围",
+          "source_urls": [
+            "https://www.cpsc.gov/FAQ/FHSA-Cautionary-Labeling"
+          ]
+        },
+        {
+          "if": "chemical_supply_activity",
+          "route": "US_TSCA",
+          "note": "TSCA物质名录、活动及排除/豁免",
+          "source_urls": [
+            "https://www.epa.gov/tsca-inventory"
+          ]
+        },
+        {
+          "if": "biocidal_claim_or_product",
+          "route": "US_FIFRA",
+          "note": "FIFRA杀菌、驱虫主张及豁免；普通遮味不自动触发",
+          "source_urls": [
+            "https://www.epa.gov/pesticides/antimicrobial-pesticides"
+          ]
+        },
+        {
+          "if": "drug_or_therapeutic_claim",
+          "route": "US_DRUG",
+          "note": "防龋/治疗等可能为药品或双重身份，先分类",
+          "source_urls": [
+            "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/cosmetics-us-law"
+          ]
+        }
+      ]
+    },
+    "CA": {
+      "name": "加拿大",
+      "default": "R_MARKET",
+      "review_hints": [
+        {
+          "if": "cosmetic",
+          "route": "CA_COSMETICS",
+          "note": "Hotlist、通知及标签，扩展过敏原按新旧产品",
+          "source_urls": [
+            "https://www.canada.ca/en/health-canada/services/consumer-product-safety/reports-publications/industry-professionals/labelling-cosmetics.html"
+          ]
+        },
+        {
+          "if": "non_cosmetic_consumer_product",
+          "route": "CA_CONSUMER",
+          "note": "按CCCR及消费者产品相关要求；与职业WHMIS区分",
+          "source_urls": [
+            "https://www.canada.ca/en/health-canada/services/consumer-product-safety/legislation-guidelines/acts-regulations.html"
+          ]
+        },
+        {
+          "if": "chemical_supply_activity",
+          "route": "CA_CHEMICAL",
+          "note": "DSL/NDSL及新物质、WHMIS适用性",
+          "source_urls": [
+            "https://www.canada.ca/en/environment-climate-change/services/managing-pollution/evaluating-new-substances.html"
+          ]
+        },
+        {
+          "if": "biocidal_claim_or_product",
+          "route": "CA_PEST",
+          "note": "按PMRA或其他消毒产品相应路径核对",
+          "source_urls": [
+            "https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management.html"
+          ]
+        }
+      ]
+    },
+    "SA": {
+      "name": "沙特",
+      "default": "R_MARKET",
+      "review_hints": [
+        {
+          "if": "cosmetic",
+          "route": "GCC_COSMETICS",
+          "note": "GSO实际采用版本及国家程序；清真不默认强制",
+          "source_urls": [
+            "https://sfda.gov.sa/sites/default/files/2025-03/GRCPN.pdf"
+          ]
+        },
+        {
+          "if": "cosmetic",
+          "route": "SA_COSMETICS",
+          "note": "SFDA通知及当地规则",
+          "source_urls": [
+            "https://sfda.gov.sa/sites/default/files/2025-03/GRCPN.pdf"
+          ]
+        },
+        {
+          "if": "non_cosmetic_consumer_product",
+          "route": "LOCAL_NONCOSMETIC",
+          "note": "实际国家化学品/标签、产品标准、通知及特定用途；不得以SDS代替完整核查",
+          "source_urls": []
+        },
+        {
+          "if": "chemical_supply_activity",
+          "route": "LOCAL_CHEMICAL",
+          "note": "实际国家化学品、进口、职业安全要求",
+          "source_urls": []
+        },
+        {
+          "if": "biocidal_claim_or_product",
+          "route": "LOCAL_BIOCIDE",
+          "note": "实际国家消毒/杀虫主管机关及批准/豁免",
+          "source_urls": []
+        }
+      ]
+    },
+    "AE": {
+      "name": "阿联酋（酋长国另存）",
+      "default": "R_MARKET",
+      "review_hints": [
+        {
+          "if": "cosmetic",
+          "route": "GCC_COSMETICS",
+          "note": "GSO实际采用版本及国家程序；清真不默认强制",
+          "source_urls": [
+            "https://sfda.gov.sa/sites/default/files/2025-03/GRCPN.pdf"
+          ]
+        },
+        {
+          "if": "regulated_consumer_product",
+          "route": "UAE_CONSUMER",
+          "note": "MoIAT按受管制范围；迪拜Montaji另核，非全品类双重必需",
+          "source_urls": [
+            "https://moiat.gov.ae/en/services/issue-conformity-certificates-for-regulated-products?search=ecas",
+            "https://www.dm.gov.ae/dubai-municipalitys-montaji-app/"
+          ]
+        },
+        {
+          "if": "non_cosmetic_consumer_product",
+          "route": "LOCAL_NONCOSMETIC",
+          "note": "实际国家化学品/标签、产品标准、通知及特定用途；不得以SDS代替完整核查",
+          "source_urls": []
+        },
+        {
+          "if": "chemical_supply_activity",
+          "route": "LOCAL_CHEMICAL",
+          "note": "实际国家化学品、进口、职业安全要求",
+          "source_urls": []
+        },
+        {
+          "if": "biocidal_claim_or_product",
+          "route": "LOCAL_BIOCIDE",
+          "note": "实际国家消毒/杀虫主管机关及批准/豁免",
+          "source_urls": []
+        }
+      ]
+    },
+    "GCC_OTHER": {
+      "name": "其他海湾实际国家",
+      "default": "R_MARKET",
+      "review_hints": [
+        {
+          "if": "cosmetic",
+          "route": "GCC_COSMETICS",
+          "note": "GSO实际采用版本及国家程序；清真不默认强制",
+          "source_urls": [
+            "https://sfda.gov.sa/sites/default/files/2025-03/GRCPN.pdf"
+          ]
+        },
+        {
+          "if": "non_cosmetic_consumer_product",
+          "route": "LOCAL_NONCOSMETIC",
+          "note": "实际国家化学品/标签、产品标准、通知及特定用途；不得以SDS代替完整核查",
+          "source_urls": []
+        },
+        {
+          "if": "chemical_supply_activity",
+          "route": "LOCAL_CHEMICAL",
+          "note": "实际国家化学品、进口、职业安全要求",
+          "source_urls": []
+        },
+        {
+          "if": "biocidal_claim_or_product",
+          "route": "LOCAL_BIOCIDE",
+          "note": "实际国家消毒/杀虫主管机关及批准/豁免",
+          "source_urls": []
+        }
+      ]
+    },
+    "OTHER": {
+      "name": "其他国家",
+      "default": "R_MARKET",
+      "review_hints": [
+        {
+          "if": "non_cosmetic_consumer_product",
+          "route": "LOCAL_NONCOSMETIC",
+          "note": "实际国家化学品/标签、产品标准、通知及特定用途；不得以SDS代替完整核查",
+          "source_urls": []
+        },
+        {
+          "if": "chemical_supply_activity",
+          "route": "LOCAL_CHEMICAL",
+          "note": "实际国家化学品、进口、职业安全要求",
+          "source_urls": []
+        },
+        {
+          "if": "biocidal_claim_or_product",
+          "route": "LOCAL_BIOCIDE",
+          "note": "实际国家消毒/杀虫主管机关及批准/豁免",
+          "source_urls": []
+        },
+        {
+          "if": "always",
+          "route": "OTHER_MARKET",
+          "note": "未覆盖国家先核实；不可默认放行",
+          "source_urls": []
+        }
+      ]
+    }
+  },
+  "record_fields": {
+    "project_context": [
+      "review_category_id",
+      "end_product",
+      "market_countries",
+      "dosage",
+      "base",
+      "process_or_packaging_if_relevant",
+      "special_use_or_claim",
+      "customer_requirements"
+    ],
+    "requirement": [
+      "metric_id",
+      "subitem_if_needed",
+      "target_or_requested_document",
+      "context",
+      "source",
+      "due_stage",
+      "mandatory_or_default"
+    ],
+    "evidence": [
+      "fragrance_id",
+      "formula_version_or_unknown",
+      "metric_id",
+      "subitem_if_needed",
+      "context",
+      "method_if_relevant",
+      "result_or_document",
+      "review_status",
+      "source_ref",
+      "date"
+    ],
+    "task": [
+      "project_id",
+      "fragrance_id",
+      "department",
+      "requirement_refs",
+      "context",
+      "deliverable",
+      "due_stage",
+      "status"
+    ]
+  },
+  "dispatch_rules": {
+    "application": "合并相同基料及剂量的表现力测试；需要时制样",
+    "quality": "合并同批试样的相容性与稳定性测试；原液闪点、COA及特殊检测按对象派发",
+    "compliance": "合并同市场及用途的法规核查；仅缺文件时不重做已有核算",
+    "match": "同指标及子项、版本、适用对象、关键条件匹配后按当前标准判断；未知或旧工单仅线索；明确失败返回选香或改配方",
+    "stage": "默认先生成要求；根据客户要求、必须前置的安全/法规限制和项目阶段决定执行；确样后事项先登记不派发；缺信息先确认",
+    "no_numeric_defaults": "未有经批准SOP或客户标准时，只生成检查要求，不自动判定合格"
+  },
+  "legacy_reference": "香精非香型检查规则库_v0.9.json（扩展资料，非运行必需）"
+}

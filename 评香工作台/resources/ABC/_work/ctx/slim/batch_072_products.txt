@@ -1,0 +1,7 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0026	祖玛珑	Peony & Blush Suede	牡丹与胭红麂绒；牡丹嫣红麂皮	官网已核验存在
+PR_0033	祖玛珑	Dark Amber & Ginger Lily	黑琥珀与姜百合	待检索核验
+PR_0053	圣罗兰	Y	Y（Y先生）；圣罗兰Y男香	官网已核验存在
+PR_0110	梅森·马吉拉	Lazy Sunday Morning	慵懒周日	待检索核验
+PR_0119	宝格丽	Pour Homme Soir	大吉岭夜色	待检索核验
+PR_0158	潘海利根	The Revenge of Lady Blanche	布兰奇夫人的复仇	待检索核验

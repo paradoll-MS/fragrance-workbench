@@ -1,0 +1,2 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0332	香奈儿	COCO	COCO	待检索核验

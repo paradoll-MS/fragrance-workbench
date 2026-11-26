@@ -1,0 +1,6 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0058	汤姆·福特	Oud Wood	TF-沉香；珍华乌木	待检索核验
+PR_0216	三宅一生	L’Eau d’Issey	一生之水女士；一生之水（女）	待检索核验
+PR_0218	大卫杜夫	Cool Water Man	冷水男士	待检索核验
+PR_0288	梵克雅宝	First	梵克女士	待检索核验
+PR_0321	纪梵希	Ysatis	依莎提斯	待检索核验

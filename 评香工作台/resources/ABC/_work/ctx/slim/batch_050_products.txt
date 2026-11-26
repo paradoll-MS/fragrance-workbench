@@ -1,0 +1,6 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0099	柏芮朵	Black Saffron	黑色藏红花；黑藏红花	待检索核验
+PR_0299	马克·雅可布	Daisy	小雏菊	待检索核验
+PR_0309	爱慕	Library Collection Opus VII	图书馆收藏7	待检索核验
+PR_0310	爱慕	Library Collection Opus XII	图书馆收藏12	待检索核验
+PR_0317	卡诗	Chronologiste	卡诗黑钻护发	待检索核验

@@ -1,0 +1,11 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0057	BR_005	汤姆·福特	Tuscan Leather	托斯卡纳皮革	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0059	BR_005	汤姆·福特	Noir de Noir	TOMFORDNOIRDENOIR；黑与黑	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0069	BR_005	汤姆·福特	Jasmin Rouge	茉莉胭脂	5	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0131	BR_014	迪奥	Miss Dior	迪奥小姐	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0134	BR_014	迪奥	Fahrenheit	华氏温度	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0150	BR_016	古驰	Guilty	罪爱（原罪）女士	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0201	BR_023	信仰	Green Irish Tweed	爱尔兰幸运草；爱尔兰绿花	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0211	BR_026	巴宝莉	My Burberry	我的巴宝莉	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0299	BR_054	马克·雅可布	Daisy	小雏菊	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0339	BR_064	拉夫劳伦	Polo Red	红色马球	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

@@ -1,0 +1,9 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0001	BR_001	香奈儿	COCO Mademoiselle	COCO小姐；MADEMOISELLE；可可小姐	8	官网已核验存在	https://www.chanel.com/us/fragrance/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0039	BR_003	爱马仕	Terre d’Hermès	大地；大地男士；爱马仕大地；马仕大地	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0130	BR_014	迪奥	J’adore	大奥真我；真我；真我-降价版；真我倾世之金	7	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0132	BR_014	迪奥	Miss Dior Blooming Bouquet	花漾甜心	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0205	BR_024	卡罗琳娜·海莱拉	212 Sexy Men	212Sexyman；212Sexymen；212性感；212性感男士	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0211	BR_026	巴宝莉	My Burberry	我的巴宝莉	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0299	BR_054	马克·雅可布	Daisy	小雏菊	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0322	BR_061	纪梵希	Very Irrésistible	倾城之魅	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

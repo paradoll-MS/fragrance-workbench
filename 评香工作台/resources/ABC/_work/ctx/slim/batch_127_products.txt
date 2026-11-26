@@ -1,0 +1,6 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0072	蒂普提克	L’Ombre dans l’Eau	原版白玫瑰（玫瑰之影）；水中影	官网已核验存在
+PR_0079	蒂普提克	Eau de Minthe	薄荷之水	待检索核验
+PR_0221	伊丽莎白雅顿	5th Avenue	第五大道	待检索核验
+PR_0268	维多利亚的秘密	Coconut Milk & Rose	Coconut milk rose	待检索核验
+PR_0292	帕尔玛之水	Blu Mediterraneo Fico di Amalfi	阿玛菲无花果	待检索核验

@@ -1,0 +1,11 @@
+product_id	brand_id	品牌	产品国际名	产品中文候选别名	关联行数	存在核验	URL	版本备注
+PR_0040	BR_003	爱马仕	Un Jardin sur le Nil	尼罗河花园	6	官网已核验存在	https://www.hermes.com/us/en/content/283124-fragrances-collection-jardins/	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0053	BR_004	圣罗兰	Y	Y（Y先生）；圣罗兰Y男香	3	官网已核验存在	https://www.yslbeautyus.com/fragrance/womens-fragrances/mon-paris/mon-paris-eau-de-parfum/3614272048447.html	系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0058	BR_005	汤姆·福特	Oud Wood	TF-沉香；珍华乌木	8	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0104	BR_009	阿蒂仙之香	Fou d’Absinthe	狂恋苦艾	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0120	BR_012	宝格丽	Omnia Amethyste	BVLGARI OMNIA AMETHYSTE；花舞轻盈（紫晶）	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0183	BR_021	解放橘郡	The Story of Your Life	你的人生故事	2	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0205	BR_024	卡罗琳娜·海莱拉	212 Sexy Men	212Sexyman；212Sexymen；212性感；212性感男士	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0243	BR_036	卡亚利	Fleur Majesty Rose Royale 31	御品玫瑰31	4	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0244	BR_036	卡亚利	Yum Boujee Marshmallow 81	美味棉花糖81	1	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份
+PR_0281	BR_048	欧珑	Orange Sanguine	赤霞极光；赤霞橘光	3	待检索核验		系列／EDT／EDP／限量、浓香等须核对，不以家族代精确身份

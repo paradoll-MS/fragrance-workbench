@@ -1,0 +1,5 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0172	潘海利根	AlUla	璀璨埃尔奥拉	待检索核验
+PR_0174	馥马尔	Musc Ravageur	狂野麝香	待检索核验
+PR_0298	维克多与罗夫	Spicebomb	性感炸弹	待检索核验
+PR_0319	纪梵希	Gentleman	纪梵希先生	待检索核验

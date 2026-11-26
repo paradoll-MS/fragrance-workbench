@@ -1,0 +1,5 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0001	香奈儿	COCO Mademoiselle	COCO小姐；MADEMOISELLE；可可小姐	官网已核验存在
+PR_0039	爱马仕	Terre d’Hermès	大地；大地男士；爱马仕大地；马仕大地	待检索核验
+PR_0067	汤姆·福特	Black Orchid	午夜黑兰	待检索核验
+PR_0165	潘海利根	The Omniscient Mr Thompson	无所不知的汤普森先生	待检索核验

@@ -1,0 +1,6 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0044	爱马仕	Un Jardin après la Mousson	印度花园；雨后花园	待检索核验
+PR_0152	阿玛尼	Acqua di Giò	寄情水男；阿尼寄情水；阿玛尼寄情水	待检索核验
+PR_0163	潘海利根	Changing Constance	变幻莫测的康斯坦丝	待检索核验
+PR_0318	威斯汀	White Tea	Westin白茶	待检索核验
+PR_0323	莲娜丽姿	Nina	妮娜苹果；莲娜丽姿苹果	待检索核验

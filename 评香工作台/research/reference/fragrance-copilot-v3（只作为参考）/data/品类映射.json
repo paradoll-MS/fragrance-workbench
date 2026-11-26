@@ -1,0 +1,901 @@
+{
+  "metadata": {
+    "version": "2026-10-28",
+    "source": [
+      "_资料包/品类三级关系.json",
+      "_资料包/统一逻辑-表格.md"
+    ],
+    "principle": "单值映射：每个三级品类有且只有一个规范类/新类；规范类/新类是多个三级品类的归并，不是数学一一对应（injective）。",
+    "k_count": 56,
+    "norm_class_count": 18,
+    "new_class_count": 12
+  },
+  "norm_classes": [
+    "身体香氛类",
+    "点燃扩香类",
+    "无火扩香类",
+    "空气护理类",
+    "身体淋洗类",
+    "身体驻留类",
+    "头发淋洗类",
+    "头发驻留类",
+    "面部淋洗类",
+    "面部驻留类",
+    "口腔淋洗类",
+    "口唇驻留类",
+    "织物清洁类",
+    "织物附香类",
+    "硬面清洁类",
+    "消杀感官配套类",
+    "异味管理类",
+    "工业工艺类"
+  ],
+  "new_classes": [
+    "个人香氛",
+    "身体洗护",
+    "头发洗护",
+    "面部洗护",
+    "口腔护理（含唇部）",
+    "空间香氛",
+    "织物护理",
+    "硬面清洁",
+    "空清消杀",
+    "婴童护理",
+    "宠物护理",
+    "工业遮味"
+  ],
+  "regions": [
+    "中国大陆",
+    "欧盟",
+    "东盟",
+    "美国",
+    "加拿大",
+    "沙特",
+    "阿联酋/迪拜",
+    "其他海湾",
+    "其他"
+  ],
+  "categories": [
+    {
+      "k_code": "K001",
+      "level1": "高级香氛",
+      "level2": "个人香氛",
+      "level3": "香水",
+      "aliases": [
+        "香水",
+        "淡香精",
+        "浓香精",
+        "EDP",
+        "EDT"
+      ],
+      "norm_class": "身体香氛类",
+      "new_class": "个人香氛",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K002",
+      "level1": "高级香氛",
+      "level2": "个人香氛",
+      "level3": "香水油",
+      "aliases": [],
+      "norm_class": "身体香氛类",
+      "new_class": "个人香氛",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K003",
+      "level1": "高级香氛",
+      "level2": "个人香氛",
+      "level3": "香膏",
+      "aliases": [],
+      "norm_class": "身体香氛类",
+      "new_class": "个人香氛",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K004",
+      "level1": "高级香氛",
+      "level2": "个人香氛",
+      "level3": "身体喷雾",
+      "aliases": [],
+      "norm_class": "身体香氛类",
+      "new_class": "个人香氛",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K005",
+      "level1": "高级香氛",
+      "level2": "空间香氛",
+      "level3": "蜡烛",
+      "aliases": [
+        "香薰蜡烛",
+        "香氛蜡烛",
+        "香薰烛"
+      ],
+      "norm_class": "点燃扩香类",
+      "new_class": "空间香氛",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K006",
+      "level1": "高级香氛",
+      "level2": "空间香氛",
+      "level3": "线香",
+      "aliases": [
+        "线香",
+        "香薰线香",
+        "焚香"
+      ],
+      "norm_class": "点燃扩香类",
+      "new_class": "空清消杀",
+      "identity": [
+        "点燃"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K007",
+      "level1": "高级香氛",
+      "level2": "空间香氛",
+      "level3": "藤条挥发液",
+      "aliases": [
+        "藤条",
+        "挥发液",
+        "无火香氛",
+        "无火扩香",
+        "无火香薰",
+        "藤条香薰",
+        "藤条香氛",
+        "液体香薰",
+        "香薰液",
+        "扩香液",
+        "室内香薰",
+        "香薰",
+        "香氛液",
+        "无火香氛液"
+      ],
+      "norm_class": "无火扩香类",
+      "new_class": "空间香氛",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K008",
+      "level1": "高级香氛",
+      "level2": "空间香氛",
+      "level3": "晶石石膏",
+      "aliases": [
+        "晶石",
+        "石膏",
+        "晶石香薰",
+        "石膏香薰",
+        "扩香石",
+        "香氛石"
+      ],
+      "norm_class": "无火扩香类",
+      "new_class": "空间香氛",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K009",
+      "level1": "高级香氛",
+      "level2": "空间香氛",
+      "level3": "扩香机",
+      "aliases": [
+        "扩香机",
+        "香薰机",
+        "无火扩香机"
+      ],
+      "norm_class": "无火扩香类",
+      "new_class": "空间香氛",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K010",
+      "level1": "高级香氛",
+      "level2": "空间香氛",
+      "level3": "车载",
+      "aliases": [
+        "车载香薰",
+        "车载香氛",
+        "车载扩香"
+      ],
+      "norm_class": "无火扩香类",
+      "new_class": "空间香氛",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K011",
+      "level1": "高级香氛",
+      "level2": "空间香氛",
+      "level3": "空间喷雾",
+      "aliases": [
+        "空间香氛喷雾",
+        "空间香氛",
+        "空间喷雾",
+        "室内喷雾",
+        "空气清新喷雾",
+        "空气清新剂"
+      ],
+      "norm_class": "空气护理类",
+      "new_class": "空间香氛",
+      "identity": [
+        "气雾/可燃"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K012",
+      "level1": "个人护理",
+      "level2": "身体护理",
+      "level3": "沐浴露",
+      "aliases": [],
+      "norm_class": "身体淋洗类",
+      "new_class": "身体洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K013",
+      "level1": "个人护理",
+      "level2": "身体护理",
+      "level3": "沐浴油",
+      "aliases": [],
+      "norm_class": "身体淋洗类",
+      "new_class": "身体洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K014",
+      "level1": "个人护理",
+      "level2": "身体护理",
+      "level3": "香皂",
+      "aliases": [],
+      "norm_class": "身体淋洗类",
+      "new_class": "身体洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K015",
+      "level1": "个人护理",
+      "level2": "身体护理",
+      "level3": "精油皂",
+      "aliases": [],
+      "norm_class": "身体淋洗类",
+      "new_class": "身体洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K016",
+      "level1": "个人护理",
+      "level2": "身体护理",
+      "level3": "磨砂膏",
+      "aliases": [],
+      "norm_class": "身体淋洗类",
+      "new_class": "身体洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K017",
+      "level1": "个人护理",
+      "level2": "身体护理",
+      "level3": "身体乳",
+      "aliases": [],
+      "norm_class": "身体驻留类",
+      "new_class": "身体洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K018",
+      "level1": "个人护理",
+      "level2": "身体护理",
+      "level3": "护手霜",
+      "aliases": [],
+      "norm_class": "身体驻留类",
+      "new_class": "身体洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K019",
+      "level1": "个人护理",
+      "level2": "身体护理",
+      "level3": "按摩精油",
+      "aliases": [],
+      "norm_class": "身体驻留类",
+      "new_class": "身体洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K020",
+      "level1": "个人护理",
+      "level2": "头发护理",
+      "level3": "洗发水",
+      "aliases": [],
+      "norm_class": "头发淋洗类",
+      "new_class": "头发洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K021",
+      "level1": "个人护理",
+      "level2": "头发护理",
+      "level3": "护发素",
+      "aliases": [],
+      "norm_class": "头发淋洗类",
+      "new_class": "头发洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K022",
+      "level1": "个人护理",
+      "level2": "头发护理",
+      "level3": "发膜",
+      "aliases": [],
+      "norm_class": "头发淋洗类",
+      "new_class": "头发洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K023",
+      "level1": "个人护理",
+      "level2": "头发护理",
+      "level3": "头皮精华",
+      "aliases": [],
+      "norm_class": "头发驻留类",
+      "new_class": "头发洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K024",
+      "level1": "个人护理",
+      "level2": "头发护理",
+      "level3": "发蜡发泥",
+      "aliases": [
+        "发蜡",
+        "发泥"
+      ],
+      "norm_class": "头发驻留类",
+      "new_class": "头发洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K025",
+      "level1": "个人护理",
+      "level2": "面部护理",
+      "level3": "洁面",
+      "aliases": [
+        "洗面奶"
+      ],
+      "norm_class": "面部淋洗类",
+      "new_class": "面部洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K026",
+      "level1": "个人护理",
+      "level2": "面部护理",
+      "level3": "卸妆膏油",
+      "aliases": [
+        "卸妆膏",
+        "卸妆油"
+      ],
+      "norm_class": "面部淋洗类",
+      "new_class": "面部洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K027",
+      "level1": "个人护理",
+      "level2": "面部护理",
+      "level3": "面霜及面部驻留",
+      "aliases": [
+        "面霜以及其它驻留型产品",
+        "面霜"
+      ],
+      "norm_class": "面部驻留类",
+      "new_class": "面部洗护",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K028",
+      "level1": "个人护理",
+      "level2": "口腔护理",
+      "level3": "牙膏",
+      "aliases": [],
+      "norm_class": "口腔淋洗类",
+      "new_class": "口腔护理（含唇部）",
+      "identity": [
+        "牙膏备案"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K029",
+      "level1": "个人护理",
+      "level2": "口腔护理",
+      "level3": "漱口水",
+      "aliases": [],
+      "norm_class": "口腔淋洗类",
+      "new_class": "口腔护理（含唇部）",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K030",
+      "level1": "个人护理",
+      "level2": "口腔护理",
+      "level3": "唇膏",
+      "aliases": [],
+      "norm_class": "口唇驻留类",
+      "new_class": "口腔护理（含唇部）",
+      "identity": [
+        "口唇/可能摄入"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K031",
+      "level1": "家庭护理",
+      "level2": "传统织物护理",
+      "level3": "洗衣液",
+      "aliases": [],
+      "norm_class": "织物清洁类",
+      "new_class": "织物护理",
+      "identity": [
+        "洗涤剂"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K032",
+      "level1": "家庭护理",
+      "level2": "传统织物护理",
+      "level3": "洗衣粉",
+      "aliases": [],
+      "norm_class": "织物清洁类",
+      "new_class": "织物护理",
+      "identity": [
+        "洗涤剂"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K033",
+      "level1": "家庭护理",
+      "level2": "传统织物护理",
+      "level3": "洗衣皂",
+      "aliases": [],
+      "norm_class": "织物清洁类",
+      "new_class": "织物护理",
+      "identity": [
+        "洗涤剂"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K034",
+      "level1": "家庭护理",
+      "level2": "传统织物护理",
+      "level3": "柔顺剂",
+      "aliases": [],
+      "norm_class": "织物附香类",
+      "new_class": "织物护理",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K035",
+      "level1": "家庭护理",
+      "level2": "新型织物护理",
+      "level3": "洗衣凝珠",
+      "aliases": [],
+      "norm_class": "织物清洁类",
+      "new_class": "织物护理",
+      "identity": [
+        "洗涤剂"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K036",
+      "level1": "家庭护理",
+      "level2": "新型织物护理",
+      "level3": "留香珠",
+      "aliases": [],
+      "norm_class": "织物附香类",
+      "new_class": "织物护理",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K037",
+      "level1": "家庭护理",
+      "level2": "硬面清洁",
+      "level3": "洗洁精果蔬净",
+      "aliases": [
+        "洗洁精/果蔬净",
+        "果蔬净"
+      ],
+      "norm_class": "硬面清洁类",
+      "new_class": "硬面清洁",
+      "identity": [
+        "食品接触"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K038",
+      "level1": "家庭护理",
+      "level2": "硬面清洁",
+      "level3": "地板",
+      "aliases": [
+        "地板清洁"
+      ],
+      "norm_class": "硬面清洁类",
+      "new_class": "硬面清洁",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K039",
+      "level1": "家庭护理",
+      "level2": "硬面清洁",
+      "level3": "油污",
+      "aliases": [
+        "油污净"
+      ],
+      "norm_class": "硬面清洁类",
+      "new_class": "硬面清洁",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K040",
+      "level1": "家庭护理",
+      "level2": "硬面清洁",
+      "level3": "洁厕",
+      "aliases": [],
+      "norm_class": "硬面清洁类",
+      "new_class": "硬面清洁",
+      "identity": [],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K041",
+      "level1": "家庭护理",
+      "level2": "空清消杀",
+      "level3": "空气清新喷雾",
+      "aliases": [
+        "空气清新"
+      ],
+      "norm_class": "空气护理类",
+      "new_class": "空清消杀",
+      "identity": [
+        "气雾/可燃"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K042",
+      "level1": "家庭护理",
+      "level2": "空清消杀",
+      "level3": "蚊香",
+      "aliases": [],
+      "norm_class": "点燃扩香类",
+      "new_class": "空清消杀",
+      "identity": [
+        "农药/防蚊驱虫"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K043",
+      "level1": "家庭护理",
+      "level2": "空清消杀",
+      "level3": "卫生香",
+      "aliases": [],
+      "norm_class": "点燃扩香类",
+      "new_class": "空清消杀",
+      "identity": [
+        "点燃"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K044",
+      "level1": "家庭护理",
+      "level2": "空清消杀",
+      "level3": "杀虫喷剂",
+      "aliases": [
+        "杀虫剂"
+      ],
+      "norm_class": "消杀感官配套类",
+      "new_class": "空清消杀",
+      "identity": [
+        "农药"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K045",
+      "level1": "家庭护理",
+      "level2": "空清消杀",
+      "level3": "消毒",
+      "aliases": [
+        "消毒剂"
+      ],
+      "norm_class": "消杀感官配套类",
+      "new_class": "空清消杀",
+      "identity": [
+        "消毒"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K046",
+      "level1": "特殊群体",
+      "level2": "婴童护理",
+      "level3": "婴童洗护",
+      "aliases": [],
+      "norm_class": "身体淋洗类",
+      "new_class": "婴童护理",
+      "identity": [
+        "婴童/儿童"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K047",
+      "level1": "特殊群体",
+      "level2": "婴童护理",
+      "level3": "婴童膏霜",
+      "aliases": [],
+      "norm_class": "身体驻留类",
+      "new_class": "婴童护理",
+      "identity": [
+        "婴童/儿童"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K048",
+      "level1": "特殊群体",
+      "level2": "婴童护理",
+      "level3": "爽身粉",
+      "aliases": [],
+      "norm_class": "身体驻留类",
+      "new_class": "婴童护理",
+      "identity": [
+        "婴童/儿童"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K049",
+      "level1": "特殊群体",
+      "level2": "婴童护理",
+      "level3": "尿布裤",
+      "aliases": [],
+      "norm_class": "异味管理类",
+      "new_class": "婴童护理",
+      "identity": [
+        "婴童/儿童",
+        "一次性卫生用品"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K050",
+      "level1": "特殊群体",
+      "level2": "宠物护理",
+      "level3": "宠物洗护",
+      "aliases": [],
+      "norm_class": "身体淋洗类",
+      "new_class": "宠物护理",
+      "identity": [
+        "宠物"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K051",
+      "level1": "特殊群体",
+      "level2": "宠物护理",
+      "level3": "宠物尿垫",
+      "aliases": [],
+      "norm_class": "异味管理类",
+      "new_class": "宠物护理",
+      "identity": [
+        "宠物",
+        "一次性卫生用品"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K052",
+      "level1": "特殊群体",
+      "level2": "宠物护理",
+      "level3": "猫砂",
+      "aliases": [],
+      "norm_class": "异味管理类",
+      "new_class": "宠物护理",
+      "identity": [
+        "宠物"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K053",
+      "level1": "工业用途",
+      "level2": "直接品类",
+      "level3": "工业遮味",
+      "aliases": [],
+      "norm_class": "异味管理类",
+      "new_class": "工业遮味",
+      "identity": [
+        "工业"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K054",
+      "level1": "工业用途",
+      "level2": "直接品类",
+      "level3": "橡胶",
+      "aliases": [],
+      "norm_class": "工业工艺类",
+      "new_class": "工业遮味",
+      "identity": [
+        "工业"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K055",
+      "level1": "工业用途",
+      "level2": "直接品类",
+      "level3": "塑料EVA",
+      "aliases": [
+        "塑料/EVA",
+        "塑料/eva"
+      ],
+      "norm_class": "工业工艺类",
+      "new_class": "工业遮味",
+      "identity": [
+        "工业"
+      ],
+      "norm_status": "mapped",
+      "new_status": "mapped"
+    },
+    {
+      "k_code": "K056",
+      "level1": "其它",
+      "level2": "待归类",
+      "level3": "其它产品",
+      "aliases": [
+        "其它"
+      ],
+      "norm_class": null,
+      "new_class": null,
+      "identity": [
+        "待定"
+      ],
+      "norm_status": "待按实际用途确定",
+      "new_status": "待定"
+    }
+  ],
+  "counts_by_norm_class": {
+    "身体香氛类": 4,
+    "点燃扩香类": 4,
+    "无火扩香类": 4,
+    "空气护理类": 2,
+    "身体淋洗类": 7,
+    "身体驻留类": 5,
+    "头发淋洗类": 3,
+    "头发驻留类": 2,
+    "面部淋洗类": 2,
+    "面部驻留类": 1,
+    "口腔淋洗类": 2,
+    "口唇驻留类": 1,
+    "织物清洁类": 4,
+    "织物附香类": 2,
+    "硬面清洁类": 4,
+    "消杀感官配套类": 2,
+    "异味管理类": 4,
+    "工业工艺类": 2
+  },
+  "counts_by_new_class": {
+    "个人香氛": 4,
+    "空间香氛": 6,
+    "空清消杀": 6,
+    "身体洗护": 8,
+    "头发洗护": 5,
+    "面部洗护": 3,
+    "口腔护理（含唇部）": 3,
+    "织物护理": 6,
+    "硬面清洁": 4,
+    "婴童护理": 4,
+    "宠物护理": 3,
+    "工业遮味": 3
+  },
+  "unmapped": [
+    "K056"
+  ]
+}

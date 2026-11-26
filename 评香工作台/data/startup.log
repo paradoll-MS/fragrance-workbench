@@ -1,0 +1,231 @@
+评香工作台  http://127.0.0.1:18761/
+模拟中台    http://127.0.0.1:18761/mock-platform
+127.0.0.1 - - [26/Nov/2026 12:24:05] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:24:11] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:24:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:24:15] "GET /mock-platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:24:15] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:24:15] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:24:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:24:56] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:24:56] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:24:56] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:25:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:25:11] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:25:12] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:25:12] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:25:41] "POST /api/targeting HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:33:38] "GET /mock-platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:33:38] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:33:38] "GET /mock.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:33:38] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:33:38] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:33:38] "GET /api/platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:33:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:33:41] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:33:41] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:33:41] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:54:12] "GET /projects HTTP/1.1" 404 -
+评香工作台  http://127.0.0.1:18761/
+模拟中台    http://127.0.0.1:18761/mock-platform
+127.0.0.1 - - [26/Nov/2026 12:54:45] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:54:45] "GET /projects HTTP/1.1" 200 -
+评香工作台  http://127.0.0.1:18761/
+模拟中台    http://127.0.0.1:18761/mock-platform
+127.0.0.1 - - [26/Nov/2026 12:58:19] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:58:19] "GET /projects HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:59:14] "GET /projects HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:59:14] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:59:14] "GET /projects.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:59:14] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:59:14] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 12:59:47] "GET /projects HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:00:58] "GET /projects HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:00:58] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:00:58] "GET /projects.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:00:59] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:00:59] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:04] "GET /mock-platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:04] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:04] "GET /mock.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:04] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:04] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:04] "GET /api/platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:05] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:05] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:05] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:06] "GET /projects HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:06] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:06] "GET /projects.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:06] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:06] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:20] "GET /mock-platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:20] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:20] "GET /mock.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:20] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:20] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:20] "GET /api/platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:21] "GET /projects HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:21] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:21] "GET /projects.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:21] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:21] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:50] "POST /api/projects HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:01:50] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:02:26] "POST /api/sources HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:02:26] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:02:50] "POST /api/briefs/analyze HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:02:50] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:03:39] "POST /api/briefs/confirm HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:03:40] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:04:24] "GET /?project=1&goal=1 HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:04:25] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:04:25] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:04:25] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:04:25] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:04:46] "POST /api/targeting HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:05:45] "POST /api/search HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:06:06] "GET /projects?project=1 HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:06:06] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:06:06] "GET /projects.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:06:06] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:06:06] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:06:06] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:19:28] "GET /?project=1&goal=2 HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:19:28] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:19:28] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:19:29] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:19:29] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:19:39] "POST /api/targeting HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:06] "GET /projects?project=1 HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:06] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:06] "GET /projects.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:06] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:06] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:06] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:12] "GET /?project=1&goal=3 HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:12] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:12] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:13] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:13] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:52] "GET /projects?project=1 HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:52] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:52] "GET /projects.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:52] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:52] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:52] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:55] "GET /?project=1&goal=2 HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:55] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:55] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:55] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:55] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:23:59] "POST /api/targeting HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:06] "POST /api/search HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:39] "GET /projects?project=1 HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:40] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:40] "GET /projects.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:40] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:40] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:40] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:43] "GET /?project=1&goal=1 HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:43] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:43] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:43] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:43] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:45] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:45] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:45] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:24:57] "POST /api/targeting HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:09] "POST /api/targeting HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:10] "POST /api/search HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:31] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:31] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:31] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:36] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:36] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:36] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:43] "GET /projects HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:43] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:43] "GET /projects.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:43] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:43] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:43] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:51] "POST /api/flow/plan HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:51] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:56] "GET /mock-platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:56] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:56] "GET /mock.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:56] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:56] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:25:56] "GET /api/platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:05] "GET /projects HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:05] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:05] "GET /projects.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:05] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:05] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:05] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:10] "GET /mock-platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:10] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:10] "GET /mock.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:10] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:10] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:10] "GET /api/platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:11] "POST /api/task-result HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:11] "GET /api/platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:13] "GET /projects HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:13] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:13] "GET /projects.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:13] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:13] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:13] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:21] "POST /api/flow/advance HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:21] "POST /api/workflow HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:28] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:28] "GET /workbench.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:28] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:29] "GET /mock-platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:30] "GET /style.css HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:30] "GET /mock.js HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:30] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:30] "GET /api/dictionaries HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 13:26:30] "GET /api/platform HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 14:01:51] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 14:02:17] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 14:02:17] "GET /api/bootstrap HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 14:02:27] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 14:13:49] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 14:13:55] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [26/Nov/2026 15:13:49] "GET /api/health HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 56695)
+Traceback (most recent call last):
+  File "C:\Users\26519\AppData\Local\Programs\Python\Python314\Lib\socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\26519\AppData\Local\Programs\Python\Python314\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\26519\AppData\Local\Programs\Python\Python314\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "C:\Users\26519\AppData\Local\Programs\Python\Python314\Lib\http\server.py", line 496, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\26519\AppData\Local\Programs\Python\Python314\Lib\http\server.py", line 484, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "C:\Users\26519\Desktop\交付总控\评香工作台\app\server.py", line 422, in do_GET
+  File "C:\Users\26519\AppData\Local\Programs\Python\Python314\Lib\pathlib\__init__.py", line 777, in read_bytes
+    with self.open(mode='rb', buffering=0) as f:
+         ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\26519\AppData\Local\Programs\Python\Python314\Lib\pathlib\__init__.py", line 771, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\26519\\Desktop\\交付总控\\评香工作台\\web\\index.html'
+----------------------------------------

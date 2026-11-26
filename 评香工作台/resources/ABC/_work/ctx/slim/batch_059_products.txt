@@ -1,0 +1,8 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0084	勒莱柏	Bergamote 22	香柠檬22	官网已核验存在
+PR_0173	馥马尔	Portrait of a Lady	贵妇肖像	待检索核验
+PR_0181	解放橘郡	You Or Someone Like You	像你的人	待检索核验
+PR_0266	维多利亚的秘密	Vanilla Lace	VANILLA LACE；香草蕾丝	待检索核验
+PR_0267	维多利亚的秘密	Pure Seduction	纯净诱惑；纯诱惑	待检索核验
+PR_0299	马克·雅可布	Daisy	小雏菊	待检索核验
+PR_0338	拉夫劳伦	Polo Blue	蓝色马球	待检索核验

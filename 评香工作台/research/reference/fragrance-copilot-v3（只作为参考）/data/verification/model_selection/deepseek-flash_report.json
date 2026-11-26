@@ -1,0 +1,29 @@
+{
+  "model": "deepseek-flash",
+  "thinking": false,
+  "input_chars": 97278,
+  "elapsed": 32.16,
+  "contract_passed": true,
+  "subprojects": [
+    {
+      "title": "权力_trial · 权力的游戏【油质】",
+      "type": "recommend_brand",
+      "extra": []
+    },
+    {
+      "title": "权力_trial · 金钱的味道【油质】",
+      "type": "recommend_brand",
+      "extra": []
+    },
+    {
+      "title": "权力_trial · 名望的中心【水质】",
+      "type": "recommend_brand",
+      "extra": []
+    },
+    {
+      "title": "权力_trial · 天赋的传承【水质】",
+      "type": "recommend_brand",
+      "extra": []
+    }
+  ]
+}

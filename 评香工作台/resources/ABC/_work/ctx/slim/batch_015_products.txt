@@ -1,0 +1,5 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0022	祖玛珑	Wild Bluebell	蓝色风铃草；蓝风铃	官网已核验存在
+PR_0051	圣罗兰	Black Opium	黑鸦片	官网已核验存在
+PR_0273	莫斯奇诺	I Love Love	爱你之爱	待检索核验
+PR_0332	香奈儿	COCO	COCO	待检索核验

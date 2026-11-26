@@ -1,0 +1,4 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0065	汤姆·福特	Electric Cherry	ELECTRIC CHERRY；电光樱桃	待检索核验
+PR_0113	梅森·马吉拉	Bubble Bath	泡泡浴	待检索核验
+PR_0323	莲娜丽姿	Nina	妮娜苹果；莲娜丽姿苹果	待检索核验

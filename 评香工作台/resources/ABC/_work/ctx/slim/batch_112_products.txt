@@ -1,0 +1,8 @@
+product_id	品牌	产品名	别名	存在核验
+PR_0026	祖玛珑	Peony & Blush Suede	牡丹与胭红麂绒；牡丹嫣红麂皮	官网已核验存在
+PR_0065	汤姆·福特	Electric Cherry	ELECTRIC CHERRY；电光樱桃	待检索核验
+PR_0192	娇兰	Aqua Allegoria Granada Salvia	GRANADA SALVIA	待检索核验
+PR_0228	蔻依	Magnolia Alba	木兰诗语	待检索核验
+PR_0245	卡亚利	Yum Pistachio Gelato 33	开心果冰淇淋	待检索核验
+PR_0254	拉塔法	Khamrah	卡姆拉	待检索核验
+PR_0256	拉塔法	Fakhar Black	法哈尔黑色版	待检索核验

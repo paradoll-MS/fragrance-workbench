@@ -1,0 +1,44 @@
+[
+  {
+    "id": "s_c9d95d1e12ef4539",
+    "title": "修改茉莉冰荔枝卸妆膏香型",
+    "base_before": "",
+    "base_after": "",
+    "stage": "modification_draft"
+  },
+  {
+    "id": "s_69fdb7af7e694835",
+    "title": "修改气泡青苹果卸妆膏香型",
+    "base_before": "",
+    "base_after": "",
+    "stage": "modification_draft"
+  },
+  {
+    "id": "s_d9b23d29ff6d4410",
+    "title": "修改茉莉青提卸妆膏香型",
+    "base_before": "",
+    "base_after": "",
+    "stage": "modification_draft"
+  },
+  {
+    "id": "s_d19e899b972949f7",
+    "title": "修改鲜莓芭乐卸妆膏香型",
+    "base_before": "",
+    "base_after": "",
+    "stage": "modification_draft"
+  },
+  {
+    "id": "s_0264f7bdebe148d2",
+    "title": "LYP1117DLY 降价修改",
+    "base_before": "",
+    "base_after": "",
+    "stage": "modification_draft"
+  },
+  {
+    "id": "s_cb16cfe322224066",
+    "title": "LYP879BLY 改溶剂IPM增加酒香",
+    "base_before": "",
+    "base_after": "LYP879BLY",
+    "stage": "modification_draft"
+  }
+]

@@ -1,4 +1,4 @@
-﻿# Functions ／ 功能契约 F01–F24
+# Functions ／ 功能契约 F01–F24
 
 契约只有一条主线：读资料 → 定方向 → 选香或开发 → 检查与放行 → 寄样 → 结束。每个功能都能在代码里找到唯一落点，接口只做参数与返回，不写业务。
 
@@ -12,7 +12,7 @@
 
 - **F01 建项** `create_project` / `rename_project`：名称必填，其余可留空；建项后 revision 为 1。接口 `POST /api/projects`、`PATCH /api/projects/{id}`。拒绝：空名称。
 - **F02 收资料** `add_source` + `source_segments`：文字、JSON base64 或文件；按 txt / md / csv / pdf / docx / pptx / xlsx 解析，图片只有勾选视觉时才送模型。原件与定位落盘，读不出的部分记 `warnings` 而不是失败。接口 `POST /api/projects/{id}/sources`。
-- **F03 拆方向** `analyze` → `intelligence.parse.propose`：把资料拆成项目级 brief 与 1–6 个方向 brief。项目级放人群、市场、基质、添加量、合规、价格、数量、交期；方向只放自己的香气原文、家族、排除项、参照样与额外要求。客户列出的每个建议方向各成一条，法规与稳定性原文逐条保留。模型失败时抛 `ModelError` 并提示可手填，不生成半成品。接口 `POST /api/projects/{id}/analyze`。
+- **F03 拆方向** `analyze` → `intelligence.parse.propose`：把资料拆成项目级 brief 与 1–6 个方向 brief。项目级放人群、市场、基质、添加量、合规、价格、数量、交期；方向只放自己的香气原文、家族、排除项、参照样与额外要求。客户列出的每个建议方向各成一条，法规与稳定性原文逐条保留。模型失败时抛 `ModelError` 并提示可手填，不生成半成品。每次请求写入 `llm_call`。接口 `POST /api/projects/{id}/analyze`。
 - **F03a 展开 brief** `domain.brief.merge`：方向继承项目级字段，覆盖同名项；客户要求按 kind 标成 `Q_STABILITY` 或 `R_EXTRA`，合规原文进入 `requirements`；结果写 `goal.fields`，两层原文写 `round.brief`。
 - **F04 确认方向** `manual_draft` / `confirm_draft` / `add_direction`：手填与模型产出同一种形状；确认时按入口判型、写方向、轮次、目标与字段来源。重复确认返回第一次的结果。接口 `POST .../draft`、`POST .../draft/{id}/confirm`。拒绝：没有方向标题。
 - **F05 判型** `routing.route` / `reroute`：入口决定可执行策略与终点。允许在未建目标位前改型；已建方案则拒绝，避免同一目标位两套执行。接口 `POST .../goals/{id}/reroute`。
@@ -20,8 +20,9 @@
 ## 选香
 
 - **F06 解析参照** `search` + `_exact`：产品名与版本走精确匹配，允许的目录关系才进结果，仅「建议」关系的进线索。接口 `POST /api/search`、`POST /api/target`。
-- **F06a 贴标签** `intelligence.targeting.tag_direction(brief, mode, catalog, scoring_config, model)`：输入是目标字段，至少含应用品类、人群、市场、香气原文与家族、排除项、客户要求；候选是本品类的 C 叶子，每个带 C 左侧判定指导与可展开的 A/B。模型只选 C 并给逐字依据，C→A/B 由 `catalog.edges` 展开。结果含 `groups / items / used_conditions / unmapped / method / dictionary_version`，写 `goal.fields.targeting`，检索时直接使用。模型不可用时退回 `ranking.parse_text` 的词面匹配。
+- **F06a 贴标签** `intelligence.targeting.tag_direction(brief, mode, catalog, scoring_config, model, trace=None)`：输入是目标字段，至少含应用品类、人群、市场、香气原文与家族、排除项、客户要求；候选是本品类的 C 叶子，每个带 C 左侧判定指导与可展开的 A/B。模型只选 C 并给逐字依据，C→A/B 由 `catalog.edges` 展开。结果含 `groups / items / used_conditions / unmapped / method / dictionary_version`，写 `goal.fields.targeting`，检索时直接使用。模型不可用时退回 `ranking.parse_text` 的词面匹配；每次真实请求写入 `llm_call`。
 - **F06b 按目标检索** `search(..., goal_id=)`：用目标的 `application_id` 作为品类、`targeting.groups` 作为标签组、目标价格作为上下限；没有打标结果时先打一次并缓存。
+- **F06c 看模型调用** `llm_calls(project_id)` / `llm_call(id)`：返回每次请求的用途、模型、状态、system/user 原文、原始回复、错误与耗时。接口 `GET /api/projects/{id}/llm-calls`、`GET /api/llm-calls/{id}`。
 - **F07 记外部样品**：对香方向的 `sample_reference` 存在目标字段里，随方向一起确认；不单独建表，也不要求先有香精编号。
 - **F08 准备查询** `ranking.parse_text` / `normalize_query`：自由文字里认品类、价格、标签、品牌、产品与版本，写成标准查询；识别不出的词忽略，不报错。
 - **F09 排序香精** `ranking.rank`：硬条件先筛，A/B/C 打分，避开项扣分，价格与标记只影响排序。结果分「推荐 / 线索 / 同类候选」，并给 diagnostics 说明差在哪。接口 `POST /api/search`。

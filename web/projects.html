@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>项目流程 · 评香工作台</title><link rel="stylesheet" href="/style.css"><script src="/projects.js" defer></script></head>
+<body>
+<header class="topbar"><a class="wordmark" href="/projects"><span class="mark">香</span> 评香工作台</a><nav><a href="/projects" aria-current="page">项目流程</a><a href="/">选香</a><a href="/mock-platform">模拟中台</a></nav></header>
+<main class="workspace">
+  <div class="page-title"><div><h1>项目流程</h1><p id="project-summary"></p></div><div class="project-actions">
+    <label class="sr-only" for="project-select">项目</label><select id="project-select"><option value="">选择项目</option></select>
+    <button class="primary" id="add-project">新建项目</button></div></div>
+  <p id="feedback" role="status" class="muted"></p>
+  <div class="project-grid" id="project-main" hidden>
+    <aside class="stack">
+      <section class="panel"><h2>资料与反馈</h2>
+        <label for="source-text">粘贴需求或本轮反馈</label><textarea id="source-text" rows="4"></textarea>
+        <button class="quiet" id="add-text">保存文字</button>
+        <label for="source-files">上传资料</label><input id="source-files" type="file" multiple accept=".txt,.md,.pdf,.docx,.pptx,.xlsx,.png,.jpg,.jpeg,.webp">
+        <label class="check"><input type="checkbox" id="visual"> 使用 Paratera 读取图片和扫描页</label>
+        <button class="quiet" id="add-files">上传并读取</button>
+        <div id="source-list"></div>
+        <button class="primary full" id="parse">拆解所选资料</button>
+      </section>
+      <section class="panel"><h2>已记录寄样</h2><div id="shipments"></div></section>
+    </aside>
+    <section class="stack">
+      <section class="panel" id="draft-panel"><div class="section-line"><h2>需求草案</h2><button class="quiet" id="add-direction">手填方向</button></div>
+        <p id="draft-meta" class="small muted"></p><div id="draft-shared"></div><div id="draft-issues"></div>
+        <div id="directions" class="stack"></div><button id="confirm" class="primary full" hidden>确认并创建轮次</button>
+      </section>
+      <section class="panel"><div class="section-line"><h2>轮次与执行</h2><button class="quiet" id="refresh">刷新回执</button></div><div id="rounds" class="stack"></div></section>
+    </section>
+  </div>
+</main>
+<dialog id="new-dialog"><form id="new-form"><div class="section-line"><h2>新建项目</h2><button data-close="new-dialog" type="button" class="quiet">关闭</button></div>
+  <label for="new-name">项目名称</label><input id="new-name" required><label for="new-brief">需求原文（可稍后上传）</label><textarea id="new-brief" rows="4"></textarea>
+  <button class="primary" type="submit">创建项目</button><p id="new-status" role="status"></p>
+</form></dialog>
+<dialog id="step-dialog"><form id="step-form"><div class="section-line"><h2 id="step-title"></h2><button data-close="step-dialog" type="button" class="quiet">关闭</button></div>
+  <div id="step-fields"></div><button class="primary" type="submit">确认</button><p id="step-status" role="status"></p>
+</form></dialog>
+</body></html>

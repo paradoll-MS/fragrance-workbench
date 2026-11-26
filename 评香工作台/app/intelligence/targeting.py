@@ -73,7 +73,9 @@ def _fallback(brief, mode, catalog, scoring_config, reason):
             if len(found) == 1 and NEGATIVE.search(str(item)):
                 groups.append({"role": "avoid", "op": "ANY", "tags": sorted(found), "source": item})
     return {"groups": groups, "c_ids": [], "items": [], "used_conditions": [],
-            "unmapped": [reason] if reason else [], "method": "字典词面（模型未参与）",
+            "unmapped": [reason] if reason else [],
+            "method": "字典词面（模型结果未采纳）" if reason.startswith(("标签模型", "没有可用"))
+                      else "字典词面（模型未参与）",
             "dictionary_version": catalog.dictionary_version}
 
 

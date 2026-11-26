@@ -107,7 +107,26 @@ DirectionBrief 方向级，只写与项目级不同或项目级没有的：
 - 价格上下限用目标字段；文字只作展示，不再覆盖标签。
 - 没给 goal_id 时仍可按自由文字检索，走 `parse_text` 的老路。
 
-## 6 明确不做的事
+## 6 每次调用在哪里看
+
+项目页最下面有「模型调用」，按时间倒序列出这个项目的每一次请求：
+
+- 一行一条：用途（拆解资料／打标签／图片转写）、模型、状态、耗时、时间。
+- 点「看请求」打开三块：产出要求（system）、输入（user）、返回（或错误）。
+- 产出要求就是当次真正发给模型的 system 原文，包含字段清单、拆分规则和输出 JSON 形状；不是事后重写的说明。
+- 输入是真正发给模型的 user 原文，已做联系方式脱敏；图片调用的 base64 不入库，只留「[图片已省略]」。
+- 返回保留原文，即使 JSON 解析失败或被校验拒绝，也能看到模型到底写了什么。
+
+对应的表和接口：
+
+- 表 `llm_call`：`project_id / purpose / model / status / request / response / error / seconds`。
+- `GET /api/projects/{id}/llm-calls`：列表，只带长度，不带全文。
+- `GET /api/llm-calls/{id}`：单次全文。
+- 代码里的固定文本：`intelligence/parse.py` 的 `PROMPT`、`intelligence/targeting.py` 的 `INSTRUCTIONS`；组装输入的 `propose()` 与 `tag_direction()` 紧挨着它们。
+
+没有记录的调用：在进入模型前就返回的（如品类未定、没有香气描述），因为不存在请求；这些情况在打标结果的 `method` 和 `unmapped` 里说明。
+
+## 7 明确不做的事
 
 - 不在 parse 阶段判断方向类型之外的事（不选香、不判合规）。
 - 不把法规条文变成 C 标签，也不让法规条文进 required 香气组。

@@ -36,6 +36,7 @@
 
 - `source`：原件，`(project_id, name, sha256)` 唯一。
 - `parse_draft`：拆解草案与确认结果，模型原始输出不改写。
+- `llm_call`：每次模型请求的完整快照，按 `(project_id, id)` 查询；请求含 system/user，回复含原文，图片以占位符入库。
 - `asset_edit`：人工改标签/关系，`payload` 带 manual 标记与前后值。
 - `issue`：当前阻断，`(scope_type, scope_id, code)` 唯一，`state` 为 open / resolved。
 - `audit`：每次写库一条，含命令、对象、动作、摘要与 revision。

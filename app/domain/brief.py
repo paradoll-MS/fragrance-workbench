@@ -219,11 +219,21 @@ def conditions_from(brief, shared=None):
     return conditions
 
 
-def merge(shared, direction, application_id="", review_category_id=""):
+def mode_for(entry):
+    if entry == "recommend_brand":
+        return "recommend_brand"
+    if entry == "with_sample":
+        return "with_sample"
+    return "recommend_simple"
+
+
+def merge(shared, direction, application_id="", review_category_id="", mode=""):
     """Goal fields: project conditions, direction overrides, filed as one brief."""
     shared = shared or {}
     direction = direction or {}
     fields = {}
+    if mode:
+        fields["mode"] = mode
     for key in ("markets", "substrate", "end_product", "dosage_text", "deadline_text",
                 "sample_form", "price_text", "price_rule", "price_min", "price_max",
                 "price_target", "quantity_text", "target_audience", "age_band", "gender",

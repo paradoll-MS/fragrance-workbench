@@ -99,6 +99,7 @@ class BriefTest(unittest.TestCase):
                 goal = dict(db.execute("SELECT * FROM goal WHERE id=?", (item["goal_id"],)).fetchone())
             fields = json.loads(goal["fields"])
             self.assertEqual("6-12 岁儿童", fields["target_audience"])
+            self.assertEqual("recommend_brand", fields["mode"])
             self.assertEqual(["CN"], fields["markets"])
             self.assertTrue(fields["requirements"])
             self.assertIn("regulatory", {row["kind"] for row in fields["requirements"]})

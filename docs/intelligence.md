@@ -1,4 +1,4 @@
-﻿# 信息提取与标签映射
+# 信息提取与标签映射
 
 这一份说的是「客户资料怎么变成可执行的字段」，以及「这些字段怎么进筛选」。
 两个 LLM 节点：parse/拆解 与 targeting/贴标签。其它环节不调模型。
@@ -20,6 +20,7 @@ DirectionBrief 方向级，只写与项目级不同或项目级没有的：
 - 身份：title、scent_text（客户对这个方向的香气原话）、scent_notes、scent_families[]
 - 取舍：exclusions[]（明确不要）、feelings[]、scenes[]、references[]
 - 覆盖：application_id、review_category_id、substrate、end_product、dosage_text、target_audience、markets
+- 模式：mode（recommend_simple / recommend_brand / with_sample），由入口决定，确认时落进 `goal.fields`
 - 该方向额外要求：requirements[]
 
 继承规则：方向没有写的字段沿用项目级；写了就覆盖；两边都没有就留空，不推断。

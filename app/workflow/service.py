@@ -175,7 +175,8 @@ class Workbench:
         direction_brief = direction.get("brief") or brief_model.from_conditions(conditions)
         fields = brief_model.merge(shared or {}, direction_brief,
                                    application_id=conditions.get("application_id", ""),
-                                   review_category_id=conditions.get("review_category_id", ""))
+                                   review_category_id=conditions.get("review_category_id", ""),
+                                   mode=brief_model.mode_for(entry))
         for key in ("markets", "deadline_text", "sample_form", "dose_text"):
             if key not in fields and conditions.get(key):
                 fields[key] = conditions[key]
@@ -771,10 +772,7 @@ class Workbench:
             fields = loads(goal["fields"], {})
         if (fields.get("targeting") or {}).get("groups"):
             return fields["targeting"]
-        mode = "recommend_brand" if subproject and subproject["requirement_type"] == "recommend_brand" \
-            else "recommend_simple"
-        if subproject and subproject["requirement_type"] == "with_sample":
-            mode = "with_sample"
+        mode = fields.get("mode") or brief_model.mode_for(subproject["requirement_type"] if subproject else "")
         result = targeting.tag_direction(fields, mode, self.catalog, self.config)
         with self.store.transaction() as db:
             fresh = loads(row(db, "SELECT fields FROM goal WHERE id=?", (goal_id,))["fields"], {})
